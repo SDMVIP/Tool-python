@@ -8,7 +8,7 @@ from rich.progress import SpinnerColumn
 from concurrent.futures import ThreadPoolExecutor as tred
 from rich.panel import Panel as nel
 import webbrowser
-
+webbrowser.open('https://t.me/py_1hon')
 a1 = '\x1b[1;31m'  # أحمر
 a2 = '\x1b[1;34m'  # أزرق
 a3 = '\x1b[1;32m'  # أخضر
@@ -165,10 +165,10 @@ from rich.columns import Columns
 wa = Console()
 try:
 	prox= requests.get('https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=80000&country=all&ssl=all&anonymity=all').text
-	open('.prox_SDMXT.txt','w').write(prox)
+	open('.prox_SDMVSS.txt','w').write(prox)
 except Exception as e:
 	print('[\x1b[1;92m•\x1b1;97m] [\x1b[1;96mتـم تبديل لبروكس')
-prox=open('.prox_wdeh.txt','r').read().splitlines()
+prox=open('.prox_SDMVSS.txt','r').read().splitlines()
 import os,sys,uuid,requests,time
 O = '\x1b[38;5;208m' #برتقالي
 F = '\033[1;32m' #اخضر
