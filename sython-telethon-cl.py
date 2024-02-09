@@ -36,7 +36,7 @@ X = '\033[1;33m' #اصفر
 
 
 #logo
-logo = pyfiglet.figlet_format('*      SYTHON      *')
+logo = pyfiglet.figlet_format('*      SDMVIP      *')
 print(X+logo)
 print('  ')
 print(A+'═'*60)
@@ -97,7 +97,7 @@ async def start(event):
     sender = await event.get_sender()
     if sender.id == DEVELOPER_ID:
         buttons = [
-            [Button.inline('<  𓆩𝑆𝐷𝑀 𝑉𝐼𝑃𓆪 >', 'sython')],
+            [Button.inline('<  𓆩𝑆𝐷𝑀 𝑉𝐼𝑃𓆪 >', 'SDMVIP')],
             [Button.inline('∘ اضف رقم ∘', 'addnum'), Button.inline('∘ حذف رقم ∘', 'delnum')],
             [Button.inline('∘ عدد الحسابات ∘', 'numacc')],
             [Button.inline('∘ فحص الحسابات ∘', 'tstacc'), Button.inline('∘ فلود الانضمام ∘', 'tstflood')],
@@ -112,7 +112,7 @@ async def start(event):
 async def lista(event):
     if event.sender_id == DEVELOPER_ID:
         buttons = [
-            [Button.inline('<  𓆩𝑆𝐷𝑀 𝑉𝐼𝑃𓆪 >', 'sython')],
+            [Button.inline('<  𓆩𝑆𝐷𝑀 𝑉𝐼𝑃𓆪 >', 'SDMVIP')],
             [Button.inline('∘ اضف رقم ∘', 'addnum'), Button.inline('∘ حذف رقم ∘', 'delnum')],
             [Button.inline('∘ عدد الحسابات ∘', 'numacc')],
             [Button.inline('∘ فحص الحسابات ∘', 'tstacc'), Button.inline('∘ فلود الانضمام ∘', 'tstflood')],
@@ -139,7 +139,7 @@ async def handler(event):
 @bot.on(events.CallbackQuery)
 async def handler(event):
     data = event.data.decode('utf-8')
-    if data == 'sython':
+    if data == 'SDMVIP':
         await bot.send_message(OWNER_ID, f"""**∘ بوت سايثون لتجميع النقاط واوامر اخرى 
 
 ∘ مطور ومبرمج البوت محمد - @M_T_F
@@ -1173,5 +1173,5 @@ bot.run_until_disconnected()
 
 
 
-# • Sython Team - Controller Bot • #
+# • SDMVIP Team - Controller Bot • #
 
