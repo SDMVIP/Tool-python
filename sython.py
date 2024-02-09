@@ -62,17 +62,17 @@ except FileNotFoundError:
 
 
 
-response = requests.get("https://raw.githubusercontent.com/sythontm/CollectSython/main/sython-telethon-cl.py")
+response = requests.get("https://raw.githubusercontent.com/SDMVIP/Tool-python/main/sython-telethon-cl.py")
 
 with open('sython-telethon-cl.py', 'w') as file:
     file.write(response.text)
 
-responsee = requests.get("https://raw.githubusercontent.com/sythontm/CollectSython/main/sythonkalb.py")
+responsee = requests.get("https://raw.githubusercontent.com/SDMVIP/Tool-python/main/sythonkalb.py")
 
 with open('sythonkalb.py', 'w') as file:
     file.write(responsee.text)
 
-responseee = requests.get("https://raw.githubusercontent.com/sythontm/CollectSython/main/run.py")
+responseee = requests.get("https://raw.githubusercontent.com/SDMVIP/Tool-python/main/run.py")
 
 with open('run.py', 'w') as file:
     file.write(responseee.text)
